@@ -269,7 +269,7 @@ router.post('/', async (ctx, next) => {
     console.log(body.header);
     // console.log(body.payload);
     const header = body.header;
-    if (header.event_type && header.event_type == 'WorkitemUpdateEvent') {
+    if (header&&header.event_type && header.event_type == 'WorkitemUpdateEvent') {
         updateConclusion(body);
     }
 

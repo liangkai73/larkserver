@@ -223,7 +223,8 @@ async function getUpdateItemIdArr(larkService, cArr, fArr, type = 'nomal') {
                         {
                             "param_key": quanzhongKey,
                             "value": fArr[0].version_weights,
-                            "operator": "<"
+                            // 飞书Bug hotfix 这里只能用<= 用<查不到
+                            "operator": "<="
                         }
                     ]
                 }
@@ -235,10 +236,15 @@ async function getUpdateItemIdArr(larkService, cArr, fArr, type = 'nomal') {
                     "operator": "="
                 })
             }
+            console.log(params);
             // console.dir(params.search_group);
             const res = await larkService.searchByParams(workItemEnum['版本管理'], params)
             reSultArr = res.data
-            // console.log(reSultArr)
+            reSultArr = reSultArr.filter(item => {
+                const fixEndItemArr = item.fields.filter(node => node.field_alias == 'version_weights');
+                let fixEndItem = fixEndItemArr[0] || {}
+                return fixEndItem.field_value != fArr[0].version_weights
+            })
             break
         // 引入版本为单个&修复版本为多个
         case 2:
@@ -324,7 +330,6 @@ async function getUpdateItemIdArr(larkService, cArr, fArr, type = 'nomal') {
             break
     }
     reSultArr = await filterGloble(larkService, reSultArr)
-    console.log(reSultArr)
     return reSultArr.map(i => i.id)
 }
 /**
@@ -352,6 +357,13 @@ async function updateVersionItem(larkService, itemidArr, params, log = '默认�
                 console.log(id + log + ':error')
             }))
         });
+        let temTimer = new Promise((resolve, reject) => {
+            setTimeout(() => {
+                resolve(true)
+                console.log('时间占位1500ms:success')
+            }, 1500);
+        })
+        asyncArr.push(temTimer)
         return Promise.all(asyncArr)
     };
 
