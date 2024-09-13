@@ -24,6 +24,9 @@ function mergeFiles(larkService, data, id = 4423270747) {
     function getMergeLink(str, newUrl) {
         const regex = new RegExp('\n', 'g');
         const index = (str.match(regex) || []).length;
+        if (str.includes(newUrl)) {
+            return str
+        }
         return str + `${index + 1}. ${newUrl}`
     }
     // 更新工作项-function
@@ -44,7 +47,12 @@ function mergeFiles(larkService, data, id = 4423270747) {
             const { fields } = res.data[0];
 
             const mergeVersion = fields.filter(i => {
-                return i.field_alias == 'merge_version'
+                if (type == '需求') {
+                    return i.field_alias == 'merge_version'
+                } else {
+                    return i.field_alias == 'repairedition'
+                }
+
             })
             const mergeLink = fields.filter(i => {
                 return i.field_alias == 'merge_link'
@@ -55,7 +63,7 @@ function mergeFiles(larkService, data, id = 4423270747) {
             const updateParams = {
                 "update_fields": [
                     {
-                        "field_alias": "merge_version",
+                        "field_alias": type == '需求' ? "merge_version" : 'repairedition',
                         "field_value": versionArr
                     }
                 ]
@@ -68,6 +76,8 @@ function mergeFiles(larkService, data, id = 4423270747) {
                     }
                 ]
             }
+            console.log('updateParams', updateParams)
+            console.log('updateParams2', updateParams2)
             larkService.updateWorkItem(typeKey, i.ItemId, updateParams).then(res => {
                 console.log(type + '更新成功！------------------------' + i.ItemId)
             }).catch(err => {

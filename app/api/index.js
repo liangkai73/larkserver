@@ -6,6 +6,7 @@ const config = require('../../config')
 const { encryption, decryption, md5cryption } = require('../../utils/crypto')
 const { getDateStr, getSEQ } = require('../../utils/tools')
 const { updateConclusion } = require("../../plugin/gitlab_to_lark_mergedata/updateConclusion");
+const { temMigrate } = require("../../plugin/gitlab_to_lark_mergedata/temMigrate.js");
 
 
 // 获取小蓝token认证
@@ -269,7 +270,7 @@ router.post('/', async (ctx, next) => {
     console.log(body.header);
     // console.log(body.payload);
     const header = body.header;
-    if (header&&header.event_type && header.event_type == 'WorkitemUpdateEvent') {
+    if (header && header.event_type && header.event_type == 'WorkitemUpdateEvent') {
         updateConclusion(body);
     }
 
@@ -283,7 +284,25 @@ router.post('/', async (ctx, next) => {
     next()
 
 })
+// 迁移
+router.get('/runMigrate', async (ctx, next) => {
+    console.log(ctx.request.header)
 
+    const { id } = ctx.query
+    // const { Data } = body
+    // const reldata = decryption(Date)
+
+    console.log(id);
+    temMigrate(id);
+    // console.log(body.payload);
+    obj = {
+        res: 'success'
+    }
+    ctx.response.body = JSON.stringify(obj)
+
+    next()
+
+})
 
 
 

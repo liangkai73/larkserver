@@ -1,0 +1,4327 @@
+[
+  {
+    "name": "v1.47.70-h.3",
+    "itemList": [
+      {
+        "mergeId": "17488",
+        "pingcodeId": "WSHOP-29257",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.76",
+    "itemList": [
+      {
+        "mergeId": "17510",
+        "pingcodeId": "WSHOP-28763",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.78",
+    "itemList": [
+      {
+        "mergeId": "17503",
+        "pingcodeId": "WSHOP-29263",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.rule.10.srpaysdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.77",
+    "itemList": [
+      {
+        "mergeId": "17490",
+        "pingcodeId": "WSHOP-29259",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17518",
+        "pingcodeId": "WSHOP-29306",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.16",
+    "itemList": [
+      {
+        "mergeId": "17509",
+        "pingcodeId": "WSHOP-28763",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.17",
+    "itemList": [
+      {
+        "mergeId": "17517",
+        "pingcodeId": "WSHOP-29306",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17515",
+        "pingcodeId": "WSHOP-29242",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17490",
+        "pingcodeId": "WSHOP-29259",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.70-h.2.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17505",
+        "pingcodeId": "WSHOP-29272",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.18",
+    "itemList": [
+      {
+        "mergeId": "17503",
+        "pingcodeId": "WSHOP-29263",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17403",
+        "pingcodeId": "WSHOP-28833",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.15",
+    "itemList": [
+      {
+        "mergeId": "17496",
+        "pingcodeId": "WSHOP-29237",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.rule.9",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.74",
+    "itemList": [
+      {
+        "mergeId": "17499",
+        "pingcodeId": "WSHOP-29268",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17469",
+        "pingcodeId": "WSHOP-29230",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.rule.10",
+    "itemList": [
+      {
+        "mergeId": "17508",
+        "pingcodeId": "WSHOP-29070",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.13",
+    "itemList": [
+      {
+        "mergeId": "17499",
+        "pingcodeId": "WSHOP-29268",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17495",
+        "pingcodeId": "WSHOP-29264",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17469",
+        "pingcodeId": "WSHOP-29230",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.70-h.2.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17505",
+        "pingcodeId": "WSHOP-29272",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.14",
+    "itemList": [
+      {
+        "mergeId": "17505",
+        "pingcodeId": "WSHOP-29272",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.70-h.1",
+    "itemList": [
+      {
+        "mergeId": "17499",
+        "pingcodeId": "WSHOP-29268",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.73",
+    "itemList": [
+      {
+        "mergeId": "17328",
+        "pingcodeId": "WSHOP-28934",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17378",
+        "pingcodeId": "WSHOP-29057",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.75",
+    "itemList": [
+      {
+        "mergeId": "17505",
+        "pingcodeId": "WSHOP-29272",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.70-h.2",
+    "itemList": [
+      {
+        "mergeId": "17505",
+        "pingcodeId": "WSHOP-29272",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.11",
+    "itemList": [
+      {
+        "mergeId": "17491",
+        "pingcodeId": "WSHOP-29261",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17488",
+        "pingcodeId": "WSHOP-29257",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.7",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.8",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.9",
+    "itemList": [
+      {
+        "mergeId": "17481",
+        "pingcodeId": "WSHOP-29255",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.69",
+    "itemList": [
+      {
+        "mergeId": "17481",
+        "pingcodeId": "WSHOP-29255",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.86",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.10",
+    "itemList": [
+      {
+        "mergeId": "17484",
+        "pingcodeId": "WSHOP-29256",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.70",
+    "itemList": [
+      {
+        "mergeId": "17487",
+        "pingcodeId": "WSHOP-29256",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.72",
+    "itemList": [
+      {
+        "mergeId": "17491",
+        "pingcodeId": "WSHOP-29261",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17488",
+        "pingcodeId": "WSHOP-29257",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.12",
+    "itemList": [
+      {
+        "mergeId": "17498",
+        "pingcodeId": "WSHOP-29057",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17328",
+        "pingcodeId": "WSHOP-28934",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.7",
+    "itemList": [
+      {
+        "mergeId": "17468",
+        "pingcodeId": "WSHOP-29224",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.4",
+    "itemList": [
+      {
+        "mergeId": "17462",
+        "pingcodeId": "WSHOP-29086",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17449",
+        "pingcodeId": "WSHOP-28821",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17449",
+        "pingcodeId": "WSHOP-28879",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17449",
+        "pingcodeId": "WSHOP-29095",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17449",
+        "pingcodeId": "WSHOP-29205",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.65",
+    "itemList": [
+      {
+        "mergeId": "17460",
+        "pingcodeId": "WSHOP-29218",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17267",
+        "pingcodeId": "WSHOP-29015",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.5",
+    "itemList": [
+      {
+        "mergeId": "17460",
+        "pingcodeId": "WSHOP-29218",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17267",
+        "pingcodeId": "WSHOP-29015",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.8",
+    "itemList": [
+      {
+        "mergeId": "17473",
+        "pingcodeId": "WSHOP-29227",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17464",
+        "pingcodeId": "WSHOP-29221",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17461",
+        "pingcodeId": "WSHOP-29201",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.68",
+    "itemList": [
+      {
+        "mergeId": "17473",
+        "pingcodeId": "WSHOP-29227",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17464",
+        "pingcodeId": "WSHOP-29221",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17478",
+        "pingcodeId": "WSHOP-29201",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.67",
+    "itemList": [
+      {
+        "mergeId": "17468",
+        "pingcodeId": "WSHOP-29224",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.6",
+    "itemList": [
+      {
+        "mergeId": "17471",
+        "pingcodeId": "WSHOP-29198",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.66",
+    "itemList": [
+      {
+        "mergeId": "17471",
+        "pingcodeId": "WSHOP-29198",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.64",
+    "itemList": [
+      {
+        "mergeId": "17462",
+        "pingcodeId": "WSHOP-29086",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.fb.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.3",
+    "itemList": [
+      {
+        "mergeId": "17459",
+        "pingcodeId": "WSHOP-29216",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17424",
+        "pingcodeId": "WSHOP-29011",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.nsap.risk.4",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.f.sproutpay.4",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.63",
+    "itemList": [
+      {
+        "mergeId": "17426",
+        "pingcodeId": "WSHOP-29011",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.f.sproutpay.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.0-beta.23",
+    "itemList": [
+      {
+        "mergeId": "17279",
+        "pingcodeId": "WSHOP-28906",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.22",
+    "itemList": [
+      {
+        "mergeId": "17447",
+        "pingcodeId": "WSHOP-29186",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17436",
+        "pingcodeId": "WSHOP-29160",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17435",
+        "pingcodeId": "WSHOP-29157",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.21",
+    "itemList": [
+      {
+        "mergeId": "17452",
+        "pingcodeId": "WSHOP-29198",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.18",
+    "itemList": [
+      {
+        "mergeId": "17433",
+        "pingcodeId": "WSHOP-29171",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17418",
+        "pingcodeId": "WSHOP-29133",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.aliyun.f.sproutpay.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.0-beta.20",
+    "itemList": [
+      {
+        "mergeId": "17442",
+        "pingcodeId": "WSHOP-29182",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.rule.8",
+    "itemList": [
+      {
+        "mergeId": "17433",
+        "pingcodeId": "WSHOP-29171",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.61",
+    "itemList": [
+      {
+        "mergeId": "17418",
+        "pingcodeId": "WSHOP-29133",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.62",
+    "itemList": [
+      {
+        "mergeId": "17452",
+        "pingcodeId": "WSHOP-29198",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.19",
+    "itemList": [
+      {
+        "mergeId": "17422",
+        "pingcodeId": "WSHOP-29044",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.rule.8.srpaysdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.f.pobox.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.0-beta.17",
+    "itemList": [
+      {
+        "mergeId": "17428",
+        "pingcodeId": "WSHOP-29163",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.10.f.tracklog",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.f.sproutpay.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.2.f.xbsdk.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.f.xbsdk.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.60",
+    "itemList": [
+      {
+        "mergeId": "17428",
+        "pingcodeId": "WSHOP-29163",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.srpaysdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.f.stats.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.0-beta.16.press.1",
+    "itemList": [
+      {
+        "mergeId": "17431",
+        "pingcodeId": "WSHOP-29169",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.6",
+    "itemList": [
+      {
+        "mergeId": "17379",
+        "pingcodeId": "WSHOP-29070",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17379",
+        "pingcodeId": "WSHOP-29092",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17379",
+        "pingcodeId": "WSHOP-29097",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.7.srpaysdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.0-beta.14",
+    "itemList": [
+      {
+        "mergeId": "17427",
+        "pingcodeId": "WSHOP-29100",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.15",
+    "itemList": [
+      {
+        "mergeId": "17423",
+        "pingcodeId": "WSHOP-29146",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17423",
+        "pingcodeId": "WSHOP-29151",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.16",
+    "itemList": [
+      {
+        "mergeId": "17431",
+        "pingcodeId": "WSHOP-29169",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.13",
+    "itemList": [
+      {
+        "mergeId": "17417",
+        "pingcodeId": "WSHOP-29136",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17380",
+        "pingcodeId": "WSHOP-29066",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17379",
+        "pingcodeId": "WSHOP-29070",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17379",
+        "pingcodeId": "WSHOP-29092",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17379",
+        "pingcodeId": "WSHOP-29097",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.ppgooglepay.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6.ppgooglepay.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.7",
+    "itemList": [
+      {
+        "mergeId": "17425",
+        "pingcodeId": "WSHOP-29151",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.ppgooglepay.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.5",
+    "itemList": [
+      {
+        "mergeId": "17414",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.2.f.xbsdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.1",
+    "itemList": [
+      {
+        "mergeId": "17388",
+        "pingcodeId": "WSHOP-29023",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17407",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.3",
+    "itemList": [
+      {
+        "mergeId": "17407",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.58",
+    "itemList": [
+      {
+        "mergeId": "17413",
+        "pingcodeId": "WSHOP-29137",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.59",
+    "itemList": [
+      {
+        "mergeId": "17419",
+        "pingcodeId": "WSHOP-29115",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.4",
+    "itemList": [
+      {
+        "mergeId": "17407",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.12",
+    "itemList": [
+      {
+        "mergeId": "17401",
+        "pingcodeId": "WSHOP-29115",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6-f.rule.2",
+    "itemList": [
+      {
+        "mergeId": "17406",
+        "pingcodeId": "WSHOP-29127",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.11",
+    "itemList": [
+      {
+        "mergeId": "17413",
+        "pingcodeId": "WSHOP-29137",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.8",
+    "itemList": [
+      {
+        "mergeId": "17374",
+        "pingcodeId": "WSHOP-29079",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17351",
+        "pingcodeId": "WSHOP-28987",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.55",
+    "itemList": [
+      {
+        "mergeId": "17374",
+        "pingcodeId": "WSHOP-29079",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17351",
+        "pingcodeId": "WSHOP-28987",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.10",
+    "itemList": [
+      {
+        "mergeId": "17408",
+        "pingcodeId": "WSHOP-29035",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17323",
+        "pingcodeId": "WSHOP-28986",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17402",
+        "pingcodeId": "WSHOP-29109",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17402",
+        "pingcodeId": "WSHOP-29127",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17383",
+        "pingcodeId": "WSHOP-29062",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17223",
+        "pingcodeId": "WSHOP-29074",
+        "type": "需求"
+      },
+      {
+        "mergeId": "272",
+        "pingcodeId": "WSHOP-29074",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.57",
+    "itemList": [
+      {
+        "mergeId": "17408",
+        "pingcodeId": "WSHOP-29035",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.54",
+    "itemList": [
+      {
+        "mergeId": "17373",
+        "pingcodeId": "WSHOP-29028",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17347",
+        "pingcodeId": "WSHOP-29035",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17384",
+        "pingcodeId": "WSHOP-28877",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.9",
+    "itemList": [
+      {
+        "mergeId": "17395",
+        "pingcodeId": "WSHOP-29107",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17388",
+        "pingcodeId": "WSHOP-29023",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17364",
+        "pingcodeId": "WSHOP-29061",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.f.refundform.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.48.0-beta.7",
+    "itemList": [
+      {
+        "mergeId": "17377",
+        "pingcodeId": "WSHOP-28877",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17373",
+        "pingcodeId": "WSHOP-29028",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17347",
+        "pingcodeId": "WSHOP-29035",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.56",
+    "itemList": [
+      {
+        "mergeId": "17395",
+        "pingcodeId": "WSHOP-29107",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17370",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.5.f.stats.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.85",
+    "itemList": [
+      {
+        "mergeId": "17358",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.6",
+    "itemList": [
+      {
+        "mergeId": "17372",
+        "pingcodeId": "WSHOP-28977",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17366",
+        "pingcodeId": "WSHOP-29072",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.51",
+    "itemList": [
+      {
+        "mergeId": "17352",
+        "pingcodeId": "WSHOP-28997",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.5",
+    "itemList": [
+      {
+        "mergeId": "17358",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6",
+    "itemList": [
+      {
+        "mergeId": "17370",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.6.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17370",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.52",
+    "itemList": [
+      {
+        "mergeId": "17358",
+        "pingcodeId": "WSHOP-29053",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.53",
+    "itemList": [
+      {
+        "mergeId": "17372",
+        "pingcodeId": "WSHOP-28977",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17366",
+        "pingcodeId": "WSHOP-29072",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.4",
+    "itemList": [
+      {
+        "mergeId": "17352",
+        "pingcodeId": "WSHOP-28997",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.5.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17335",
+        "pingcodeId": "WSHOP-28999",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.1",
+    "itemList": [
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-28275",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22991",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22995",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22993",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22997",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22998",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22999",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23012",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23187",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23188",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23189",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23741",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23742",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-23810",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-24923",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-25103",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-26652",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-27014",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-27837",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-27838",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-24383",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-28035",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-28266",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-28206",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-27660",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17327",
+        "pingcodeId": "WSHOP-22266",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.2",
+    "itemList": [
+      {
+        "mergeId": "17355",
+        "pingcodeId": "WSHOP-29052",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17301",
+        "pingcodeId": "WSHOP-28499",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.5.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17335",
+        "pingcodeId": "WSHOP-28999",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.5.f.stats.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.50",
+    "itemList": [
+      {
+        "mergeId": "17357",
+        "pingcodeId": "WSHOP-29058",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17350",
+        "pingcodeId": "WSHOP-29045",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.48.0-beta.3",
+    "itemList": [
+      {
+        "mergeId": "17357",
+        "pingcodeId": "WSHOP-29058",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17350",
+        "pingcodeId": "WSHOP-29045",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.47",
+    "itemList": [
+      {
+        "mergeId": "17260",
+        "pingcodeId": "WSHOP-28877",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.48",
+    "itemList": [
+      {
+        "mergeId": "17316",
+        "pingcodeId": "WSHOP-28963",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17292",
+        "pingcodeId": "WSHOP-28936",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.49",
+    "itemList": [
+      {
+        "mergeId": "17355",
+        "pingcodeId": "WSHOP-29052",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17301",
+        "pingcodeId": "WSHOP-28499",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.5-f.rule.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.4",
+    "itemList": [
+      {
+        "mergeId": "17334",
+        "pingcodeId": "WSHOP-28884",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.5",
+    "itemList": [
+      {
+        "mergeId": "17335",
+        "pingcodeId": "WSHOP-28999",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.3.f.ppgooglepay.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.3.f.ppgooglepay.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.46",
+    "itemList": [
+      {
+        "mergeId": "17335",
+        "pingcodeId": "WSHOP-28999",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.45",
+    "itemList": [
+      {
+        "mergeId": "17337",
+        "pingcodeId": "WSHOP-28998",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17336",
+        "pingcodeId": "WSHOP-28993",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17331",
+        "pingcodeId": "WSHOP-28873",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.84",
+    "itemList": [
+      {
+        "mergeId": "17335",
+        "pingcodeId": "WSHOP-28999",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.83",
+    "itemList": [
+      {
+        "mergeId": "17332",
+        "pingcodeId": "WSHOP-28884",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.44",
+    "itemList": [
+      {
+        "mergeId": "17330",
+        "pingcodeId": "WSHOP-28884",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.3.f.stats.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.f.nsapexpress.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.42",
+    "itemList": [
+      {
+        "mergeId": "17320",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17317",
+        "pingcodeId": "WSHOP-28958",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.3.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17320",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.81",
+    "itemList": [
+      {
+        "mergeId": "17320",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.3.f.ppgooglepay.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.43",
+    "itemList": [
+      {
+        "mergeId": "17325",
+        "pingcodeId": "WSHOP-28965",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17324",
+        "pingcodeId": "WSHOP-28939",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.82",
+    "itemList": [
+      {
+        "mergeId": "17325",
+        "pingcodeId": "WSHOP-28965",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.3.f.stats.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.3.f.stats.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.73-h.3.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17320",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.3",
+    "itemList": [
+      {
+        "mergeId": "17320",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.40",
+    "itemList": [
+      {
+        "mergeId": "17307",
+        "pingcodeId": "WSHOP-28959",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17310",
+        "pingcodeId": "WSHOP-28957",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.79",
+    "itemList": [
+      {
+        "mergeId": "17314",
+        "pingcodeId": "WSHOP-28959",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17311",
+        "pingcodeId": "WSHOP-28957",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.80",
+    "itemList": [
+      {
+        "mergeId": "17318",
+        "pingcodeId": "WSHOP-28931",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.2",
+    "itemList": [
+      {
+        "mergeId": "17311",
+        "pingcodeId": "WSHOP-28957",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.41",
+    "itemList": [
+      {
+        "mergeId": "17305",
+        "pingcodeId": "WSHOP-28931",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.39",
+    "itemList": [
+      {
+        "mergeId": "17300",
+        "pingcodeId": "WSHOP-28946",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17235",
+        "pingcodeId": "WSHOP-28832",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.2.f.srpaysdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.78",
+    "itemList": [
+      {
+        "mergeId": "17298",
+        "pingcodeId": "WSHOP-28930",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.37",
+    "itemList": [
+      {
+        "mergeId": "17295",
+        "pingcodeId": "WSHOP-28937",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.ppapplepay.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.f.stats.4",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.36",
+    "itemList": [
+      {
+        "mergeId": "17291",
+        "pingcodeId": "WSHOP-28892",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17289",
+        "pingcodeId": "WSHOP-28925",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17289",
+        "pingcodeId": "WSHOP-28927",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17272",
+        "pingcodeId": "WSHOP-28896",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17230",
+        "pingcodeId": "WSHOP-28852",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73-h.1",
+    "itemList": [
+      {
+        "mergeId": "17278",
+        "pingcodeId": "WSHOP-28908",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.38",
+    "itemList": [
+      {
+        "mergeId": "17298",
+        "pingcodeId": "WSHOP-28930",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.76",
+    "itemList": [
+      {
+        "mergeId": "17281",
+        "pingcodeId": "WSHOP-28916",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.stats.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.77",
+    "itemList": [
+      {
+        "mergeId": "17297",
+        "pingcodeId": "WSHOP-28892",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.35",
+    "itemList": [
+      {
+        "mergeId": "17281",
+        "pingcodeId": "WSHOP-28916",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17093",
+        "pingcodeId": "WSHOP-28692",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16947",
+        "pingcodeId": "WSHOP-28401",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.74",
+    "itemList": [
+      {
+        "mergeId": "17220",
+        "pingcodeId": "WSHOP-28829",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17257",
+        "pingcodeId": "WSHOP-28858",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.32",
+    "itemList": [
+      {
+        "mergeId": "17249",
+        "pingcodeId": "WSHOP-28858",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17220",
+        "pingcodeId": "WSHOP-28829",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17218",
+        "pingcodeId": "WSHOP-28806",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.stats.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.f.ppapplepay.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.34",
+    "itemList": [
+      {
+        "mergeId": "17287",
+        "pingcodeId": "WSHOP-28920",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.nsapexpress.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.f.stats.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.f.nsapexpress.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.75",
+    "itemList": [
+      {
+        "mergeId": "17278",
+        "pingcodeId": "WSHOP-28908",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17243",
+        "pingcodeId": "WSHOP-28868",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.33",
+    "itemList": [
+      {
+        "mergeId": "17278",
+        "pingcodeId": "WSHOP-28908",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17243",
+        "pingcodeId": "WSHOP-28868",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.71",
+    "itemList": [
+      {
+        "mergeId": "17173",
+        "pingcodeId": "WSHOP-28546",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.ppcommand.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.72",
+    "itemList": [
+      {
+        "mergeId": "17247",
+        "pingcodeId": "WSHOP-28512",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17262",
+        "pingcodeId": "WSHOP-28347",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17234",
+        "pingcodeId": "WSHOP-28051",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.missdata.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.31",
+    "itemList": [
+      {
+        "mergeId": "17259",
+        "pingcodeId": "WSHOP-28614",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17252",
+        "pingcodeId": "WSHOP-28881",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17219",
+        "pingcodeId": "WSHOP-28838",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17231",
+        "pingcodeId": "WSHOP-28779",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17051",
+        "pingcodeId": "WSHOP-28890",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.30",
+    "itemList": [
+      {
+        "mergeId": "17253",
+        "pingcodeId": "WSHOP-28347",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17247",
+        "pingcodeId": "WSHOP-28512",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17234",
+        "pingcodeId": "WSHOP-28051",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.73",
+    "itemList": [
+      {
+        "mergeId": "17231",
+        "pingcodeId": "WSHOP-28779",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17051",
+        "pingcodeId": "WSHOP-28890",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.29",
+    "itemList": [
+      {
+        "mergeId": "17244",
+        "pingcodeId": "WSHOP-28778",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17173",
+        "pingcodeId": "WSHOP-28546",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.70",
+    "itemList": [
+      {
+        "mergeId": "17245",
+        "pingcodeId": "WSHOP-28870",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.28",
+    "itemList": [
+      {
+        "mergeId": "17255",
+        "pingcodeId": "WSHOP-28867",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17250",
+        "pingcodeId": "WSHOP-28876",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17248",
+        "pingcodeId": "WSHOP-28875",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17245",
+        "pingcodeId": "WSHOP-28870",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.25",
+    "itemList": [
+      {
+        "mergeId": "17238",
+        "pingcodeId": "WSHOP-28862",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.ab.transporttips.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.24",
+    "itemList": [
+      {
+        "mergeId": "17217",
+        "pingcodeId": "WSHOP-28812",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.27",
+    "itemList": [
+      {
+        "mergeId": "17241",
+        "pingcodeId": "WSHOP-28865",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17240",
+        "pingcodeId": "WSHOP-28841",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17239",
+        "pingcodeId": "WSHOP-28863",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17237",
+        "pingcodeId": "WSHOP-28789",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17229",
+        "pingcodeId": "WSHOP-28851",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17228",
+        "pingcodeId": "WSHOP-28850",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16954",
+        "pingcodeId": "WSHOP-28140",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.ab.bancontact.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.69",
+    "itemList": [
+      {
+        "mergeId": "17237",
+        "pingcodeId": "WSHOP-28789",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.68",
+    "itemList": [
+      {
+        "mergeId": "17227",
+        "pingcodeId": "WSHOP-28804",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.23",
+    "itemList": [
+      {
+        "mergeId": "17222",
+        "pingcodeId": "WSHOP-28831",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17222",
+        "pingcodeId": "WSHOP-28835",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17222",
+        "pingcodeId": "WSHOP-28839",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17222",
+        "pingcodeId": "WSHOP-28844",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17221",
+        "pingcodeId": "WSHOP-28834",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17204",
+        "pingcodeId": "WSHOP-28762",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17203",
+        "pingcodeId": "WSHOP-28442",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17080",
+        "pingcodeId": "WSHOP-28602",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17112",
+        "pingcodeId": "WSHOP-28673",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.26",
+    "itemList": [
+      {
+        "mergeId": "17227",
+        "pingcodeId": "WSHOP-28804",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17179",
+        "pingcodeId": "WSHOP-28137",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17007",
+        "pingcodeId": "WSHOP-28504",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.7",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.f.criteo",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17175",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17142",
+        "pingcodeId": "WSHOP-28753",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.21",
+    "itemList": [
+      {
+        "mergeId": "17045",
+        "pingcodeId": "WSHOP-28510",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.22",
+    "itemList": [
+      {
+        "mergeId": "16853",
+        "pingcodeId": "WSHOP-28390",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3.f.db.3",
+    "itemList": [
+      {
+        "mergeId": "17175",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.6",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.50-h.3.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17175",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.20",
+    "itemList": [
+      {
+        "mergeId": "17209",
+        "pingcodeId": "WSHOP-28814",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17202",
+        "pingcodeId": "WSHOP-28443",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17208",
+        "pingcodeId": "WSHOP-28761",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17199",
+        "pingcodeId": "WSHOP-28777",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17149",
+        "pingcodeId": "WSHOP-28742",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.5",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.67",
+    "itemList": [
+      {
+        "mergeId": "17209",
+        "pingcodeId": "WSHOP-28814",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17202",
+        "pingcodeId": "WSHOP-28443",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17199",
+        "pingcodeId": "WSHOP-28777",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17149",
+        "pingcodeId": "WSHOP-28742",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.3",
+    "itemList": [
+      {
+        "mergeId": "17142",
+        "pingcodeId": "WSHOP-28753",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.66",
+    "itemList": [
+      {
+        "mergeId": "17198",
+        "pingcodeId": "WSHOP-28808",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.4",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.18",
+    "itemList": [
+      {
+        "mergeId": "17198",
+        "pingcodeId": "WSHOP-28808",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.17",
+    "itemList": [
+      {
+        "mergeId": "17186",
+        "pingcodeId": "WSHOP-28781",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17185",
+        "pingcodeId": "WSHOP-28728",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17160",
+        "pingcodeId": "WSHOP-28524",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16936",
+        "pingcodeId": "WSHOP-28365",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.16",
+    "itemList": [
+      {
+        "mergeId": "17090",
+        "pingcodeId": "WSHOP-28641",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17090",
+        "pingcodeId": "WSHOP-28719",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.19",
+    "itemList": [
+      {
+        "mergeId": "17201",
+        "pingcodeId": "WSHOP-28811",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17196",
+        "pingcodeId": "WSHOP-28715",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17178",
+        "pingcodeId": "WSHOP-27864",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17167",
+        "pingcodeId": "WSHOP-28772",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17122",
+        "pingcodeId": "WSHOP-28714",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.ab.bancontact.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.65",
+    "itemList": [
+      {
+        "mergeId": "17160",
+        "pingcodeId": "WSHOP-28524",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17195",
+        "pingcodeId": "WSHOP-28728",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.64",
+    "itemList": [
+      {
+        "mergeId": "17136",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.12",
+    "itemList": [
+      {
+        "mergeId": "17156",
+        "pingcodeId": "WSHOP-28639",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17152",
+        "pingcodeId": "WSHOP-28520",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17150",
+        "pingcodeId": "WSHOP-28759",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17150",
+        "pingcodeId": "WSHOP-28662",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17139",
+        "pingcodeId": "WSHOP-28771",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16249",
+        "pingcodeId": "WSHOP-27294",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.13",
+    "itemList": [
+      {
+        "mergeId": "17054",
+        "pingcodeId": "WSHOP-28642",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.14",
+    "itemList": [
+      {
+        "mergeId": "17158",
+        "pingcodeId": "WSHOP-28764",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.15",
+    "itemList": [
+      {
+        "mergeId": "17133",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.ppapplepay.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.62",
+    "itemList": [
+      {
+        "mergeId": "17054",
+        "pingcodeId": "WSHOP-28642",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.63",
+    "itemList": [
+      {
+        "mergeId": "17158",
+        "pingcodeId": "WSHOP-28764",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.61",
+    "itemList": [
+      {
+        "mergeId": "17156",
+        "pingcodeId": "WSHOP-28639",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17152",
+        "pingcodeId": "WSHOP-28520",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17139",
+        "pingcodeId": "WSHOP-28771",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1",
+    "itemList": [
+      {
+        "mergeId": "17151",
+        "pingcodeId": "WSHOP-28760",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.10",
+    "itemList": [
+      {
+        "mergeId": "17143",
+        "pingcodeId": "WSHOP-28754",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.58",
+    "itemList": [
+      {
+        "mergeId": "17088",
+        "pingcodeId": "WSHOP-28712",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17066",
+        "pingcodeId": "WSHOP-28646",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.9",
+    "itemList": [
+      {
+        "mergeId": "17142",
+        "pingcodeId": "WSHOP-28753",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.59",
+    "itemList": [
+      {
+        "mergeId": "17154",
+        "pingcodeId": "WSHOP-28760",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17142",
+        "pingcodeId": "WSHOP-28753",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.8",
+    "itemList": [
+      {
+        "mergeId": "17088",
+        "pingcodeId": "WSHOP-28712",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17066",
+        "pingcodeId": "WSHOP-28646",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.60",
+    "itemList": [
+      {
+        "mergeId": "17157",
+        "pingcodeId": "WSHOP-28768",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.9",
+    "itemList": [
+      {
+        "mergeId": "17154",
+        "pingcodeId": "WSHOP-28760",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17142",
+        "pingcodeId": "WSHOP-28753",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17077",
+        "pingcodeId": "WSHOP-28664",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50-h.1.f.xbsdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.11",
+    "itemList": [
+      {
+        "mergeId": "17157",
+        "pingcodeId": "WSHOP-28768",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.4",
+    "itemList": [
+      {
+        "mergeId": "17113",
+        "pingcodeId": "WSHOP-28509",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17109",
+        "pingcodeId": "WSHOP-28513",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17107",
+        "pingcodeId": "WSHOP-28593",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17096",
+        "pingcodeId": "WSHOP-28667",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17084",
+        "pingcodeId": "WSHOP-28637",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17063",
+        "pingcodeId": "WSHOP-28645",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.57",
+    "itemList": [
+      {
+        "mergeId": "17135",
+        "pingcodeId": "WSHOP-28711",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17133",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.7",
+    "itemList": [
+      {
+        "mergeId": "17135",
+        "pingcodeId": "WSHOP-28711",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17133",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.8",
+    "itemList": [
+      {
+        "mergeId": "17132",
+        "pingcodeId": "WSHOP-28740",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.5",
+    "itemList": [
+      {
+        "mergeId": "17123",
+        "pingcodeId": "WSHOP-28722",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17121",
+        "pingcodeId": "WSHOP-28716",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17121",
+        "pingcodeId": "WSHOP-28717",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17102",
+        "pingcodeId": "WSHOP-28669",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17095",
+        "pingcodeId": "WSHOP-28628",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.6",
+    "itemList": [
+      {
+        "mergeId": "17127",
+        "pingcodeId": "WSHOP-28732",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17094",
+        "pingcodeId": "WSHOP-28691",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17021",
+        "pingcodeId": "WSHOP-28525",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.54",
+    "itemList": [
+      {
+        "mergeId": "17113",
+        "pingcodeId": "WSHOP-28509",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17109",
+        "pingcodeId": "WSHOP-28513",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17107",
+        "pingcodeId": "WSHOP-28593",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17063",
+        "pingcodeId": "WSHOP-28645",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.55",
+    "itemList": [
+      {
+        "mergeId": "17120",
+        "pingcodeId": "WSHOP-28716",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17120",
+        "pingcodeId": "WSHOP-28717",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.56",
+    "itemList": [
+      {
+        "mergeId": "17127",
+        "pingcodeId": "WSHOP-28732",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17094",
+        "pingcodeId": "WSHOP-28691",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17021",
+        "pingcodeId": "WSHOP-28525",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.53",
+    "itemList": [
+      {
+        "mergeId": "17103",
+        "pingcodeId": "WSHOP-25904",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17087",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.0",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.3",
+    "itemList": [
+      {
+        "mergeId": "17103",
+        "pingcodeId": "WSHOP-25904",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17087",
+        "pingcodeId": "WSHOP-28663",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17085",
+        "pingcodeId": "WSHOP-28621",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.7.sandbox",
+    "itemList": [
+      {
+        "mergeId": "16968",
+        "pingcodeId": "WSHOP-27432",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.51",
+    "itemList": [
+      {
+        "mergeId": "16439",
+        "pingcodeId": "WSHOP-26860",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.1",
+    "itemList": [
+      {
+        "mergeId": "17078",
+        "pingcodeId": "WSHOP-28609",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17047",
+        "pingcodeId": "WSHOP-28612",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17009",
+        "pingcodeId": "WSHOP-28472",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.2",
+    "itemList": [
+      {
+        "mergeId": "17092",
+        "pingcodeId": "WSHOP-28687",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17086",
+        "pingcodeId": "WSHOP-28679",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17053",
+        "pingcodeId": "WSHOP-28139",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17053",
+        "pingcodeId": "WSHOP-25904",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16855",
+        "pingcodeId": "WSHOP-27554",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16439",
+        "pingcodeId": "WSHOP-26860",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.7.aliyun",
+    "itemList": [
+      {
+        "mergeId": "16968",
+        "pingcodeId": "WSHOP-27432",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.5.f.appextension.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.52",
+    "itemList": [
+      {
+        "mergeId": "17092",
+        "pingcodeId": "WSHOP-28687",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17086",
+        "pingcodeId": "WSHOP-28679",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17101",
+        "pingcodeId": "WSHOP-28139",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17101",
+        "pingcodeId": "WSHOP-25904",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17100",
+        "pingcodeId": "WSHOP-27554",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.50",
+    "itemList": [
+      {
+        "mergeId": "17078",
+        "pingcodeId": "WSHOP-28609",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.5.f.category.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.47",
+    "itemList": [
+      {
+        "mergeId": "17067",
+        "pingcodeId": "WSHOP-28658",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.0-beta.5",
+    "itemList": [
+      {
+        "mergeId": "17075",
+        "pingcodeId": "WSHOP-28668",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.6.ab.applepaypayment.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.48",
+    "itemList": [
+      {
+        "mergeId": "17082",
+        "pingcodeId": "WSHOP-28668",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.0-beta.3",
+    "itemList": [
+      {
+        "mergeId": "17068",
+        "pingcodeId": "WSHOP-28657",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17038",
+        "pingcodeId": "WSHOP-28528",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16956",
+        "pingcodeId": "WSHOP-28359",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.6.xbsdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.47.0-beta.6",
+    "itemList": [
+      {
+        "mergeId": "17078",
+        "pingcodeId": "WSHOP-28609",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17047",
+        "pingcodeId": "WSHOP-28612",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17009",
+        "pingcodeId": "WSHOP-28472",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.7",
+    "itemList": [
+      {
+        "mergeId": "16968",
+        "pingcodeId": "WSHOP-27432",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.0-beta.4",
+    "itemList": [
+      {
+        "mergeId": "17067",
+        "pingcodeId": "WSHOP-28658",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16935",
+        "pingcodeId": "WSHOP-28362",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.0-beta.2",
+    "itemList": [
+      {
+        "mergeId": "17057",
+        "pingcodeId": "WSHOP-24074",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17052",
+        "pingcodeId": "WSHOP-28640",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17008",
+        "pingcodeId": "WSHOP-28498",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.5.ab.transporttips.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.6.ab.freeshippingtips.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.6",
+    "itemList": [
+      {
+        "mergeId": "17068",
+        "pingcodeId": "WSHOP-28657",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.47.0-beta.1",
+    "itemList": [
+      {
+        "mergeId": "17056",
+        "pingcodeId": "WSHOP-28506",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17048",
+        "pingcodeId": "WSHOP-28508",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16926",
+        "pingcodeId": "WSHOP-28203",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17025",
+        "pingcodeId": "WSHOP-28530",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17024",
+        "pingcodeId": "WSHOP-28529",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16771",
+        "pingcodeId": "WSHOP-27966",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.45",
+    "itemList": [
+      {
+        "mergeId": "17057",
+        "pingcodeId": "WSHOP-24074",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17052",
+        "pingcodeId": "WSHOP-28640",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.44",
+    "itemList": [
+      {
+        "mergeId": "17039",
+        "pingcodeId": "WSHOP-28569",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17026",
+        "pingcodeId": "WSHOP-28543",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.46",
+    "itemList": [
+      {
+        "mergeId": "17068",
+        "pingcodeId": "WSHOP-28657",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.6.ab.transporttips.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.5.f.refundform.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.3.f.appextension.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.5.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17046",
+        "pingcodeId": "WSHOP-28607",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.3.f.thankyou.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.5.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17046",
+        "pingcodeId": "WSHOP-28607",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.41",
+    "itemList": [
+      {
+        "mergeId": "17044",
+        "pingcodeId": "WSHOP-28600",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.5",
+    "itemList": [
+      {
+        "mergeId": "17046",
+        "pingcodeId": "WSHOP-28607",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.42",
+    "itemList": [
+      {
+        "mergeId": "17049",
+        "pingcodeId": "WSHOP-28619",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16174",
+        "pingcodeId": "WSHOP-26843",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.43",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.3.f.xbsdk.3",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.5.f.appextension.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.40",
+    "itemList": [
+      {
+        "mergeId": "17031",
+        "pingcodeId": "WSHOP-28564",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17027",
+        "pingcodeId": "WSHOP-28553",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17028",
+        "pingcodeId": "WSHOP-28554",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16985",
+        "pingcodeId": "WSHOP-28488",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16709",
+        "pingcodeId": "WSHOP-28350",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.38",
+    "itemList": [
+      {
+        "mergeId": "17035",
+        "pingcodeId": "WSHOP-28493",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17032",
+        "pingcodeId": "WSHOP-28438",
+        "type": "需求"
+      },
+      {
+        "mergeId": "17033",
+        "pingcodeId": "WSHOP-28566",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17033",
+        "pingcodeId": "WSHOP-28565",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17030",
+        "pingcodeId": "WSHOP-28533",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.3.ab.transporttips.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.3.sandbox",
+    "itemList": [
+      {
+        "mergeId": "17029",
+        "pingcodeId": "WSHOP-28474",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.3.f.category.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.3.f.xbsdk.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.3.f.xbsdk.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.14-h.4",
+    "itemList": [
+      {
+        "mergeId": "17030",
+        "pingcodeId": "WSHOP-28533",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.39",
+    "itemList": [
+      {
+        "mergeId": "17037",
+        "pingcodeId": "WSHOP-28438",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.3.f.keepalive.1",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.33",
+    "itemList": [
+      {
+        "mergeId": "17001",
+        "pingcodeId": "WSHOP-28474",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.2",
+    "itemList": []
+  },
+  {
+    "name": "v1.46.37",
+    "itemList": [
+      {
+        "mergeId": "17022",
+        "pingcodeId": "WSHOP-28542",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17020",
+        "pingcodeId": "WSHOP-28541",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.35",
+    "itemList": [
+      {
+        "mergeId": "17013",
+        "pingcodeId": "WSHOP-28503",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17011",
+        "pingcodeId": "WSHOP-28449",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "17010",
+        "pingcodeId": "WSHOP-28435",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.32",
+    "itemList": [
+      {
+        "mergeId": "16999",
+        "pingcodeId": "WSHOP-28479",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16986",
+        "pingcodeId": "WSHOP-27773",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.3",
+    "itemList": [
+      {
+        "mergeId": "17029",
+        "pingcodeId": "WSHOP-28474",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.34",
+    "itemList": [
+      {
+        "mergeId": "17015",
+        "pingcodeId": "WSHOP-28519",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.36",
+    "itemList": [
+      {
+        "mergeId": "17018",
+        "pingcodeId": "WSHOP-28540",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16998",
+        "pingcodeId": "WSHOP-28469",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16980",
+        "pingcodeId": "WSHOP-28437",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.3.aliyun",
+    "itemList": [
+      {
+        "mergeId": "17029",
+        "pingcodeId": "WSHOP-28474",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14-h.1",
+    "itemList": [
+      {
+        "mergeId": "17019",
+        "pingcodeId": "WSHOP-28503",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.23",
+    "itemList": [
+      {
+        "mergeId": "16965",
+        "pingcodeId": "WSHOP-28422",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16957",
+        "pingcodeId": "WSHOP-28367",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16957",
+        "pingcodeId": "WSHOP-28322",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16957",
+        "pingcodeId": "WSHOP-28334",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16953",
+        "pingcodeId": "WSHOP-28411",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16937",
+        "pingcodeId": "WSHOP-28259",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.24",
+    "itemList": [
+      {
+        "mergeId": "16970",
+        "pingcodeId": "WSHOP-28322",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16969",
+        "pingcodeId": "WSHOP-28424",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16960",
+        "pingcodeId": "WSHOP-28414",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16959",
+        "pingcodeId": "WSHOP-28337",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16928",
+        "pingcodeId": "WSHOP-28351",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.27",
+    "itemList": [
+      {
+        "mergeId": "16976",
+        "pingcodeId": "WSHOP-28431",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.28",
+    "itemList": [
+      {
+        "mergeId": "16984",
+        "pingcodeId": "WSHOP-28450",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16983",
+        "pingcodeId": "WSHOP-28354",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.29",
+    "itemList": [
+      {
+        "mergeId": "16982",
+        "pingcodeId": "WSHOP-28448",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16975",
+        "pingcodeId": "WSHOP-28412",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.31",
+    "itemList": [
+      {
+        "mergeId": "16996",
+        "pingcodeId": "WSHOP-28467",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.30",
+    "itemList": [
+      {
+        "mergeId": "16994",
+        "pingcodeId": "WSHOP-28466",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.22",
+    "itemList": [
+      {
+        "mergeId": "16961",
+        "pingcodeId": "WSHOP-28302",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16952",
+        "pingcodeId": "WSHOP-28115",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.26",
+    "itemList": [
+      {
+        "mergeId": "16979",
+        "pingcodeId": "WSHOP-27618",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16978",
+        "pingcodeId": "WSHOP-28433",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16973",
+        "pingcodeId": "WSHOP-28428",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16972",
+        "pingcodeId": "WSHOP-28380",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.25",
+    "itemList": [
+      {
+        "mergeId": "16968",
+        "pingcodeId": "WSHOP-27432",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16967",
+        "pingcodeId": "WSHOP-28262",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16823",
+        "pingcodeId": "WSHOP-28358",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.21",
+    "itemList": [
+      {
+        "mergeId": "16958",
+        "pingcodeId": "WSHOP-28415",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.20",
+    "itemList": [
+      {
+        "mergeId": "16948",
+        "pingcodeId": "WSHOP-28403",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16895",
+        "pingcodeId": "WSHOP-28263",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16891",
+        "pingcodeId": "WSHOP-28210",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16891",
+        "pingcodeId": "WSHOP-28280",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.19",
+    "itemList": [
+      {
+        "mergeId": "16940",
+        "pingcodeId": "WSHOP-27530",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16913",
+        "pingcodeId": "WSHOP-28282",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.15",
+    "itemList": [
+      {
+        "mergeId": "16698",
+        "pingcodeId": "WSHOP-27815",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.14",
+    "itemList": [
+      {
+        "mergeId": "16933",
+        "pingcodeId": "WSHOP-28355",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.18",
+    "itemList": [
+      {
+        "mergeId": "16939",
+        "pingcodeId": "WSHOP-28346",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.12",
+    "itemList": [
+      {
+        "mergeId": "16930",
+        "pingcodeId": "WSHOP-28355",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.13",
+    "itemList": [
+      {
+        "mergeId": "16929",
+        "pingcodeId": "WSHOP-28181",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.17",
+    "itemList": [
+      {
+        "mergeId": "16889",
+        "pingcodeId": "WSHOP-28242",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16499",
+        "pingcodeId": "WSHOP-27528",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.16",
+    "itemList": [
+      {
+        "mergeId": "16877",
+        "pingcodeId": "WSHOP-28099",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.8",
+    "itemList": [
+      {
+        "mergeId": "16917",
+        "pingcodeId": "WSHOP-28312",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.7",
+    "itemList": [
+      {
+        "mergeId": "16902",
+        "pingcodeId": "WSHOP-28284",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.4",
+    "itemList": [
+      {
+        "mergeId": "16906",
+        "pingcodeId": "WSHOP-28281",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16903",
+        "pingcodeId": "WSHOP-28286",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.11",
+    "itemList": [
+      {
+        "mergeId": "16927",
+        "pingcodeId": "WSHOP-28345",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.10",
+    "itemList": [
+      {
+        "mergeId": "16925",
+        "pingcodeId": "WSHOP-28319",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16924",
+        "pingcodeId": "WSHOP-28329",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16919",
+        "pingcodeId": "WSHOP-28316",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16923",
+        "pingcodeId": "WSHOP-28023",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16922",
+        "pingcodeId": "WSHOP-28310",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.3",
+    "itemList": [
+      {
+        "mergeId": "16685",
+        "pingcodeId": "WSHOP-26813",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.2",
+    "itemList": [
+      {
+        "mergeId": "16894",
+        "pingcodeId": "WSHOP-28236",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16893",
+        "pingcodeId": "WSHOP-28261",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16888",
+        "pingcodeId": "WSHOP-28247",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.9",
+    "itemList": [
+      {
+        "mergeId": "16916",
+        "pingcodeId": "WSHOP-28297",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16916",
+        "pingcodeId": "WSHOP-28298",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.6",
+    "itemList": [
+      {
+        "mergeId": "16909",
+        "pingcodeId": "WSHOP-28301",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.5",
+    "itemList": [
+      {
+        "mergeId": "16904",
+        "pingcodeId": "WSHOP-28138",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.7",
+    "itemList": [
+      {
+        "mergeId": "16863",
+        "pingcodeId": "WSHOP-28193",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16835",
+        "pingcodeId": "WSHOP-27732",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16843",
+        "pingcodeId": "WSHOP-28151",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.8",
+    "itemList": [
+      {
+        "mergeId": "16872",
+        "pingcodeId": "WSHOP-28201",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16871",
+        "pingcodeId": "WSHOP-28200",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16870",
+        "pingcodeId": "WSHOP-28199",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0",
+    "itemList": [
+      {
+        "mergeId": "16884",
+        "pingcodeId": "WSHOP-28238",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.9",
+    "itemList": [
+      {
+        "mergeId": "16834",
+        "pingcodeId": "WSHOP-28091",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.10",
+    "itemList": [
+      {
+        "mergeId": "16876",
+        "pingcodeId": "WSHOP-28205",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.6",
+    "itemList": [
+      {
+        "mergeId": "16867",
+        "pingcodeId": "WSHOP-28197",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.11",
+    "itemList": [
+      {
+        "mergeId": "16882",
+        "pingcodeId": "WSHOP-28208",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16880",
+        "pingcodeId": "WSHOP-24704",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16879",
+        "pingcodeId": "WSHOP-28209",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16832",
+        "pingcodeId": "WSHOP-27986",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16832",
+        "pingcodeId": "WSHOP-27985",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16832",
+        "pingcodeId": "WSHOP-27984",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16832",
+        "pingcodeId": "WSHOP-27989",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16832",
+        "pingcodeId": "WSHOP-27987",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16832",
+        "pingcodeId": "WSHOP-27988",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.12",
+    "itemList": [
+      {
+        "mergeId": "16884",
+        "pingcodeId": "WSHOP-28238",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.13",
+    "itemList": [
+      {
+        "mergeId": "16890",
+        "pingcodeId": "WSHOP-28245",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.1",
+    "itemList": [
+      {
+        "mergeId": "16890",
+        "pingcodeId": "WSHOP-28245",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.2",
+    "itemList": [
+      {
+        "mergeId": "16831",
+        "pingcodeId": "WSHOP-28046",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16591",
+        "pingcodeId": "WSHOP-27653",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16697",
+        "pingcodeId": "WSHOP-27900",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.4",
+    "itemList": [
+      {
+        "mergeId": "16857",
+        "pingcodeId": "WSHOP-28183",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16854",
+        "pingcodeId": "WSHOP-28180",
+        "type": "缺陷"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.1",
+    "itemList": [
+      {
+        "mergeId": "16841",
+        "pingcodeId": "WSHOP-28142",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16667",
+        "pingcodeId": "WSHOP-27736",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16696",
+        "pingcodeId": "WSHOP-27899",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16655",
+        "pingcodeId": "WSHOP-27735",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16586",
+        "pingcodeId": "WSHOP-27681",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16488",
+        "pingcodeId": "WSHOP-27448",
+        "type": "需求"
+      },
+      {
+        "mergeId": "15414",
+        "pingcodeId": "WSHOP-27708",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.5",
+    "itemList": [
+      {
+        "mergeId": "16864",
+        "pingcodeId": "WSHOP-28195",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16864",
+        "pingcodeId": "WSHOP-28239",
+        "type": "需求"
+      }
+    ]
+  },
+  {
+    "name": "v1.46.0-beta.3",
+    "itemList": [
+      {
+        "mergeId": "16848",
+        "pingcodeId": "WSHOP-28156",
+        "type": "缺陷"
+      },
+      {
+        "mergeId": "16845",
+        "pingcodeId": "WSHOP-28155",
+        "type": "需求"
+      },
+      {
+        "mergeId": "16791",
+        "pingcodeId": "WSHOP-28055",
+        "type": "需求"
+      }
+    ]
+  }
+]

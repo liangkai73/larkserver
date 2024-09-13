@@ -174,8 +174,8 @@ async function filterGloble(larkService, baseArr) {
         const globleItem = globleArr[0];
         console.log('区间存在全量版本：' + globleItem.name + '。版本权重：' + globleItem.version_weights)
         newResArr = resArr.filter(i => {
-            i.version_weights <= globleItem.version_weights && console.log(`${i.name}[${i.version_weights}<=${globleItem.version_weights}]【过滤】`)
-            return i.version_weights > globleItem.version_weights
+            i.version_weights < globleItem.version_weights && console.log(`${i.name}[${i.version_weights}<${globleItem.version_weights}]【过滤】`)
+            return i.version_weights >= globleItem.version_weights
         })
     }
     console.log('排除全量版本余留id组---------------------------------:')

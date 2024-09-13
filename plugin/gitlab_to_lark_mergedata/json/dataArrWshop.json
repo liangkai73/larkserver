@@ -1,0 +1,1382 @@
+[
+    {
+        "name": "v1.47.78",
+        "desc": "##  wshop v1.47.78 版本更新日志  \n**吴国锋**  \n[#WSHOP-29263](https://wfwl.pingcode.com/agile/items/66cbed7fb19ba441b2e8220b) 【缺陷】【订单】店铺小概率出现支付编号为空的订单 !17503"
+    },
+    {
+        "name": "v1.48.18",
+        "desc": "##  wshop v1.48.18 版本更新日志  \n**吴国锋**  \n[#WSHOP-29263](https://wfwl.pingcode.com/agile/items/66cbed7fb19ba441b2e8220b) 【缺陷】【订单】店铺小概率出现支付编号为空的订单 !17503  \n[#WSHOP-28833](https://wfwl.pingcode.com/agile/items/66a3656e910128cc6fe97b60) 【小优化】【技术改进】【订单】订单模块废弃使用文件 v1模型 !17403"
+    },
+    {
+        "name": "v1.47.77",
+        "desc": "##  wshop v1.47.77 版本更新日志  \n**苏俊杰**  \n[#WSHOP-29259](https://wfwl.pingcode.com/agile/items/66cbe03e5bbf9a1e87c8998a) 【缺陷】【TD同步】【统计-销售报告】按商品sku筛选列表中存在删除的简单商品时其他的简单商品SKU 会不显示且导出的文件中未被删除的简单商品也会不存在商品SKU 数据   !17490  \n**林潇**  \n[#WSHOP-29306](https://wfwl.pingcode.com/agile/items/66cdb6a8d0285fc5b1c40002) 【严重缺陷】【支付】后台开启谷歌支付，商城未展示谷歌支付 !17518"
+    },
+    {
+        "name": "v1.48.17",
+        "desc": "##  wshop v1.48.17 版本更新日志  \n**林潇**  \n[#WSHOP-29306](https://wfwl.pingcode.com/agile/items/66cdb6a8d0285fc5b1c40002) 【严重缺陷】【支付】后台开启谷歌支付，商城未展示谷歌支付 !17517  \n[#WSHOP-29242](https://wfwl.pingcode.com/agile/items/66c7e53d099e82504001854f) 【缺陷】【统计事件】手动将购物车数量改为0时没有触发cart.remove_cart_item事件 !17515  \n**苏俊杰**  \n[#WSHOP-29259](https://wfwl.pingcode.com/agile/items/66cbe03e5bbf9a1e87c8998a) 【缺陷】【TD同步】【统计-销售报告】按商品sku筛选列表中存在删除的简单商品时其他的简单商品SKU 会不显示且导出的文件中未被删除的简单商品也会不存在商品SKU 数据   !17490"
+    },
+    {
+        "name": "v1.47.70-h.3",
+        "desc": "##  wshop v1.47.70-h.3 版本更新日志  \n**庄铭**  \n[#WSHOP-29257](https://wfwl.pingcode.com/agile/items/66cbda5a5816cd1f8097663a) 【缺陷】【sentry】商城SDK-track模块flagSession方法控制台报错修复 !17488"
+    },
+    {
+        "name": "v1.46.73-h.6.f.rule.10.srpaysdk.1",
+        "desc": "##  wshop v1.46.73-h.6.f.rule.10.srpaysdk.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66824b5536369c48f10d0969?  \n#WSHOP-28452 【S】【支付模块】通过SDK方案接入nspayment信用卡支付"
+    },
+    {
+        "name": "v1.47.76",
+        "desc": "##  wshop v1.47.76 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28763](https://wfwl.pingcode.com/agile/items/669df3ba094b5dd563533225) 【大功能】【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付 !17510"
+    },
+    {
+        "name": "v1.48.16",
+        "desc": "##  wshop v1.48.16 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28763](https://wfwl.pingcode.com/agile/items/669df3ba094b5dd563533225) 【大功能】【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付 !17509"
+    },
+    {
+        "name": "v1.48.15",
+        "desc": "##  wshop v1.48.15 版本更新日志  \n**余清红**  \n[#WSHOP-29237](https://wfwl.pingcode.com/agile/items/66c6fb66d0285fc5b1b24bdd) 【缺陷】【购物车-结账页】三步结账时，如存在售罄商品时，仍可以进入下一步且未触发checkout.set_shipping.failed事件   !17496"
+    },
+    {
+        "name": "v1.47.70-h.2.sandbox",
+        "desc": "##  wshop v1.47.70-h.2.sandbox 版本更新日志  \n**吴曦**  \n[#WSHOP-29272](https://wfwl.pingcode.com/agile/items/66cc387b5816cd1f809a8a94) 【严重缺陷】【应用中心-广告助手】广告助手多条件查询报错 !17505"
+    },
+    {
+        "name": "v1.47.70-h.2.aliyun",
+        "desc": "##  wshop v1.47.70-h.2.aliyun 版本更新日志  \n**吴曦**  \n[#WSHOP-29272](https://wfwl.pingcode.com/agile/items/66cc387b5816cd1f809a8a94) 【严重缺陷】【应用中心-广告助手】广告助手多条件查询报错 !17505"
+    },
+    {
+        "name": "v1.46.73-h.6.f.rule.10",
+        "desc": "##  wshop v1.46.73-h.6.f.rule.10 版本更新日志  \n**纪维坚**  \n[#WSHOP-29070](https://wfwl.pingcode.com/agile/items/66bb01e9d0285fc5b18bcf84) 【缺陷】【营销】新版营销，1.45.79升级到1.46.69，新的订单表的总金额，折扣金额，物流金额字段金额错误 !17508"
+    },
+    {
+        "name": "v1.48.14",
+        "desc": "##  wshop v1.48.14 版本更新日志  \n**吴曦**  \n[#WSHOP-29272](https://wfwl.pingcode.com/agile/items/66cc387b5816cd1f809a8a94) 【严重缺陷】【应用中心-广告助手】广告助手多条件查询报错 !17505"
+    },
+    {
+        "name": "v1.47.75",
+        "desc": "##  wshop v1.47.75 版本更新日志  \n**吴曦**  \n[#WSHOP-29272](https://wfwl.pingcode.com/agile/items/66cc387b5816cd1f809a8a94) 【严重缺陷】【应用中心-广告助手】广告助手多条件查询报错 !17505"
+    },
+    {
+        "name": "v1.47.70-h.2",
+        "desc": "##  wshop v1.47.70-h.2 版本更新日志  \n**吴曦**  \n[#WSHOP-29272](https://wfwl.pingcode.com/agile/items/66cc387b5816cd1f809a8a94) 【严重缺陷】【应用中心-广告助手】广告助手多条件查询报错 !17505"
+    },
+    {
+        "name": "v1.46.73-h.6.f.rule.9",
+        "desc": " \n[#WSHOP-29216](https://wfwl.pingcode.com/pjm/items/66c5a89e3f1ffae8f59e203e?) 【缺陷】【订单】新版营销应用免运费优惠码的订单，表wp_wc_order_stats的字段shipping_total应该为0\n\n[#WSHOP-29182](https://wfwl.pingcode.com/agile/items/66c349e7d0285fc5b1a43b91) 【缺陷】【营销】店铺更新至1.48迭代，营销版本仍使用V1，部分常态化压测场景不通过\n\n[#WSHOP-29205](https://wfwl.pingcode.com/agile/items/66c557975816cd1f8088029d) 【缺陷】【营销-优惠码】应用免运费优惠码的订单，表order_discount_record的字段amount应该为0\n\n[#WSHOP-29070](https://wfwl.pingcode.com/agile/items/66bb01e9d0285fc5b18bcf84) 【缺陷】【营销】新版营销，1.45.79升级到1.46.69，新的订单表的总金额，折扣金额，物流金额字段金额错误"
+    },
+    {
+        "name": "v1.47.70-h.1",
+        "desc": "##  wshop v1.47.70-h.1 版本更新日志  \n**张清洪**  \n[#WSHOP-29268](https://wfwl.pingcode.com/agile/items/66cc16a038beab6d19bddb3a) 【商品-商品列表】变种商品新增变种，15分钟内加购该变种后，购物车报错 !17499"
+    },
+    {
+        "name": "v1.47.74",
+        "desc": "##  wshop v1.47.74 版本更新日志  \n**张清洪**  \n[#WSHOP-29268](https://wfwl.pingcode.com/agile/items/66cc16a038beab6d19bddb3a) 【严重缺陷】【商品-商品列表】变种商品新增变种，15分钟内加购该变种后，购物车报错 !17499  \n**徐钟焬**  \n[#WSHOP-29230](https://wfwl.pingcode.com/agile/items/66c6ddebd8c98bc611f4c526) 【小优化】【技术改进】tiktok CAPI 支持 text/plain   !17469"
+    },
+    {
+        "name": "v1.48.13",
+        "desc": "##  wshop v1.48.13 版本更新日志  \n**张清洪**  \n[#WSHOP-29268](https://wfwl.pingcode.com/agile/items/66cc16a038beab6d19bddb3a) 【严重缺陷】【商品-商品列表】变种商品新增变种，15分钟内加购该变种后，购物车报错 !17499  \n[#WSHOP-29264](https://wfwl.pingcode.com/agile/items/66cbedffd8c98bc611fee2b3) 【严重缺陷】【商品-商品列表】商城侧访问cache路由商品详情页时，页面数据展示不完整   !17495  \n**徐钟焬**  \n[#WSHOP-29230](https://wfwl.pingcode.com/agile/items/66c6ddebd8c98bc611f4c526) 【小优化】【技术改进】tiktok CAPI 支持 text/plain   !17469"
+    },
+    {
+        "name": "v1.47.73",
+        "desc": "##  wshop v1.47.73 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28934](https://wfwl.pingcode.com/agile/items/66b04777821349d1b63a39ce) 【小功能】【S】【模块开发】PayPal-ACDC增加3DS策略配置 !17328  \n[#WSHOP-29057](https://wfwl.pingcode.com/agile/items/66b9df83ef307c97d00ad5ae) 【大功能】【S】【支付模块】新增SproutPay-klarna支付 !17378"
+    },
+    {
+        "name": "v1.48.12",
+        "desc": "##  wshop v1.48.12 版本更新日志  \n**陈阳杨**  \n[#WSHOP-29057](https://wfwl.pingcode.com/agile/items/66b9df83ef307c97d00ad5ae) 【大功能】【S】【支付模块】新增SproutPay-klarna支付 !17498  \n[#WSHOP-28934](https://wfwl.pingcode.com/agile/items/66b04777821349d1b63a39ce) 【小功能】【S】【模块开发】PayPal-ACDC增加3DS策略配置 !17328"
+    },
+    {
+        "name": "v1.47.72",
+        "desc": "##  wshop v1.47.72 版本更新日志  \n**庄铭**  \n[#WSHOP-29261](https://wfwl.pingcode.com/agile/items/66cbe37dd8c98bc611fe6901) 【小优化】【技术改进】取消integrity脚本加载失败的手动报警 !17491  \n[#WSHOP-29257](https://wfwl.pingcode.com/agile/items/66cbda5a5816cd1f8097663a) 【严重缺陷】【sentry】商城SDK-track模块flagSession方法控制台报错修复 !17488"
+    },
+    {
+        "name": "v1.48.11",
+        "desc": "##  wshop v1.48.11 版本更新日志  \n**庄铭**  \n[#WSHOP-29261](https://wfwl.pingcode.com/agile/items/66cbe37dd8c98bc611fe6901) 【小优化】【技术改进】取消integrity脚本加载失败的手动报警 !17491  \n[#WSHOP-29257](https://wfwl.pingcode.com/agile/items/66cbda5a5816cd1f8097663a) 【缺陷】【sentry】商城SDK-track模块flagSession方法控制台报错修复 !17488"
+    },
+    {
+        "name": "v1.46.86",
+        "desc": "##  wshop v1.46.86 版本更新日志  \n**吴曦**  \n[#WSHOP-29256](https://wfwl.pingcode.com/agile/items/66c93ca3d0285fc5b1b8972c) 【严重缺陷】【应用中心-广告助手】kafka 消息分区策略问题导致独立服务队列堆积"
+    },
+    {
+        "name": "v1.48.10",
+        "desc": "##  wshop v1.48.10 版本更新日志  \n**吴曦**  \n[#WSHOP-29256](https://wfwl.pingcode.com/agile/items/66c93ca3d0285fc5b1b8972c) 【严重缺陷】【广告助手】kafka 消息分区策略问题导致独立服务队列堆积 !17484"
+    },
+    {
+        "name": "v1.47.70",
+        "desc": "##  wshop v1.47.70 版本更新日志  \n**吴曦**  \n[#WSHOP-29256](https://wfwl.pingcode.com/agile/items/66c93ca3d0285fc5b1b8972c) 【严重缺陷】【应用中心-广告助手】kafka 消息分区策略问题导致独立服务队列堆积 !17487"
+    },
+    {
+        "name": "v1.46.73-h.8",
+        "desc": "##  wshop v1.46.73-h.8 版本更新日志  \n**吴曦**  \n[#WSHOP-29256](https://wfwl.pingcode.com/agile/items/66c93ca3d0285fc5b1b8972c) 【严重缺陷】【应用中心-广告助手】kafka 消息分区策略问题导致独立服务队列堆积"
+    },
+    {
+        "name": "v1.46.73-h.7",
+        "desc": "# 作废版本"
+    },
+    {
+        "name": "v1.47.69",
+        "desc": "##  wshop v1.47.69 版本更新日志  \n**张清洪**  \n[#WSHOP-29255](https://wfwl.pingcode.com/agile/items/66c87666d8c98bc611fbd2c7) 【严重缺陷】【商品-商品列表】修改商品后，商城侧商品信息未实时更新   !17481"
+    },
+    {
+        "name": "v1.48.9",
+        "desc": "##  wshop v1.48.9 版本更新日志  \n**张清洪**  \n[#WSHOP-29255](https://wfwl.pingcode.com/agile/items/66c87666d8c98bc611fbd2c7)【严重缺陷】【商品-商品列表】修改商品后，商城侧商品信息未实时更新  !17481"
+    },
+    {
+        "name": "v1.47.68",
+        "desc": "##  wshop v1.47.68 版本更新日志  \n**庄铭**  \n[#WSHOP-29227](https://wfwl.pingcode.com/agile/items/66c6da80b19ba441b2ddd662) 【缺陷】【统计事件】trackhub物流追踪，order.tracking、page_view事件没有带path_type !17473  \n[#WSHOP-29221](https://wfwl.pingcode.com/agile/items/66c6ad985816cd1f808d3884) 【缺陷】【统计事件】athena主题加购相同度数的power商品，quantity值错误 !17464  \n**陈阳杨**  \n[#WSHOP-29201](https://wfwl.pingcode.com/agile/items/66c4b62e38beab6d19ab676d) 【小优化】【技术改进】【支付】Nspayment ApplePay网关支持风控服务 !17478"
+    },
+    {
+        "name": "v1.48.8",
+        "desc": "##  wshop v1.48.8 版本更新日志  \n**庄铭**  \n[#WSHOP-29227](https://wfwl.pingcode.com/agile/items/66c6da80b19ba441b2ddd662) 【缺陷】【统计事件】trackhub物流追踪，order.tracking、page_view事件没有带path_type !17473  \n[#WSHOP-29221](https://wfwl.pingcode.com/agile/items/66c6ad985816cd1f808d3884) 【缺陷】【统计事件】athena主题加购相同度数的power商品，quantity值错误 !17464  \n**陈阳杨**  \n[#WSHOP-29201](https://wfwl.pingcode.com/agile/items/66c4b62e38beab6d19ab676d) 【小优化】【技术改进】【支付】Nspayment ApplePay网关支持风控服务 !17461"
+    },
+    {
+        "name": "v1.47.67",
+        "desc": "##  wshop v1.47.67 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29224](https://wfwl.pingcode.com/agile/items/66c6cf99b19ba441b2dd73e0) 【缺陷】【应用中心-组合商品】组合方式配置按钮上方默认样式时，雅典娜主题下规格选择和Qty不齐平   !17468"
+    },
+    {
+        "name": "v1.48.7",
+        "desc": "##  wshop v1.48.7 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29224](https://wfwl.pingcode.com/agile/items/66c6cf99b19ba441b2dd73e0) 【缺陷】【应用中心-组合商品】组合方式配置按钮上方默认样式时，雅典娜主题下规格选择和Qty不齐平   !17468"
+    },
+    {
+        "name": "v1.47.66",
+        "desc": "##  wshop v1.47.66 版本更新日志  \n**纪维坚**  \n[#WSHOP-29198](https://wfwl.pingcode.com/agile/items/66c4567eb19ba441b2d51e6a) 【严重缺陷】【营销】【sentry】部分场景的店铺从1.46升级到1.47、满送优惠配置中样式会报错 !17471"
+    },
+    {
+        "name": "v1.48.6",
+        "desc": "##  wshop v1.48.6 版本更新日志  \n**纪维坚**  \n[#WSHOP-29198](https://wfwl.pingcode.com/agile/items/66c4567eb19ba441b2d51e6a) 【严重缺陷】【营销】【sentry】部分场景的店铺从1.46升级到1.47、满送优惠配置中样式会报错 !17471"
+    },
+    {
+        "name": "v1.47.65",
+        "desc": "##  wshop v1.47.65 版本更新日志  \n**吴国锋**  \n[#WSHOP-29218](https://wfwl.pingcode.com/agile/items/66c5ca215bbf9a1e87bc4255) 【缺陷】【支付】存在运费险使用pp支付，第三方平台重复记录运费险金额 !17460  \n**张清洪**  \n[#WSHOP-29015](https://wfwl.pingcode.com/agile/items/66b5e0e1df1b6972d7499e13) 【小优化】【商品】精选商品、商品详情缓存压缩   !17267"
+    },
+    {
+        "name": "v1.48.5",
+        "desc": "##  wshop v1.48.5 版本更新日志  \n**吴国锋**  \n[#WSHOP-29218](https://wfwl.pingcode.com/agile/items/66c5ca215bbf9a1e87bc4255) 【缺陷】【支付】存在运费险使用pp支付，第三方平台重复记录运费险金额 !17460  \n**张清洪**  \n[#WSHOP-29015](https://wfwl.pingcode.com/agile/items/66b5e0e1df1b6972d7499e13) 【小优化】【商品】精选商品、商品详情缓存压缩   !17267"
+    },
+    {
+        "name": "v1.47.64",
+        "desc": "##  wshop v1.47.64 版本更新日志  \n**林潇**  \n[#WSHOP-29086](https://wfwl.pingcode.com/agile/items/66bc21fab19ba441b2bc904c) 【缺陷】【支付】Paypal-Apple Pay未进行域名认证且开启快捷支付，商城侧点击快捷按钮报错 !17462"
+    },
+    {
+        "name": "v1.48.4",
+        "desc": "##  wshop v1.48.4 版本更新日志  \n**林潇**  \n[#WSHOP-29086](https://wfwl.pingcode.com/agile/items/66bc21fab19ba441b2bc904c) 【缺陷】【支付】Paypal-Apple Pay未进行域名认证且开启快捷支付，商城侧点击快捷按钮报错 !17462  \n**纪维坚**  \n[#WSHOP-28821](https://wfwl.pingcode.com/agile/items/66a33b1816e616a49b34238b) 【缺陷】【营销】新版营销，唯一折扣的商品通过接口能参加满送优惠的赠品   !17449  \n[#WSHOP-28879](https://wfwl.pingcode.com/agile/items/66a8b4ddef307c97d0d8aeb6) 【缺陷】【营销-满送优惠】新店铺的提示文本没有给定默认值，且应该限制该字段不能编辑为空   !17449  \n[#WSHOP-29095](https://wfwl.pingcode.com/agile/items/66bc58da5bbf9a1e879ee4be) 【缺陷】【设置-操作日志】优惠码的相关日志详情，没有显示“优惠码”字段   !17449  \n[#WSHOP-29205](https://wfwl.pingcode.com/agile/items/66c557975816cd1f8088029d) 【缺陷】【营销-优惠码】应用免运费优惠码的订单，表order_discount_record的字段amount应该为0   !17449"
+    },
+    {
+        "name": "v1.46.73-h.6.f.nsap.risk.4",
+        "desc": "##  wshop v1.46.73-h.6.f.nsap.risk.4 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66c4b62e38beab6d19ab676d?  \n#WSHOP-29201 【技术改进】【支付】Nspayment ApplePay网关支持风控服务  "
+    },
+    {
+        "name": "v1.47.63",
+        "desc": "##  wshop v1.47.63 版本更新日志  \n**庄铭**  \n[#WSHOP-29011](https://wfwl.pingcode.com/agile/items/66b5d69adf1b6972d7492ed3) 【大优化】【技术改进】track统计剥离为内置像素模块（标准事件） !17426"
+    },
+    {
+        "name": "v1.48.3",
+        "desc": "##  wshop v1.48.3 版本更新日志  \n**吴国锋**  \n[#WSHOP-29216](https://wfwl.pingcode.com/agile/items/66c5a89e3f1ffae8f59e203e) 【缺陷】【订单】新版营销应用免运费优惠码的订单，表wp_wc_order_stats的字段shipping_total应该为0 !17459  \n**庄铭**  \n[#WSHOP-29011](https://wfwl.pingcode.com/agile/items/66b5d69adf1b6972d7492ed3) 【大优化】【技术改进】track统计剥离为内置像素模块（标准事件） !17424"
+    },
+    {
+        "name": "v1.46.73-h.6.f.sproutpay.4",
+        "desc": "##  wshop v1.46.73-h.6.f.sproutpay.4 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66b9df83ef307c97d00ad5ae?  \n#WSHOP-29057 【S】【支付模块】新增SproutPay-klarna支付   \n\nPaymentCompleteRedirect中间件增加只能访问一次的处理逻辑  "
+    },
+    {
+        "name": "v1.46.73-h.6.fb.1",
+        "desc": "##  wshop v1.46.73-h.6.fb.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.48.1",
+        "desc": "## 与v1.48.0-beta.21为相同版本"
+    },
+    {
+        "name": "v1.48.0",
+        "desc": "｛无效版本｝"
+    },
+    {
+        "name": "v1.48.2",
+        "desc": "## 与v1.48.0-beta.23为相同版本"
+    },
+    {
+        "name": "v1.48.0-beta.23",
+        "desc": "##  wshop v1.48.0-beta.23 版本更新日志  \n**黄宝鸣**  \n[#WSHOP-28906](https://wfwl.pingcode.com/agile/items/66ab41907cb08b02e69d8d54) 【小功能】【V2主题】【技术改进】主题页头、公告栏、导航、页脚模块及关联snippets转为liquid模板 !17279"
+    },
+    {
+        "name": "v1.46.73-h.6.f.sproutpay.3",
+        "desc": "##  wshop v1.46.73-h.6.f.sproutpay.3 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66b9df83ef307c97d00ad5ae?  \n#WSHOP-29057 【S】【支付模块】新增SproutPay-klarna支付  \n\nhttps://wfwl.pingcode.com/pjm/items/66c354145816cd1f80814799?  \n#WSHOP-29183 【特性测试】【支付】使用klarna发起后取消/报错，无法再次发起支付  \nhttps://wfwl.pingcode.com/pjm/items/66c55385d0285fc5b1aae564?  \n#WSHOP-29203 【特性测试】【支付】后台未配置下挂地址，使用klarna结账报500  "
+    },
+    {
+        "name": "v1.48.0-beta.22",
+        "desc": "##  wshop v1.48.0-beta.22 版本更新日志  \n**余清红**  \n[#WSHOP-29186](https://wfwl.pingcode.com/agile/items/66c3f1515816cd1f8081b97e) 【缺陷】【统计】款式组合的combination.indirect_add间接加购事件未触发   !17447  \n**张清洪**  \n[#WSHOP-29160](https://wfwl.pingcode.com/agile/items/66beff9eb19ba441b2c8224c) 【缺陷】【商品-商品列表】创建和编辑商品时，sku长度超过255时，多提示了字符类型错误   !17436  \n[#WSHOP-29157](https://wfwl.pingcode.com/agile/items/66bef3b6b19ba441b2c7b027) 【缺陷】【商品-商品列表】创建商品和更新商品接口，当所传gallery列表的id重复时，接口返回的gallery未去重返回   !17435"
+    },
+    {
+        "name": "v1.47.62",
+        "desc": "##  wshop v1.47.62 版本更新日志  \n**纪维坚**  \n[#WSHOP-29198](https://wfwl.pingcode.com/agile/items/66c4567eb19ba441b2d51e6a) 【严重缺陷】【营销】【sentry】部分场景的店铺从1.46升级到1.47、满送优惠配置中样式会报错   !17452"
+    },
+    {
+        "name": "v1.48.0-beta.21",
+        "desc": "##  wshop v1.48.0-beta.21 版本更新日志  \n**纪维坚**  \n[#WSHOP-29198](https://wfwl.pingcode.com/agile/items/66c4567eb19ba441b2d51e6a) 【严重缺陷】【营销】【sentry】部分场景的店铺从1.46升级到1.47、满送优惠配置中样式会报错   !17452"
+    },
+    {
+        "name": "v1.46.73-h.6.f.rule.8.srpaysdk.1",
+        "desc": "##  wshop v1.46.73-h.6.f.rule.8.srpaysdk.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66824b5536369c48f10d0969?  \n#WSHOP-28452 【S】【支付模块】通过SDK方案接入nspayment信用卡支付"
+    },
+    {
+        "name": "v1.48.0-beta.20",
+        "desc": "##  wshop v1.48.0-beta.20 版本更新日志  \n**纪维坚**  \n[#WSHOP-29182](https://wfwl.pingcode.com/agile/items/66c349e7d0285fc5b1a43b91) 【严重缺陷】【营销】店铺更新至1.48迭代，营销版本仍使用V1，部分常态化压测场景不通过   !17442"
+    },
+    {
+        "name": "v1.46.73-h.6.aliyun.f.sproutpay.1",
+        "desc": "##  wshop v1.46.73-h.6.aliyun.f.sproutpay.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66b9df83ef307c97d00ad5ae?  \n#WSHOP-29057 【S】【支付模块】新增SproutPay-klarna支付"
+    },
+    {
+        "name": "v1.48.0-beta.19",
+        "desc": "##  wshop v1.48.0-beta.19 版本更新日志  \n**陈阳杨**  \n[#WSHOP-29044](https://wfwl.pingcode.com/agile/items/66b9abad811bdf48541929f3) 【缺陷】【支付】开启重定向，PP退款使用托管域名请求无法成功 !17422"
+    },
+    {
+        "name": "v1.46.73-h.6.f.rule.8",
+        "desc": "##  wshop v1.46.73-h.6.f.rule.8 版本更新日志  \n**纪维坚**  \n[#WSHOP-29171](https://wfwl.pingcode.com/agile/items/66c091fe3f1ffae8f58f234a) 【缺陷】【营销】加购买X送Y折扣方式为百分比的商品、且买送相同、且同时生效自动优惠，支付后商品行的折扣不正确   !17433"
+    },
+    {
+        "name": "v1.48.0-beta.18",
+        "desc": "##  wshop v1.48.0-beta.18 版本更新日志  \n**纪维坚**  \n[#WSHOP-29171](https://wfwl.pingcode.com/agile/items/66c091fe3f1ffae8f58f234a) 【缺陷】【营销】加购买X送Y折扣方式为百分比的商品、且买送相同、且同时生效自动优惠，支付后商品行的折扣不正确   !17433  \n**苏俊杰**  \n[#WSHOP-29133](https://wfwl.pingcode.com/agile/items/66bdc454d8c98bc611da8180) 【小优化】【技术改进】【统计模块】新增 track 入参错误日志收集   !17418"
+    },
+    {
+        "name": "v1.47.61",
+        "desc": "##  wshop v1.47.61 版本更新日志  \n**苏俊杰**  \n[#WSHOP-29133](https://wfwl.pingcode.com/agile/items/66bdc454d8c98bc611da8180) 【小优化】【技术改进】【统计模块】新增 track 入参错误日志收集   !17418"
+    },
+    {
+        "name": "v1.46.73-h.6.f.stats.1",
+        "desc": "##  wshop v1.46.73-h.6.f.stats.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.6.f.xbsdk.2",
+        "desc": "##  wshop v1.46.73-h.6.f.xbsdk.2 版本更新日志  \n调整xb的js地址到https://vsnklp.etailplace.com/View/js/xb.min.js  "
+    },
+    {
+        "name": "v1.46.73-h.6.f.srpaysdk.1",
+        "desc": "##  wshop v1.46.73-h.6.f.srpaysdk.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66824b5536369c48f10d0969?  \n#WSHOP-28452 【S】【支付模块】通过SDK方案接入nspayment信用卡支付"
+    },
+    {
+        "name": "v1.46.73-h.6.f.sproutpay.1",
+        "desc": "##  wshop v1.46.73-h.6.f.sproutpay.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66b9df83ef307c97d00ad5ae?  \n#WSHOP-29057 【S】【支付模块】新增SproutPay-klarna支付  "
+    },
+    {
+        "name": "v1.46.73-h.6.f.pobox.1",
+        "desc": "##  wshop v1.46.73-h.6.f.pobox.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66820b9491a32843e24e028d?   \n#WSHOP-28445 【S】【购物车模块】美国物流地址中含po box时地址校验不通过  "
+    },
+    {
+        "name": "v1.48.0-beta.10.f.tracklog",
+        "desc": "##  wshop v1.48.0-beta.10.f.tracklog 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.60",
+        "desc": "##  wshop v1.47.60 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29163](https://wfwl.pingcode.com/agile/items/66bf158ed8c98bc611df86fd) 【缺陷】【应用中心-Pixel Conversion】fbcapi接口带上了自定义请求头w-trace-keepalive，在部分浏览器上会被拦截   !17428"
+    },
+    {
+        "name": "v1.48.0-beta.17",
+        "desc": "##  wshop v1.48.0-beta.17 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29163](https://wfwl.pingcode.com/agile/items/66bf158ed8c98bc611df86fd) 【缺陷】【应用中心-Pixel Conversion】fbcapi接口带上了自定义请求头w-trace-keepalive，在部分浏览器上会被拦截   !17428"
+    },
+    {
+        "name": "v1.48.0-beta.16.press.1",
+        "desc": "##  wshop v1.48.0-beta.16.press.1 版本更新日志  \n**陈阳杨**  \n[#WSHOP-29169](https://wfwl.pingcode.com/agile/items/66bf2dca5bbf9a1e87aae536) 【严重缺陷】【支付】passion/pacypay在结账页排序为第一位时无法结账 !17431"
+    },
+    {
+        "name": "v1.46.73-h.2.f.xbsdk.2",
+        "desc": "##  wshop v1.46.73-h.2.f.xbsdk.2 版本更新日志  \n修改测试端点到   \nhttps://test-xapi.hessdtool.com/payment/interface/do   \nhttps://test-xapi.hessdtool.com/View/js/xb.min.js   "
+    },
+    {
+        "name": "v1.48.0-beta.16",
+        "desc": "##  wshop v1.48.0-beta.16 版本更新日志  \n**陈阳杨**  \n[#WSHOP-29169](https://wfwl.pingcode.com/agile/items/66bf2dca5bbf9a1e87aae536) 【严重缺陷】【支付】passion/pacypay在结账页排序为第一位时无法结账 !17431"
+    },
+    {
+        "name": "v1.46.73-h.6.ppgooglepay.3",
+        "desc": "##  wshop v1.46.73-h.6.ppgooglepay.3 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.6.ppgooglepay.2",
+        "desc": "##  wshop v1.46.73-h.6.ppgooglepay.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.7.srpaysdk.1",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.7.srpaysdk.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.6.ppgooglepay.1",
+        "desc": "##  wshop v1.46.73-h.6.ppgooglepay.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.48.0-beta.15",
+        "desc": "##  wshop v1.48.0-beta.15 版本更新日志  \n**纪维坚**  \n[#WSHOP-29146](https://wfwl.pingcode.com/agile/items/66bec65038beab6d199b9dff) 【严重缺陷】【营销】处于v1时，api/v2/admin/products/search 接口没有准确返回商品已经商品的优惠   !17423  \n[#WSHOP-29151](https://wfwl.pingcode.com/agile/items/66bece4b38beab6d199bd39c) 【严重缺陷】【营销】处于v2时，openapi接口创建优惠接口报500   !17423"
+    },
+    {
+        "name": "v1.48.0-beta.14",
+        "desc": "##  wshop v1.48.0-beta.14 版本更新日志  \n**林潇**  \n[#WSHOP-29100](https://wfwl.pingcode.com/agile/items/66bc682338beab6d19935514) 【严重缺陷】【营销-满送优惠】新版营销，v1.45.79升级v1.46.69，雅典娜主题不显示满送优惠 !17427"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.7",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.7 版本更新日志  \n**纪维坚**  \n[#WSHOP-29151](https://wfwl.pingcode.com/agile/items/66bece4b38beab6d199bd39c) 【严重缺陷】【营销】新版营销，1.45.79升级到1.46.69，处于v2时，openapi接口创建优惠接口报500   !17425"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.6",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.6 版本更新日志  \n**纪维坚**  \n[#WSHOP-29070](https://wfwl.pingcode.com/agile/items/66bb01e9d0285fc5b18bcf84) 【缺陷】【营销】新版营销，1.45.79升级到1.46.69，新的订单表的总金额，折扣金额，物流金额字段金额错误   !17379  \n[#WSHOP-29092](https://wfwl.pingcode.com/agile/items/66bc48e55816cd1f806d6cbf) 【缺陷】【营销】新版营销，v1.44.95升级到v1.45.79，使用税费的订单，wp_woocommerce_order_itemmeta表的字段_line_tax取值不正确和order_line_items表的tax_total不正确   !17379  \n[#WSHOP-29097](https://wfwl.pingcode.com/agile/items/66bc60e738beab6d19930918) 【缺陷】【营销-优惠码】新版营销，接口/api/admin/coupons/code_page部分场景返回的数据不准确   !17379"
+    },
+    {
+        "name": "v1.48.0-beta.13",
+        "desc": "##  wshop v1.48.0-beta.13 版本更新日志  \n**吴国锋**  \n[#WSHOP-29136](https://wfwl.pingcode.com/agile/items/66bde728b19ba441b2c4eefb) 【缺陷】【订单】对订单取消退款时，order_line_items表sku_refund字段的数据没有更新 !17417  \n**余清红**  \n[#WSHOP-29066](https://wfwl.pingcode.com/agile/items/66bafccb099e825040d92fb2) 【缺陷】【智能搜索】开启地区访问限制，在编辑器内使用智能搜索，页面403   !17380  \n**纪维坚**  \n[#WSHOP-29070](https://wfwl.pingcode.com/agile/items/66bb01e9d0285fc5b18bcf84) 【缺陷】【营销】新版营销，1.45.79升级到1.46.69，新的订单表的总金额，折扣金额，物流金额字段金额错误   !17379  \n[#WSHOP-29092](https://wfwl.pingcode.com/agile/items/66bc48e55816cd1f806d6cbf) 【缺陷】【营销】新版营销，v1.44.95升级到v1.45.79，使用税费的订单，wp_woocommerce_order_itemmeta表的字段_line_tax取值不正确和order_line_items表的tax_total不正确   !17379  \n[#WSHOP-29097](https://wfwl.pingcode.com/agile/items/66bc60e738beab6d19930918) 【缺陷】【营销-优惠码】新版营销，接口/api/admin/coupons/code_page部分场景返回的数据不准确   !17379"
+    },
+    {
+        "name": "v1.47.59",
+        "desc": "##  wshop v1.47.59 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29115](https://wfwl.pingcode.com/agile/items/66bd74203f1ffae8f585aa6f) 【缺陷】【sentry】【统计】track接口带上了自定义请求头w-trace-keepalive，在部分浏览器上可能会被拦截   !17419"
+    },
+    {
+        "name": "v1.48.0-beta.12",
+        "desc": "##  wshop v1.48.0-beta.12 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29115](https://wfwl.pingcode.com/agile/items/66bd74203f1ffae8f585aa6f) 【缺陷】【sentry】track接口带上了自定义请求头w-trace-keepalive，在部分浏览器上可能会被拦截   !17401"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.5",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.5 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致  !17414"
+    },
+    {
+        "name": "v1.48.0-beta.11",
+        "desc": "##  wshop v1.48.0-beta.11 版本更新日志  \n**陈阳杨**  \n[#WSHOP-29137](https://wfwl.pingcode.com/agile/items/66bde78438beab6d1999c0ea) 【严重缺陷】【支付】Paypal发起授权不通过或支付后放弃，重新发起支付后PayPal结账失败 !17413"
+    },
+    {
+        "name": "v1.47.58",
+        "desc": "##  wshop v1.47.58 版本更新日志  \n**陈阳杨**  \n[#WSHOP-29137](https://wfwl.pingcode.com/agile/items/66bde78438beab6d1999c0ea) 【严重缺陷】【支付】Paypal发起授权不通过或支付后放弃，重新发起支付后PayPal结账失败 !17413"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.4",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.4 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致 !17407"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.3",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.3 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致 !17407"
+    },
+    {
+        "name": "v1.46.73-h.2.f.xbsdk.1",
+        "desc": "##  wshop v1.46.73-h.2.f.xbsdk.1 版本更新日志  \n调整xb的js地址到https://vsnklp.etailplace.com/View/js/xb.min.js  "
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.2",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.2 版本更新日志  \n**林潇**  \n[#WSHOP-29127](https://wfwl.pingcode.com/agile/items/66bdab0838beab6d1997c6f6) 【缺陷】【物流】新版营销，单页结账移动端顶部的金额显示错误、没有包含运费 !17406"
+    },
+    {
+        "name": "v1.46.73-h.6-f.rule.1",
+        "desc": "##  wshop v1.46.73-h.6-f.rule.1 版本更新日志  \n**林潇**  \n[#WSHOP-29023](https://wfwl.pingcode.com/agile/items/66b5ee19e3eeebbe38c0b73e) 【缺陷】【主题】新版营销，最新版本的浏览器中雅典娜主题商品详情页的“Quantity”修改数量输入框显示异常 !17388  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致 !17407"
+    },
+    {
+        "name": "v1.47.57",
+        "desc": "##  wshop v1.47.57 版本更新日志  \n**吴国锋**  \n回滚 [#WSHOP-29035](https://wfwl.pingcode.com/agile/items/66b97dc8df1b6972d74db5d3) 【缺陷】【顾客】单页结账邮箱由合规变成不合规时生成的顾客异常，导致相关邮件发送会报错 !17408"
+    },
+    {
+        "name": "v1.48.0-beta.10",
+        "desc": "##  wshop v1.48.0-beta.10 版本更新日志  \n**吴国锋**  \n回滚 [#WSHOP-29035](https://wfwl.pingcode.com/agile/items/66b97dc8df1b6972d74db5d3) 【缺陷】【顾客】单页结账邮箱由合规变成不合规时生成的顾客异常，导致相关邮件发送会报错 !17408  \n[#WSHOP-28986](https://wfwl.pingcode.com/agile/items/66b46975b8ec715dd09aeffe) 【小优化】【技术改进】【支付模块】nspayment，pacypay，payoneer，payssion，stripe服务相关网关替换ordermeta读写方法 !17323  \n**林潇**  \n[#WSHOP-29109](https://wfwl.pingcode.com/agile/items/66bc7edf5bbf9a1e87a05be8) 【缺陷】【物流】应用优惠码物流运费有变化时、结账页的订单摘要中显示的运费没有更新 !17402  \n[#WSHOP-29127](https://wfwl.pingcode.com/agile/items/66bdab0838beab6d1997c6f6) 【缺陷】【物流】新版营销，单页结账移动端顶部的金额显示错误、没有包含运费 !17402  \n**余清红**  \n[#WSHOP-29062](https://wfwl.pingcode.com/agile/items/66baf61d5816cd1f80684ea8) 【缺陷】【店铺装修-结账页】开启地区访问限制后，v2主题编辑器中结账页点击页脚政策链接提示403   !17383  \n**李娜**  \n[#WSHOP-29074](https://wfwl.pingcode.com/agile/items/66bb22323f1ffae8f57dc6f2) 【小优化】【技术需求】【购物车-结账页】单页结账变更国家方法优化   !17223\n\n##  依赖wp的版本是v1.10.37\n**李娜**  \n[#WSHOP-29074](https://wfwl.pingcode.com/agile/items/66bb22323f1ffae8f57dc6f2) 【小优化】【技术需求】【购物车-结账页】单页结账变更国家方法优化 !272   "
+    },
+    {
+        "name": "v1.46.73-h.6.f.refundform.1",
+        "desc": "##  wshop v1.46.73-h.6.f.refundform.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/660a26eb998f9c08622897bb?   \n#WSHOP-27243 【S】【购物车模块】历史订单Thankyou页面删除金额和物流信息  \nhttps://wfwl.pingcode.com/pjm/items/662b4422aff36de7e453f9a3?   \n#WSHOP-27623 【S】【主题模块】页脚增加退款申请入口   "
+    },
+    {
+        "name": "v1.47.56",
+        "desc": "##  wshop v1.47.56 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29107](https://wfwl.pingcode.com/agile/items/66bc76735bbf9a1e87a00bc5) 【缺陷】【TD同步】【店铺管理-追踪设置】Lucky Orange 不生效   !17395"
+    },
+    {
+        "name": "v1.48.0-beta.9",
+        "desc": "##  wshop v1.48.0-beta.9 版本更新日志  \n**徐钟焬**  \n[#WSHOP-29107](https://wfwl.pingcode.com/agile/items/66bc76735bbf9a1e87a00bc5) 【缺陷】【TD同步】【店铺管理-追踪设置】Lucky Orange 不生效   !17395  \n**林潇**  \n[#WSHOP-29023](https://wfwl.pingcode.com/agile/items/66b5ee19e3eeebbe38c0b73e) 【缺陷】【主题】新版营销，最新版本的浏览器中雅典娜主题商品详情页的“Quantity”修改数量输入框显示异常 !17388  \n**方全勇**  \n[#WSHOP-29061](https://wfwl.pingcode.com/agile/items/66baf60d099e825040d8ef07) 【小优化】【技术改进】get_integrity函数移到helper.php !17364"
+    },
+    {
+        "name": "v1.47.55",
+        "desc": "##  wshop v1.47.55 版本更新日志  \n**苏俊杰**  \n[#WSHOP-29079](https://wfwl.pingcode.com/agile/items/66bb2f1038beab6d198f22b5) 【小优化】【技术改进】【统计模块】track 预览模式判断逻辑优化   !17374  \n**陈荣辉**  \n[#WSHOP-28987](https://wfwl.pingcode.com/agile/items/66b4759bb8ec715dd09b6d82) 【缺陷】【店铺管理-店铺装修】商品详情页图片模块，当尺寸为768及768以下尺寸时应该展示移动端图片   !17351"
+    },
+    {
+        "name": "v1.48.0-beta.8",
+        "desc": "##  wshop v1.48.0-beta.8 版本更新日志  \n**苏俊杰**  \n[#WSHOP-29079](https://wfwl.pingcode.com/agile/items/66bb2f1038beab6d198f22b5) 【小优化】【技术改进】【统计模块】track 预览模式判断逻辑优化   !17374  \n**陈荣辉**  \n[#WSHOP-28987](https://wfwl.pingcode.com/agile/items/66b4759bb8ec715dd09b6d82) 【缺陷】【店铺管理-店铺装修】商品详情页图片模块，当尺寸为768及768以下尺寸时应该展示移动端图片   !17351"
+    },
+    {
+        "name": "v1.47.54",
+        "desc": "##  wshop v1.47.54 版本更新日志  \n**胡圣杰**  \n[#WSHOP-29028](https://wfwl.pingcode.com/agile/items/66b97b13df1b6972d74d9992) 【缺陷】【文件】图片删除时，数据库中文件的更新时间没有使用gmt时间 !17373  \n**吴国锋**  \n[#WSHOP-29035](https://wfwl.pingcode.com/agile/items/66b97dc8df1b6972d74db5d3) 【缺陷】【邮件】单页结账邮箱由合规变成不合规时，相关邮件发送会报错 !17347  \n**黄宝鸣**  \n[#WSHOP-28877](https://wfwl.pingcode.com/agile/items/66a8ae4fef307c97d0d86af0) 【小功能】【V2主题】【技术改进】【安全需求】所有script都需要加上integrity !17384"
+    },
+    {
+        "name": "v1.48.0-beta.7",
+        "desc": "##  wshop v1.48.0-beta.7 版本更新日志  \n**黄宝鸣**  \n[#WSHOP-28877](https://wfwl.pingcode.com/agile/items/66a8ae4fef307c97d0d86af0) 【小功能】【V2主题】【技术改进】【安全需求】所有script都需要加上integrity   !17377  \n**胡圣杰**  \n[#WSHOP-29028](https://wfwl.pingcode.com/agile/items/66b97b13df1b6972d74d9992) 【缺陷】【文件】图片删除时，数据库中文件的更新时间没有使用gmt时间 !17373  \n**吴国锋**  \n[#WSHOP-29035](https://wfwl.pingcode.com/agile/items/66b97dc8df1b6972d74db5d3) 【缺陷】【邮件】单页结账邮箱由合规变成不合规时，相关邮件发送会报错 !17347"
+    },
+    {
+        "name": "v1.46.73-h.6.sandbox",
+        "desc": "##  wshop v1.46.73-h.6.sandbox 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致   !17370"
+    },
+    {
+        "name": "v1.46.73-h.6.aliyun",
+        "desc": "##  wshop v1.46.73-h.6.aliyun 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致   !17370"
+    },
+    {
+        "name": "v1.47.53",
+        "desc": "##  wshop v1.47.53 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28977](https://wfwl.pingcode.com/agile/items/66b324d1811bdf485408ffdb) 【缺陷】【设置-文件】文件-上传保存接口重复显式上传时，file_name未生效且接口返回的post.alt数据有误 !17372  \n[#WSHOP-29072](https://wfwl.pingcode.com/agile/items/66bb07f6d8c98bc611cf424b) 【严重缺陷】【导入导出】导入的文件验证规则过于严格，导致商品导入失败 !17366"
+    },
+    {
+        "name": "v1.48.0-beta.6",
+        "desc": "##  wshop v1.48.0-beta.6 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28977](https://wfwl.pingcode.com/agile/items/66b324d1811bdf485408ffdb) 【缺陷】【设置-文件】文件-上传保存接口重复显式上传时，file_name未生效且接口返回的post.alt数据有误 !17372  \n[#WSHOP-29072](https://wfwl.pingcode.com/agile/items/66bb07f6d8c98bc611cf424b) 【严重缺陷】【导入导出】导入的文件验证规则过于严格，导致商品导入失败 !17366"
+    },
+    {
+        "name": "v1.46.85",
+        "desc": "##  wshop v1.46.85 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致   !17358\n\n##  依赖wp的版本是v1.10.33-h.2\n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致  "
+    },
+    {
+        "name": "v1.46.73-h.6",
+        "desc": "##  wshop v1.46.73-h.6 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致   !17370\n\n##  依赖wp的版本是v1.10.33-h.2\n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致  "
+    },
+    {
+        "name": "v1.47.52",
+        "desc": "##  wshop v1.47.52 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致   !17358\n\n##  依赖wp的版本是v1.10.33-h.2\n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致  "
+    },
+    {
+        "name": "v1.48.0-beta.5",
+        "desc": "##  wshop v1.48.0-beta.5 版本更新日志  \n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致   !17358\n\n##  依赖wp的版本是v1.10.36\n**纪维坚**  \n[#WSHOP-29053](https://wfwl.pingcode.com/agile/items/66b9ca09e677b00fcb0ae7fb) 【严重缺陷】【营销】部分场景下订单详情中的商品折扣与总折扣不一致  "
+    },
+    {
+        "name": "v1.47.51",
+        "desc": "##  wshop v1.47.51 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28997](https://wfwl.pingcode.com/agile/items/66b5b1cfe5f73e13ef103332) 【缺陷】【主题】【TD同步】开启面包屑商城侧移动端间距有误   !17352"
+    },
+    {
+        "name": "v1.48.0-beta.4",
+        "desc": "##  wshop v1.48.0-beta.4 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28997](https://wfwl.pingcode.com/agile/items/66b5b1cfe5f73e13ef103332) 【缺陷】【主题】【TD同步】开启面包屑商城侧移动端间距有误   !17352"
+    },
+    {
+        "name": "v1.46.73-h.5.f.stats.2",
+        "desc": "##  wshop v1.46.73-h.5.f.stats.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.50",
+        "desc": "##  wshop v1.47.50 版本更新日志  \n**吴国锋**  \n[#WSHOP-29058](https://wfwl.pingcode.com/agile/items/66b9e870e3eeebbe38c7b1da) 【严重缺陷】【支付】运费险关闭不添加小费使用pp进行结账失败 !17357  \n**张清洪**  \n[#WSHOP-29045](https://wfwl.pingcode.com/agile/items/66b9aedf811bdf4854194e45) 【缺陷】【TD同步】【商品-商品分类】完成付款后，商品没有正常加入库存自动分类中   !17350"
+    },
+    {
+        "name": "v1.48.0-beta.3",
+        "desc": "##  wshop v1.48.0-beta.3 版本更新日志  \n**吴国锋**  \n[#WSHOP-29058](https://wfwl.pingcode.com/agile/items/66b9e870e3eeebbe38c7b1da) 【严重缺陷】【支付】运费险关闭不添加小费使用pp进行结账失败 !17357  \n**张清洪**  \n[#WSHOP-29045](https://wfwl.pingcode.com/agile/items/66b9aedf811bdf4854194e45) 【缺陷】【TD同步】【商品-商品分类】完成付款后，商品没有正常加入库存自动分类中   !17350"
+    },
+    {
+        "name": "v1.48.0-beta.2",
+        "desc": "##  wshop v1.48.0-beta.2 版本更新日志  \n**胡圣杰**  \n[#WSHOP-29052](https://wfwl.pingcode.com/agile/items/66b9c7c1e3eeebbe38c69474) 【缺陷】【主题-个人中心】注册页注册的次数达到限制次数后，进入注册页谷歌验证机器人显示流程有误 !17355  \n**苏俊杰**  \n[#WSHOP-28499](https://wfwl.pingcode.com/agile/items/66860e5cf97008f33ce4351b) 【缺陷】【应用中心-广告助手】部分特殊符号无法正常筛选数据，搜出来是全部结果   !17301"
+    },
+    {
+        "name": "v1.47.49",
+        "desc": "##  wshop v1.47.49 版本更新日志  \n**胡圣杰**  \n[#WSHOP-29052](https://wfwl.pingcode.com/agile/items/66b9c7c1e3eeebbe38c69474) 【缺陷】【主题-个人中心】注册页注册的次数达到限制次数后，进入注册页谷歌验证机器人显示流程有误 !17355  \n**苏俊杰**  \n[#WSHOP-28499](https://wfwl.pingcode.com/agile/items/66860e5cf97008f33ce4351b) 【缺陷】【应用中心-广告助手】部分特殊符号无法正常筛选数据，搜出来是全部结果   !17301"
+    },
+    {
+        "name": "v1.48.0-beta.1",
+        "desc": "##  wshop v1.48.0-beta.1 版本更新日志  \n**纪维坚**  \n[#WSHOP-28275](https://wfwl.pingcode.com/agile/items/666b0ddfc5726f15227e07e6) 【小优化】【A】【营销】新版营销：新版营销仅保留旧版有的功能，新功能全部隐藏   !17327  \n[#WSHOP-22991](https://wfwl.pingcode.com/agile/items/6489376a067fe06567da8a8d) 【大功能】【A】【营销模块】新版营销-自动折扣（固定金额、百分比折扣）优惠类型实现   !17327  \n[#WSHOP-22995](https://wfwl.pingcode.com/agile/items/64a41b7a0737a772c1dd8abe) 【大功能】【A】【营销模块】新版营销-自动折扣增加第M件优惠   !17327  \n[#WSHOP-22993](https://wfwl.pingcode.com/agile/items/64a41e300b846856077d8a98) 【大功能】【A】【营销模块】新版营销-自动折扣增加满送优惠   !17327  \n[#WSHOP-22997](https://wfwl.pingcode.com/agile/items/64ad1bbbd68fc313cbd4b294) 【大功能】【A】【营销模块】新版营销-优惠码（固定折扣、百分比折扣）优惠类型实现   !17327  \n[#WSHOP-22998](https://wfwl.pingcode.com/agile/items/64ad1bfc1518fc9f4f420a26) 【大功能】【A】【营销模块】新版营销-优惠码（满送优惠）优惠类型实现   !17327  \n[#WSHOP-22999](https://wfwl.pingcode.com/agile/items/64ad1c2c1518fc9f4f420d13) 【大功能】【A】【营销模块】新版营销-优惠码（免运费）优惠类型实现   !17327  \n[#WSHOP-23012](https://wfwl.pingcode.com/agile/items/64af57edda39d488d28bff38) 【小优化】【A】【营销模块】新版营销-权限迁移   !17327  \n[#WSHOP-23187](https://wfwl.pingcode.com/agile/items/64ba280b81a48489bb8480e0) 【小功能】【A】【营销模块】新版营销-组合优惠迁移与旧数据兼容   !17327  \n[#WSHOP-23188](https://wfwl.pingcode.com/agile/items/64ba427f7b33101f70787e71) 【大功能】【A】【营销模块】新版营销-自动折扣增加高级设置、商城样式配置   !17327  \n[#WSHOP-23189](https://wfwl.pingcode.com/agile/items/64ba4b9d91c517a83771f9f1) 【小功能】【A】【营销模块】新版营销-商城优惠文案支持自定义   !17327  \n[#WSHOP-23741](https://wfwl.pingcode.com/agile/items/64df0783d3791f72132f9ab8) 【小优化】【A】【营销模块】新版营销折扣入口拆分细化   !17327  \n[#WSHOP-23742](https://wfwl.pingcode.com/agile/items/64df1a7ac1cd5f188374fa7b) 【小优化】【A】【营销模块】新版折扣添加提示文案   !17327  \n[#WSHOP-23810](https://wfwl.pingcode.com/agile/items/64e41d2af2ee1315f5d75996) 【小功能】【A】【营销模块】营销模块需要支持新旧版本切换   !17327  \n[#WSHOP-24923](https://wfwl.pingcode.com/agile/items/6531e4e0a81578ad44bcc3a0) 【小功能】【A】【营销模块】新版营销样式支持每个活动单独配置   !17327  \n[#WSHOP-25103](https://wfwl.pingcode.com/agile/items/6540a5bcbe3cbe8104744237) 【大功能】【A】【营销模块】新版营销-满送优惠（买X送X）优惠类型实现   !17327  \n[#WSHOP-26652](https://wfwl.pingcode.com/agile/items/65bf6b1098b36d9947be279c) 【小功能】【A】【营销模块】新版营销迁移规则优化   !17327  \n[#WSHOP-27014](https://wfwl.pingcode.com/agile/items/65f2aa73e915633e5cc013f1) 【小功能】【A】【营销模块】新版营销第M件优惠表格文案支持自定义   !17327  \n[#WSHOP-27837](https://wfwl.pingcode.com/agile/items/6641acc013ef304fd907e785) 【小功能】【A】【营销模块】新版营销-第M件优惠支持配置为最低优先级生效   !17327  \n[#WSHOP-27838](https://wfwl.pingcode.com/agile/items/6641cc5e13ef304fd9095192) 【小功能】【A】【营销模块】新版营销-免运费优惠码支持设置最高优惠金额   !17327  \n[#WSHOP-24383](https://wfwl.pingcode.com/agile/items/650aa39f54d0ab4fcf45b641) 【小功能】【A】【营销模块】新版营销记录操作日志   !17327  \n[#WSHOP-28035](https://wfwl.pingcode.com/agile/items/6655444d13ef304fd945aca6) 【小优化】【技术改进】【营销模块】新版营销-升级至新版折扣使用手动切换   !17327  \n[#WSHOP-28266](https://wfwl.pingcode.com/agile/items/666abb0b8b5af64f7ea28989) 【大优化】【技术改进】【营销模块】新版营销-新版折扣数据双写   !17327  \n[#WSHOP-28206](https://wfwl.pingcode.com/agile/items/66680b62db988092a70b19d0) 【小优化】【技术改进】【营销模块】新版营销-一页商店获取梯度和满送折扣的接口新旧版本兼容   !17327  \n[#WSHOP-27660](https://wfwl.pingcode.com/agile/items/662f0d2b7d9ba0f43482484c) 【需求】【技术改进】【营销模块】新版营销-对折扣过滤器性能优化   !17327  \n[#WSHOP-22266](https://wfwl.pingcode.com/agile/items/647d9dadf0dd979c274ffd56) 【大优化】【技术改进】【营销重构】营销重构升级对应接口和旧数据兼容   !17327\n\n##  依赖wp的版本是v1.10.34\n**纪维坚**  \n[#WSHOP-26652](https://wfwl.pingcode.com/agile/items/65bf6b1098b36d9947be279c) 【小功能】【A】【营销模块】新版营销迁移规则优化  \n[#WSHOP-25103](https://wfwl.pingcode.com/agile/items/6540a5bcbe3cbe8104744237) 【大功能】【A】【营销模块】新版营销-满送优惠（买X送X）优惠类型实现 "
+    },
+    {
+        "name": "v1.47.48",
+        "desc": "##  wshop v1.47.48 版本更新日志  \n**张清洪**  \n[#WSHOP-28963](https://wfwl.pingcode.com/agile/items/66b2d0c3821349d1b643a014) 【缺陷】【商品】商城侧商品列表接口获取较多数据内存溢出   !17316  \n**吴国锋**  \n[#WSHOP-28936](https://wfwl.pingcode.com/agile/items/66b0732eefe25ac157f66538) 【小优化】【技术改进】【支付模块】paypal服务相关网关替换ordermeta读写方法 !17292"
+    },
+    {
+        "name": "v1.46.73-h.5.f.stats.1",
+        "desc": "##  wshop v1.46.73-h.5.f.stats.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.47",
+        "desc": "##  wshop v1.47.47 版本更新日志  \n**黄宝鸣**  \n[#WSHOP-28877](https://wfwl.pingcode.com/agile/items/66a8ae4fef307c97d0d86af0) 【小功能】【V2主题】【技术改进】【安全需求】所有script都需要加上integrity !17260"
+    },
+    {
+        "name": "v1.46.73-h.5.sandbox",
+        "desc": "##  wshop v1.46.73-h.5.sandbox 版本更新日志  \n**张清洪**  \n[#WSHOP-28999](https://wfwl.pingcode.com/agile/items/66b5b5b7df1b6972d747e985) 【缺陷】【商品-商品列表】当商城侧访问链接带上cache时，部分插件无法正常加载   !17335"
+    },
+    {
+        "name": "v1.46.73-h.5.aliyun",
+        "desc": "##  wshop v1.46.73-h.5.aliyun 版本更新日志  \n**张清洪**  \n[#WSHOP-28999](https://wfwl.pingcode.com/agile/items/66b5b5b7df1b6972d747e985) 【缺陷】【商品-商品列表】当商城侧访问链接带上cache时，部分插件无法正常加载   !17335"
+    },
+    {
+        "name": "v1.46.73-h.5-f.rule.1",
+        "desc": "##  wshop v1.46.73-h.5-f.rule.1 版本更新日志  \n\n组合版本：{\"store\": \"v1.46.73-f.rule.2\", \"admin\": \"v1.46.18-f.rule.2\", \"mshop-admin\": \"v1.46.24-f.rule.1\", \"nginx\": \"v1.3.14\", \"wp\": \"v1.10.33-f.rule.1\"}\n\n基于版本：{\"store\": \"v1.46.73-h.5\", \"admin\": \"v1.46.19\", \"mshop-admin\": \"v1.46.25\", \"wp\": \"v1.10.33\", \"nginx\": \"v1.3.14\"}"
+    },
+    {
+        "name": "v1.46.73-h.5",
+        "desc": "##  wshop v1.46.73-h.5 版本更新日志  \n**张清洪**  \n[#WSHOP-28999](https://wfwl.pingcode.com/agile/items/66b5b5b7df1b6972d747e985) 【缺陷】【商品-商品列表】当商城侧访问链接带上cache时，部分插件无法正常加载   !17335"
+    },
+    {
+        "name": "v1.46.84",
+        "desc": "##  wshop v1.46.84 版本更新日志  \n**张清洪**  \n[#WSHOP-28999](https://wfwl.pingcode.com/agile/items/66b5b5b7df1b6972d747e985) 【缺陷】【商品-商品列表】当商城侧访问链接带上cache时，部分插件无法正常加载   !17335"
+    },
+    {
+        "name": "v1.47.46",
+        "desc": "##  wshop v1.47.46 版本更新日志  \n**张清洪**  \n[#WSHOP-28999](https://wfwl.pingcode.com/agile/items/66b5b5b7df1b6972d747e985) 【缺陷】【商品-商品列表】当商城侧访问链接带上cache时，部分插件无法正常加载   !17335"
+    },
+    {
+        "name": "v1.47.45",
+        "desc": "##  wshop v1.47.45 版本更新日志  \n**余清红**  \n[#WSHOP-28998](https://wfwl.pingcode.com/agile/items/66b5b53bb8ec715dd09fcc49) 【缺陷】【购物车-结账页】【TD同步】洲省选项默认文本显示有误   !17337  \n[#WSHOP-28993](https://wfwl.pingcode.com/agile/items/66b570eeefe25ac15708a0c2) 【缺陷】【店铺管理-店铺装修】athena主题语言配置为自定义语言时，不显示当前语言   !17336  \n**徐钟焬**  \n[#WSHOP-28873](https://wfwl.pingcode.com/agile/items/66a8921e59816bf8fb782c52) 【缺陷】【主题】【TD同步】图片对比模块光标位置设置非50%时移动端真机上滑动会按默认50%显示   !17331"
+    },
+    {
+        "name": "v1.46.73-h.4",
+        "desc": "##  wshop v1.46.73-h.4 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28884](https://wfwl.pingcode.com/agile/items/66a9a178df1b6972d720392e) 【大功能】【S】【支付模块】Nspayment的ApplePay增加快捷支付 !17334"
+    },
+    {
+        "name": "v1.46.83",
+        "desc": "##  wshop v1.46.83 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28884](https://wfwl.pingcode.com/agile/items/66a9a178df1b6972d720392e) 【大功能】【S】【支付模块】Nspayment的ApplePay增加快捷支付 !17332"
+    },
+    {
+        "name": "v1.47.44",
+        "desc": "##  wshop v1.47.44 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28884](https://wfwl.pingcode.com/agile/items/66a9a178df1b6972d720392e) 【大功能】【S】【支付模块】Nspayment的ApplePay增加快捷支付 !17330"
+    },
+    {
+        "name": "v1.46.73-h.3.f.ppgooglepay.3",
+        "desc": "##  wshop v1.46.73-h.3.f.ppgooglepay.3 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/669df3ba094b5dd563533225?  \n#WSHOP-28763 【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付  \nhttps://wfwl.pingcode.com/pjm/items/6695d913313cdc3501504a10?  \n#WSHOP-28673 【S】【支付模块】PayPal新增Apple Pay与Apple Pay快捷支付  "
+    },
+    {
+        "name": "v1.46.73-h.3.f.ppgooglepay.2",
+        "desc": "##  wshop v1.46.73-h.3.f.ppgooglepay.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.3.f.stats.3",
+        "desc": "##  wshop v1.46.73-h.3.f.stats.3 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.3.f.stats.2",
+        "desc": "##  wshop v1.46.73-h.3.f.stats.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73-h.3.f.ppgooglepay.1",
+        "desc": "##  wshop v1.46.73-h.3.f.ppgooglepay.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/669df3ba094b5dd563533225?  \n#WSHOP-28763 【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付  \nhttps://wfwl.pingcode.com/pjm/items/6695d913313cdc3501504a10?  \n#WSHOP-28673 【S】【支付模块】PayPal新增Apple Pay与Apple Pay快捷支付  "
+    },
+    {
+        "name": "v1.46.82",
+        "desc": "##  wshop v1.46.82 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28965](https://wfwl.pingcode.com/agile/items/66b2d80bff4f4179b26bc23e) 【小优化】【技术改进】【支付】PayPal网关增加Capture Order重复执行失败快速恢复 !17325"
+    },
+    {
+        "name": "v1.47.43",
+        "desc": "##  wshop v1.47.43 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28965](https://wfwl.pingcode.com/agile/items/66b2d80bff4f4179b26bc23e) 【小优化】【技术改进】【支付】PayPal网关增加Capture Order重复执行失败快速恢复 !17325  \n**徐钟焬**  \n[#WSHOP-28939](https://wfwl.pingcode.com/agile/items/66b09f05e5f73e13effde08a) 【小优化】【技术改进】CAPI 支持 text/plain   !17324"
+    },
+    {
+        "name": "v1.46.50-h.3.f.nsapexpress.3",
+        "desc": "##  wshop v1.46.50-h.3.f.nsapexpress.3 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66a9a178df1b6972d720392e?  \n#WSHOP-28884 【S】【支付模块】Nspayment的ApplePay增加快捷支付"
+    },
+    {
+        "name": "v1.46.73-h.3.f.stats.1",
+        "desc": "##  wshop v1.46.73-h.3.f.stats.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.81",
+        "desc": "##  wshop v1.46.81 版本更新日志  \n**李娜**  \n回滚 [#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，订单收货地址中电话号码为空 !17320"
+    },
+    {
+        "name": "v1.47.42",
+        "desc": "##  wshop v1.47.42 版本更新日志  \n**李娜**  \n回滚 [#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，订单收货地址中电话号码为空 !17320  \n**危俊泰**  \n[#WSHOP-28958](https://wfwl.pingcode.com/agile/items/66b1cf48821349d1b640cf74) 【缺陷】【地区访问限制】开启地区访问限制后，主题装修应能正常访问   !17317"
+    },
+    {
+        "name": "v1.46.73-h.3.aliyun",
+        "desc": "##  wshop v1.46.73-h.3.aliyun 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，订单收货地址中电话号码为空 !17320"
+    },
+    {
+        "name": "v1.46.73-h.3.sandbox",
+        "desc": "##  wshop v1.46.73-h.3.sandbox 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，订单收货地址中电话号码为空 !17320"
+    },
+    {
+        "name": "v1.46.73-h.3",
+        "desc": "##  wshop v1.46.73-h.3 版本更新日志  \n**陈阳杨**  \n回滚 [#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，订单收货地址中电话号码为空 !17320"
+    },
+    {
+        "name": "v1.46.73-h.2.f.srpaysdk.1",
+        "desc": "##  wshop v1.46.73-h.2.f.srpaysdk.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/66824b5536369c48f10d0969?  \n#WSHOP-28452 【S】【支付模块】通过SDK方案接入nspayment信用卡支付"
+    },
+    {
+        "name": "v1.46.80",
+        "desc": "##  wshop v1.46.80 版本更新日志  \n**庄铭**  \n[#WSHOP-28931](https://wfwl.pingcode.com/agile/items/66b036faff4f4179b2615285) 【小优化】【技术改进】track接口parameters参数统一新增url字段 !17318"
+    },
+    {
+        "name": "v1.47.41",
+        "desc": "##  wshop v1.47.41 版本更新日志  \n**庄铭**  \n[#WSHOP-28931](https://wfwl.pingcode.com/agile/items/66b036faff4f4179b2615285) 【小优化】【技术改进】track接口parameters参数统一新增url字段 !17305"
+    },
+    {
+        "name": "v1.46.79",
+        "desc": "##  wshop v1.46.79 版本更新日志  \n**林潇**  \n[#WSHOP-28959](https://wfwl.pingcode.com/agile/items/66b1d4c4ff4f4179b268e151) 【严重缺陷】【购物车】PP配置为一键授权商城无法展示PP快捷按钮 !17314  \n[#WSHOP-28957](https://wfwl.pingcode.com/agile/items/66b1cbb1efe25ac157fbdd92) 【严重缺陷】【购物车-结账页】apple pay/googlepay预授权成功后，无法回填信息页表单地址 !17311"
+    },
+    {
+        "name": "v1.46.73-h.2",
+        "desc": "##  wshop v1.46.73-h.2 版本更新日志  \n**林潇**  \n[#WSHOP-28957](https://wfwl.pingcode.com/agile/items/66b1cbb1efe25ac157fbdd92) 【严重缺陷】【购物车-结账页】apple pay/googlepay预授权成功后，无法回填信息页表单地址 !17311"
+    },
+    {
+        "name": "v1.47.40",
+        "desc": "##  wshop v1.47.40 版本更新日志  \n**林潇**  \n[#WSHOP-28959](https://wfwl.pingcode.com/agile/items/66b1d4c4ff4f4179b268e151) 【严重缺陷】【购物车】PP配置为一键授权商城无法展示PP快捷按钮 !17307   \n[#WSHOP-28957](https://wfwl.pingcode.com/agile/items/66b1cbb1efe25ac157fbdd92) 【严重缺陷】【购物车-结账页】apple pay/googlepay预授权成功后，无法回填信息页表单地址 !17310"
+    },
+    {
+        "name": "v1.47.39",
+        "desc": "##  wshop v1.47.39 版本更新日志  \n**缪磊磊**  \n[#WSHOP-28946](https://wfwl.pingcode.com/agile/items/66b182cadf1b6972d737025b) 【缺陷】【开放平台】openapi创建的私有元字段无法删除 !17300  \n**危俊泰**  \n[#WSHOP-28832](https://wfwl.pingcode.com/agile/items/66a364e816e616a49b35c24b) 【小优化】【技术改进】Instagram插件、推广达人插件、运营助手插件、博客中废弃使用文件 v1模型   !17235"
+    },
+    {
+        "name": "v1.46.78",
+        "desc": "##  wshop v1.46.78 版本更新日志  \n**庄铭**  \n[#WSHOP-28930](https://wfwl.pingcode.com/agile/items/66b034b2efe25ac157f48b9e) 【小优化】【技术改进】sentry进一步排除第三方js，增加integrity脚本失败的上报 !17298"
+    },
+    {
+        "name": "v1.47.38",
+        "desc": "##  wshop v1.47.38 版本更新日志  \n**庄铭**  \n[#WSHOP-28930](https://wfwl.pingcode.com/agile/items/66b034b2efe25ac157f48b9e) 【小优化】【技术改进】sentry进一步排除第三方js，增加integrity脚本失败的上报 !17298"
+    },
+    {
+        "name": "v1.47.37",
+        "desc": "##  wshop v1.47.37 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28937](https://wfwl.pingcode.com/agile/items/66b0770d821349d1b63b5d5d) 【严重缺陷】【支付】同时执行两个升级命令导致第一个升级命令覆盖，导致企业账号授权功能不可用 !17295"
+    },
+    {
+        "name": "v1.46.77",
+        "desc": "##  wshop v1.46.77 版本更新日志  \n**余清红**  \n[#WSHOP-28892](https://wfwl.pingcode.com/agile/items/66aa07a48f2663a8da260d86) 【缺陷】【店铺管理-店铺装修】athena主题页头未配置图片时，公告栏位置会显示图片缺失   !17297"
+    },
+    {
+        "name": "v1.47.36",
+        "desc": "##  wshop v1.47.36 版本更新日志  \n**余清红**  \n[#WSHOP-28892](https://wfwl.pingcode.com/agile/items/66aa07a48f2663a8da260d86) 【缺陷】【店铺管理-店铺装修】athena主题页头未配置图片时，公告栏位置会显示图片缺失   !17291  \n**胡圣杰**  \n[#WSHOP-28925](https://wfwl.pingcode.com/agile/items/66b02d2d363e24364bd2b537) 【缺陷】【TD同步】【设置-通知】评论邀请模板、评论感谢模板、降价模板模板点击预览中的logo 会跳转至商城侧   !17289  \n[#WSHOP-28927](https://wfwl.pingcode.com/agile/items/66b0322fef307c97d0ebdc12) 【缺陷】【TD同步】【设置-通知】评论邀请和感谢模板logo被压缩 !17289  \n**吴国锋**  \n[#WSHOP-28896](https://wfwl.pingcode.com/agile/items/66ab1f761bddc5a363131559) 【小优化】【技术改进】【支付模块】oceanpayment服务相关网关替换ordermeta读写方法 !17272  \n**纪维坚**  \n[#WSHOP-28852](https://wfwl.pingcode.com/agile/items/66a70daa0e2b5f3effcc0917) 【小优化】【技术改进】【应用中心-分享激励】分享访问统计业务从商品详情拆分，使用调用api方式实现   !17230"
+    },
+    {
+        "name": "v1.46.73-h.1",
+        "desc": "##  wshop v1.46.73-h.1 版本更新日志  \n**张清洪**  \n[#WSHOP-28908](https://wfwl.pingcode.com/agile/items/66ab494859816bf8fb839fd7) 【小优化】【商品】增加新商品路由，同时设置过期响应头   !17278"
+    },
+    {
+        "name": "v1.46.50-h.3.f.stats.4",
+        "desc": "##  wshop v1.46.50-h.3.f.stats.4 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.ppapplepay.2",
+        "desc": "##  wshop v1.46.50-h.3.f.ppapplepay.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.76",
+        "desc": "##  wshop v1.46.76 版本更新日志  \n**徐钟焬**  \n[#WSHOP-28916](https://wfwl.pingcode.com/agile/items/66ac75dd8f2663a8da2e73ff) 【缺陷】【店铺管理-店铺装修】athena主题博客详情页语言选择器和货币选择器没跟其他图标对齐   !17281"
+    },
+    {
+        "name": "v1.47.35",
+        "desc": "##  wshop v1.47.35 版本更新日志  \n**徐钟焬**  \n[#WSHOP-28916](https://wfwl.pingcode.com/agile/items/66ac75dd8f2663a8da2e73ff) 【缺陷】【店铺管理-店铺装修】athena主题博客详情页语言选择器和货币选择器没跟其他图标对齐   !17281  \n**黄宝鸣**  \n[#WSHOP-28692](https://wfwl.pingcode.com/agile/items/6696386916e616a49b0c59e7) 【小功能】【V2主题】【技术改进】商品详情、用户信息页面及关联snippets转为liquid模板   !17093  \n**缪磊磊**  \n[#WSHOP-28401](https://wfwl.pingcode.com/agile/items/667a862e10f693dac114a3ed) 【小优化】【技术改进】【主题V2】SaaS升级店铺主题版本时，删除旧主题策略优化 !16947"
+    },
+    {
+        "name": "v1.46.50-h.3.f.stats.3",
+        "desc": "##  wshop v1.46.50-h.3.f.stats.3 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.34",
+        "desc": "##  wshop v1.47.34 版本更新日志  \n**纪维坚**  \n[#WSHOP-28920](https://wfwl.pingcode.com/agile/items/66aca6ad59816bf8fb89b7ff) 【严重缺陷】【营销-满送优惠】/api/store/coupons/{id}接口中的real_value字段类型由数组修改成字符串导致v2主题不显示优惠信息   !17287"
+    },
+    {
+        "name": "v1.46.50-h.3.f.ppapplepay.1",
+        "desc": "##  wshop v1.46.50-h.3.f.ppapplepay.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.75",
+        "desc": "##  wshop v1.46.75 版本更新日志  \n**张清洪**  \n[#WSHOP-28908](https://wfwl.pingcode.com/agile/items/66ab494859816bf8fb839fd7) 【小优化】【商品】增加新商品路由，同时设置过期响应头   !17278  \n**吴国锋**  \n[#WSHOP-28868](https://wfwl.pingcode.com/agile/items/66a84de8cb4d9e47a98ed4f9) 【小功能】【技术改进】【邮件模块】wshop ses 邮件驱动增加配置集支持 !17243"
+    },
+    {
+        "name": "v1.47.33",
+        "desc": "##  wshop v1.47.33 版本更新日志  \n**张清洪**  \n[#WSHOP-28908](https://wfwl.pingcode.com/agile/items/66ab494859816bf8fb839fd7) 【小优化】【商品】增加新商品路由，同时设置过期响应头   !17278  \n**吴国锋**  \n[#WSHOP-28868](https://wfwl.pingcode.com/agile/items/66a84de8cb4d9e47a98ed4f9) 【小功能】【技术改进】【邮件模块】wshop ses 邮件驱动增加配置集支持 !17243"
+    },
+    {
+        "name": "v1.46.74",
+        "desc": "##  wshop v1.46.74 版本更新日志  \n**李娜**  \n[#WSHOP-28829](https://wfwl.pingcode.com/agile/items/66a35afe910128cc6fe91288) 【小优化】【地址补全服务】英国邮编缺失兜底优化   !17220  \n**庄铭**  \n[#WSHOP-28858](https://wfwl.pingcode.com/agile/items/66a75cac0e2b5f3effce6c71) 【大功能】【技术改进】【安全需求】所有script都需要加上integrity !17257"
+    },
+    {
+        "name": "v1.47.32",
+        "desc": "##  wshop v1.47.32 版本更新日志  \n**庄铭**  \n[#WSHOP-28858](https://wfwl.pingcode.com/agile/items/66a75cac0e2b5f3effce6c71) 【大功能】【技术改进】【安全需求】所有script都需要加上integrity !17249  \n**李娜**  \n[#WSHOP-28829](https://wfwl.pingcode.com/agile/items/66a35afe910128cc6fe91288) 【小优化】【地址补全服务】英国邮编缺失兜底优化   !17220  \n**徐钟焬**  \n[#WSHOP-28806](https://wfwl.pingcode.com/agile/items/66a0c5e6313cdc350172937f) 【缺陷】【店铺管理-店铺装修】athena主题通过款式组合切换商品时，规格应选中第一个有库存的规格   !17218"
+    },
+    {
+        "name": "v1.46.50-h.3.f.stats.2",
+        "desc": "##  wshop v1.46.50-h.3.f.stats.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.nsapexpress.2",
+        "desc": "##  wshop v1.46.50-h.3.f.nsapexpress.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.stats.1",
+        "desc": "##  wshop v1.46.50-h.3.f.stats.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.nsapexpress.1",
+        "desc": "##  wshop v1.46.50-h.3.f.nsapexpress.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.73",
+        "desc": "##  wshop v1.46.73 版本更新日志  \n**李仁康**  \n[#WSHOP-28779](https://wfwl.pingcode.com/agile/items/669f6faa313cdc35016d64ec) 【缺陷】【店铺管理-店铺装修】athena主题的power商品详情页主图应展示商品图库第一张图片 !17231  \n**方全勇**  \n[#WSHOP-28890](https://wfwl.pingcode.com/agile/items/66a9eec67cb08b02e6982558) 【小优化】【商品】【组合商品】商城侧组合商品信息压缩   !17051"
+    },
+    {
+        "name": "v1.47.31",
+        "desc": "##  wshop v1.47.31 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28614](https://wfwl.pingcode.com/agile/items/668e2e1d31856ffd54439bad) 【缺陷】【应用中心-商品规格调色板】商品详情规格配置下拉列表时，在商城侧web页面下拉后，旋转切换到移动端页面时，下拉的规格列表默认调起   !17259  \n**吴国锋**  \n[#WSHOP-28881](https://wfwl.pingcode.com/agile/items/66a8b79459816bf8fb79a7f6) 【小优化】【技术改进】【支付模块】Airwallex，Asiabill, Citcon，Dlocal，Cod服务相关网关替换ordermeta读写方法 !17252  \n[#WSHOP-28838](https://wfwl.pingcode.com/agile/items/66a36d622b157eb77c3fc65a) 【小优化】【技术改进】【支付模块】WorldPay服务相关网关替换ordermeta读写方法 !17219  \n**李仁康**  \n[#WSHOP-28779](https://wfwl.pingcode.com/agile/items/669f6faa313cdc35016d64ec) 【缺陷】【店铺管理-店铺装修】athena主题的power商品详情页主图应展示商品图库第一张图片 !17231  \n**方全勇**  \n[#WSHOP-28890](https://wfwl.pingcode.com/agile/items/66a9eec67cb08b02e6982558) 【小优化】【商品】【组合商品】商城侧组合商品信息压缩   !17051"
+    },
+    {
+        "name": "v1.46.72",
+        "desc": "##  wshop v1.46.72 版本更新日志  \n**林潇**  \n[#WSHOP-28512](https://wfwl.pingcode.com/agile/items/66875324dc38626a016daa86) 【缺陷】【购物车-结账页】预授权后点击complete order按钮后，加载完会停留结账页面，再跳转thankyou页 !17247  \n[#WSHOP-28347](https://wfwl.pingcode.com/agile/items/6673c5fbff21ffe3675b34a5) 【缺陷】【支付】开启处方信息插件在单页结账时用  Apply Pay 支付报错 !17262  \n**李仁康**  \n[#WSHOP-28051](https://wfwl.pingcode.com/agile/items/66558ab14de2e7e6c9175ccc) 【缺陷】【主题配置-店铺装修】vogue、athena，当搜索按钮弹窗打开时，页面应该不允许滚动 !17234"
+    },
+    {
+        "name": "v1.47.30",
+        "desc": "##  wshop v1.47.30 版本更新日志  \n**林潇**  \n[#WSHOP-28347](https://wfwl.pingcode.com/agile/items/6673c5fbff21ffe3675b34a5) 【缺陷】【支付】开启处方信息插件在单页结账时用  Apply Pay 支付报错 !17253  \n[#WSHOP-28512](https://wfwl.pingcode.com/agile/items/66875324dc38626a016daa86) 【缺陷】【购物车-结账页】预授权后点击complete order按钮后，加载完会停留结账页面，再跳转thankyou页 !17247  \n**李仁康**  \n[#WSHOP-28051](https://wfwl.pingcode.com/agile/items/66558ab14de2e7e6c9175ccc) 【缺陷】【主题配置-店铺装修】vogue、athena，当搜索按钮弹窗打开时，页面应该不允许滚动 !17234"
+    },
+    {
+        "name": "v1.46.71",
+        "desc": "##  wshop v1.46.71 版本更新日志  \n**李仁康**  \n[#WSHOP-28546](https://wfwl.pingcode.com/agile/items/668b59ccd80912b53fd5b24d) 【缺陷】【店铺装修-主题模块】power商品的商品详情页属性选择配置下拉框，且开启调色板，移动端属性样式不合理 !17173"
+    },
+    {
+        "name": "v1.47.29",
+        "desc": "##  wshop v1.47.29 版本更新日志  \n**林潇**  \n[#WSHOP-28778](https://wfwl.pingcode.com/agile/items/669f643e0e2b5f3effb7ef75) 【缺陷】【物流】指定场景出现结账页中显示没有选中运费 !17244  \n**李仁康**  \n[#WSHOP-28546](https://wfwl.pingcode.com/agile/items/668b59ccd80912b53fd5b24d) 【缺陷】【店铺装修-主题模块】power商品的商品详情页属性选择配置下拉框，且开启调色板，移动端属性样式不合理 !17173"
+    },
+    {
+        "name": "v1.46.70",
+        "desc": "##  wshop v1.46.70 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28870](https://wfwl.pingcode.com/agile/items/66a875577cb08b02e6918607) 【小优化】【技术改进】【支付】PayPal网关通过命令处理PLATFORM_FEES_NOT_SUPPORTED异常交易订单 !17245"
+    },
+    {
+        "name": "v1.47.28",
+        "desc": "##  wshop v1.47.28 版本更新日志  \n**张清洪**  \n[#WSHOP-28867](https://wfwl.pingcode.com/agile/items/66a84ce67b0367027f594d55) 【缺陷】【应用中心-Facebook Feed】更新Facebook Feed接口更新状态时，接口返回状态始终为true   !17255  \n[#WSHOP-28876](https://wfwl.pingcode.com/agile/items/66a8adff8f2663a8da205c8b) 【缺陷】【应用中心-Google Feed】重置Google商品属性接口返回500   !17250    \n**陈荣辉**  \n[#WSHOP-28875](https://wfwl.pingcode.com/agile/items/66a8a38e59816bf8fb78d6ef) 【缺陷】【店铺管理-店铺装修】vogue主题轮播图移动端未开启文本悬浮图片上时，文本对齐方式不符合预期，且文字内容可能会与图片不一致   !17248  \n**陈阳杨**  \n[#WSHOP-28870](https://wfwl.pingcode.com/agile/items/66a875577cb08b02e6918607) 【小优化】【技术改进】【支付】PayPal网关通过命令处理PLATFORM_FEES_NOT_SUPPORTED异常交易订单 !17245"
+    },
+    {
+        "name": "v1.46.50-h.3.f.missdata.1",
+        "desc": "##  wshop v1.46.50-h.3.f.missdata.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.ppcommand.1",
+        "desc": "##  wshop v1.46.50-h.3.f.ppcommand.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.69",
+        "desc": "##  wshop v1.46.69 版本更新日志  \n**林潇**  \n[#WSHOP-28789](https://wfwl.pingcode.com/agile/items/66a061500e2b5f3effba9ae2) 【缺陷】【店铺管理-店铺装修】athena主题，商品有定制Custom Options，从产品卡片加购商品时显示层级异常 !17237"
+    },
+    {
+        "name": "v1.47.27",
+        "desc": "##  wshop v1.47.27 版本更新日志  \n**张清洪**  \n[#WSHOP-28865](https://wfwl.pingcode.com/agile/items/66a84846fed07e7fe5c2e5d0) 【缺陷】【应用中心-产品卡片标签】新建产品卡片接口image字段传值有误   !17241  \n**纪维坚**  \n[#WSHOP-28841](https://wfwl.pingcode.com/agile/items/66a378c6094b5dd5636a291a) 【缺陷】【营销】/api/store/coupons/{id}接口，异常入参报500   !17240  \n**林潇**  \n[#WSHOP-28863](https://wfwl.pingcode.com/agile/items/66a7b5b81f18dd119b35781a) 【严重缺陷】【支付】PP配置由一键授权转至密钥绑定，使用PP无法结账 !17239  \n[#WSHOP-28789](https://wfwl.pingcode.com/agile/items/66a061500e2b5f3effba9ae2) 【缺陷】【店铺管理-店铺装修】athena主题，商品有定制Custom Options，从产品卡片加购商品时显示层级异常 !17237  \n**苏俊杰**  \n[#WSHOP-28851](https://wfwl.pingcode.com/agile/items/66a703fe094b5dd5636db19c) 【小优化】【技术改进】【统计模块】优化 track 屏蔽网段配置   !17229  \n**陈荣辉**  \n[#WSHOP-28850](https://wfwl.pingcode.com/agile/items/66a700d7c0fa85acf7e55bcc) 【缺陷】【sentry】vogue主题轮播图模块移动端设置平铺，自动播放，浏览器控制台报错   !17228  \n**胡圣杰**  \n[#WSHOP-28140](https://wfwl.pingcode.com/agile/items/665ed1430f62d8f3b63d37fd) 【大优化】【A】【导入导出模块】商品与库存导入优化 !16954"
+    },
+    {
+        "name": "v1.46.68",
+        "desc": "##  wshop v1.46.68 版本更新日志  \n**李仁康**  \n[#WSHOP-28804](https://wfwl.pingcode.com/agile/items/66a0b7e6910128cc6fdecc07) 【缺陷】【店铺管理-店铺装修】athena主题商品详情页通过款式组合切换power商品时不应该带变种id !17227"
+    },
+    {
+        "name": "v1.47.26",
+        "desc": "##  wshop v1.47.26 版本更新日志  \n**李仁康**  \n[#WSHOP-28804](https://wfwl.pingcode.com/agile/items/66a0b7e6910128cc6fdecc07) 【缺陷】【店铺管理-店铺装修】athena主题商品详情页通过款式组合切换power商品时不应该带变种id !17227  \n**吴国锋**  \n[#WSHOP-28137](https://wfwl.pingcode.com/agile/items/665ed6b10f62d8f3b63d74e2) 【小优化】【技术改进】【支付模块】Nspayment服务相关网关替换ordermeta读写方法 !17179  \n**胡圣杰**  \n[#WSHOP-28504](https://wfwl.pingcode.com/agile/items/66863f6258d7213c3bfe5d5a) 【小优化】【技术改进】【复制店铺】移除复制店铺旧接口 !17007"
+    },
+    {
+        "name": "v1.46.50-h.3.ab.bancontact.1",
+        "desc": "##  wshop v1.46.50-h.3.ab.bancontact.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.25",
+        "desc": "##  wshop v1.47.25 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28862](https://wfwl.pingcode.com/agile/items/66a779f6910128cc6ff15b19) 【严重缺陷】【支付】后台关闭本地支付开启pp-applepay，商城侧无法展示pp-applepay !17238"
+    },
+    {
+        "name": "v1.47.24",
+        "desc": "##  wshop v1.47.24 版本更新日志  \n**张清洪**  \n[#WSHOP-28812](https://wfwl.pingcode.com/agile/items/66a1ada30e2b5f3effbf3688) 【小优化】【技术改进】商品模块中废弃使用文件 v1模型   !17217"
+    },
+    {
+        "name": "v1.46.50-h.3.ab.transporttips.1",
+        "desc": "##  wshop v1.46.50-h.3.ab.transporttips.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.23",
+        "desc": "##  wshop v1.47.23 版本更新日志  \n**纪维坚**  \n[#WSHOP-28831](https://wfwl.pingcode.com/agile/items/66a36470910128cc6fe97122) 【缺陷】【应用中心-分享激励】分类的term_taxonomy_id、term_id不一致时，优惠码=指定分类时、/api/store/incentives/{id}接口返回数据可能有误   !17222  \n[#WSHOP-28835](https://wfwl.pingcode.com/agile/items/66a369f5c0fa85acf7e16e69) 【缺陷】【应用中心-】EXTRA优惠码，除满送优惠码外、加购的商品需满足生效条件后、结账页才能显示该优惠码   !17222  \n[#WSHOP-28839](https://wfwl.pingcode.com/agile/items/66a3723c313cdc35017ce4b7) 【严重缺陷】【应用中心-营销弹窗】支付失败挽留弹窗，普通优惠码不需要满足生效条件也应该有返回弹窗数据   !17222  \n[#WSHOP-28844](https://wfwl.pingcode.com/agile/items/66a37c7b03598de6900688b5) 【严重缺陷】【营销】/api/store/coupons/{id}接口、返回的product_ids字段为空   !17222  \n**余清红**  \n[#WSHOP-28834](https://wfwl.pingcode.com/agile/items/66a366740e2b5f3effc763a8) 【缺陷】【设置-语言】【TD同步】语言列表无数据时商城侧智能搜索文案内容显示异常   !17221  \n**缪磊磊**  \n[#WSHOP-28762](https://wfwl.pingcode.com/agile/items/669a3b7616e616a49b1bb334) 【小功能】客户线合并【A】【应用中心-促销倒计时】详情页促销倒计时支持按截止时间设置倒计时 !17204  \n**林潇**  \n[#WSHOP-28442](https://wfwl.pingcode.com/agile/items/667e911fdb988092a756ad46) 【缺陷】【购物车-结账页】移动端开启悬浮按钮时，当州为空结账按钮不可用情况下，点击悬浮按钮未跳转提示 !17203  \n[#WSHOP-28602](https://wfwl.pingcode.com/agile/items/668b49f0d80912b53fd4f461) 【小功能】【A】【主题模块-店铺装修】Vouge模板支持配置模板自定义页面的背景颜色 !17080  \n**陈阳杨**  \n[#WSHOP-28673](https://wfwl.pingcode.com/agile/items/6695d913313cdc3501504a10) 【大功能】【S】【支付模块】PayPal新增Apple Pay与Apple Pay快捷支付   !17112"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.7",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.7 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.db.3",
+        "desc": "##  wshop v1.46.50-h.3.f.db.3 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17175"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.6",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.6 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.5",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.5 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.22",
+        "desc": "##  wshop v1.47.22 版本更新日志  \n**纪维坚**  \n[#WSHOP-28390](https://wfwl.pingcode.com/agile/items/667a409afc050df9855dca7c) 【小优化】【技术改进】【营销模块】营销弹窗、extra优惠码及商品详情折扣Store接口性能优化  !16853\n"
+    },
+    {
+        "name": "v1.46.50-h.3.f.criteo",
+        "desc": "##  wshop v1.46.50-h.3.f.criteo 版本更新日志  \n"
+    },
+    {
+        "name": "v1.47.21",
+        "desc": "##  wshop v1.47.21 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28510](https://wfwl.pingcode.com/agile/items/6686675228afc4c92637ed43) 【大功能】【S】【支付模块】PayPal新增企业账号授权模式 !17045"
+    },
+    {
+        "name": "v1.46.50-h.3.aliyun",
+        "desc": "##  wshop v1.46.50-h.3.aliyun 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17175"
+    },
+    {
+        "name": "v1.46.50-h.3.sandbox",
+        "desc": "##  wshop v1.46.50-h.3.sandbox 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17175  \n**张清洪**  \n[#WSHOP-28753](https://wfwl.pingcode.com/agile/items/669d024c16e616a49b1d448b) 【sentry】【调色板插件】变种数量过多，商城侧调色板接口内存溢出   !17142"
+    },
+    {
+        "name": "v1.46.67",
+        "desc": "##  wshop v1.46.67 版本更新日志  \n**林潇**  \n[#WSHOP-28814](https://wfwl.pingcode.com/agile/items/66a1e495c0fa85acf7da82c3) 【严重缺陷】【购物车-结账页】配置结账按钮显示在支付方式下方，结账按钮不生效 !17209  \n[#WSHOP-28443](https://wfwl.pingcode.com/agile/items/667ea27efc050df985716176) 【缺陷】【购物车-结账页】未填写州时无物流信息，刷新后州未填写显示物流信息 !17202  \n**李仁康**  \n[#WSHOP-28777](https://wfwl.pingcode.com/agile/items/669f5eab094b5dd56359dd43) 【缺陷】【店铺管理-店铺装修】当页面式购物车备注为收起状态时修改弹窗或抽屉式购物车的备注，页面购物车不会同步备注 !17199  \n[#WSHOP-28742](https://wfwl.pingcode.com/agile/items/669a03e5c0fa85acf7c541da) 【缺陷】【店铺管理-店铺装修】vogue主题商品详情页商品图配置为平铺时，配置首图显示选中的SKU图片不生效 !17149"
+    },
+    {
+        "name": "v1.47.20",
+        "desc": "##  wshop v1.47.20 版本更新日志  \n**林潇**  \n[#WSHOP-28814](https://wfwl.pingcode.com/agile/items/66a1e495c0fa85acf7da82c3) 【严重缺陷】【购物车-结账页】配置结账按钮显示在支付方式下方，结账按钮不生效 !17209  \n[#WSHOP-28443](https://wfwl.pingcode.com/agile/items/667ea27efc050df985716176) 【缺陷】【购物车-结账页】未填写州时无物流信息，刷新后州未填写显示物流信息 !17202  \n**徐钟焬**  \n[#WSHOP-28761](https://wfwl.pingcode.com/agile/items/669a3c71910128cc6fcebf3d) 【小优化】客户线合并【A】【主题-Athena】Athena模板商品详情页定制图片元字段改为固定在自定义模块下方   !17208  \n**李仁康**  \n[#WSHOP-28777](https://wfwl.pingcode.com/agile/items/669f5eab094b5dd56359dd43) 【缺陷】【店铺管理-店铺装修】当页面式购物车备注为收起状态时修改弹窗或抽屉式购物车的备注，页面购物车不会同步备注 !17199  \n[#WSHOP-28742](https://wfwl.pingcode.com/agile/items/669a03e5c0fa85acf7c541da) 【缺陷】【店铺管理-店铺装修】vogue主题商品详情页商品图配置为平铺时，配置首图显示选中的SKU图片不生效 !17149"
+    },
+    {
+        "name": "v1.47.19",
+        "desc": "##  wshop v1.47.19 版本更新日志  \n**黄宝鸣**  \n[#WSHOP-28811](https://wfwl.pingcode.com/agile/items/66a0d73d313cdc350173282f) 【小优化】【技术改进】主题 V2 中废弃使用文件 v1模型 !17201  \n**徐钟焬**  \n[#WSHOP-28715](https://wfwl.pingcode.com/agile/items/6697859a2b157eb77c1af197) 【缺陷】【店铺管理-店铺装修】athena主题部分文本字体下购物车显示异常   !17196  \n**张清洪**  \n[#WSHOP-27864](https://wfwl.pingcode.com/agile/items/66441e1d4de2e7e6c9e13b69) 【大优化】四阶段：分类关系表替换  !17178  \n**危俊泰**  \n[#WSHOP-28772](https://wfwl.pingcode.com/agile/items/669f16f02b157eb77c2ddeea) 【缺陷】【博客】博客主页配置菜单并勾选显示页面后将菜单删除，勾选的显示页面也被取消勾选   !17167  \n**吴国锋**  \n[#WSHOP-28714](https://wfwl.pingcode.com/agile/items/66978072094b5dd5634450ff) 【小优化】【技术改进】【支付模块】klarna网关替换savemeta方法 !17122"
+    },
+    {
+        "name": "v1.46.50-h.3",
+        "desc": "##  wshop v1.46.50-h.3 版本更新日志  \n**张清洪**  \n[#WSHOP-28753](https://wfwl.pingcode.com/agile/items/669d024c16e616a49b1d448b) 【sentry】【调色板插件】变种数量过多，商城侧调色板接口内存溢出   !17142"
+    },
+    {
+        "name": "v1.46.66",
+        "desc": "##  wshop v1.46.66 版本更新日志  \n**方宇强**  \n[#WSHOP-28808](https://wfwl.pingcode.com/agile/items/66a0cfc903598de690fc4c12) 【严重缺陷】【购物车】同时在不同浏览器上完成加购与结账，并且店铺无其他访客的情况下可能导致空购物车缓存内容错误 !17198"
+    },
+    {
+        "name": "v1.47.18",
+        "desc": "##  wshop v1.47.18 版本更新日志  \n**方宇强**  \n[#WSHOP-28808](https://wfwl.pingcode.com/agile/items/66a0cfc903598de690fc4c12) 【严重缺陷】【购物车】同时在不同浏览器上完成加购与结账，并且店铺无其他访客的情况下可能导致空购物车缓存内容错误 !17198"
+    },
+    {
+        "name": "v1.46.50-h.1.ab.bancontact.1",
+        "desc": "##  wshop v1.46.50-h.1.ab.bancontact.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.4",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.4 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.65",
+        "desc": "##  wshop v1.46.65 版本更新日志  \n**林潇**  \n[#WSHOP-28524](https://wfwl.pingcode.com/agile/items/6687a0927e7668aa77a6cccf) 【缺陷】【主题模块-店铺装修】athena主题商品详情页，通过款式组合切换商品，尺码表、自定义按钮显示异常 !17160  \n**缪磊磊**  \n[#WSHOP-28728](https://wfwl.pingcode.com/agile/items/6698e55d03598de690e6b9cf) 【缺陷】【开放平台】订阅主题更新事件，在编辑器中发布v2主题后、再更新主题，没有发送webhook通知 !17195"
+    },
+    {
+        "name": "v1.47.17",
+        "desc": "##  wshop v1.47.17 版本更新日志  \n**张清洪**  \n[#WSHOP-28781](https://wfwl.pingcode.com/agile/items/669f78fd313cdc35016dc5dd) 【缺陷】【商品-商品列表】商品详情页URL带上特殊字符串时，应能成功保存商品   !17186  \n**缪磊磊**  \n[#WSHOP-28728](https://wfwl.pingcode.com/agile/items/6698e55d03598de690e6b9cf) 【缺陷】【开放平台】订阅主题更新事件，在编辑器中发布v2主题后、再更新主题，没有发送webhook通知 !17185  \n**林潇**  \n[#WSHOP-28524](https://wfwl.pingcode.com/agile/items/6687a0927e7668aa77a6cccf) 【缺陷】【主题模块-店铺装修】athena主题商品详情页，通过款式组合切换商品，尺码表、自定义按钮显示异常 !17160  \n**黄宝鸣**  \n[#WSHOP-28365](https://wfwl.pingcode.com/agile/items/66753d418591ddbde603fdad) 【小优化】【V2主题】【技术改进】首页、个人中心页面及关联snippets转为liquid模板引擎 !16936"
+    },
+    {
+        "name": "v1.47.16",
+        "desc": "##  wshop v1.47.16 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28641](https://wfwl.pingcode.com/agile/items/668f7c0b26747164acd5b6e9) 【缺陷】【主题模块-店铺装修】macOS，ipad  ios 对应的safari 17，V1主题使用国旗图标的货币切换选择器，周遭元素的颜色样式异常   !17090  \n[#WSHOP-28719](https://wfwl.pingcode.com/agile/items/6698877516e616a49b13e43e) 【缺陷】【店铺管理-店铺装修】vogue主题移动端侧边栏导航，选择货币后应该关闭选择窗口   !17090"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.3",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.3 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.2",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.50-h.1.f.ppapplepay.1",
+        "desc": "##  wshop v1.46.50-h.1.f.ppapplepay.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.64",
+        "desc": "##  wshop v1.46.64 版本更新日志  \n**徐钟焬**  \n回滚 [#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17136"
+    },
+    {
+        "name": "v1.47.15",
+        "desc": "##  wshop v1.47.15 版本更新日志  \n**徐钟焬**  \n回滚 [#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17133"
+    },
+    {
+        "name": "v1.46.63",
+        "desc": "##  wshop v1.46.63 版本更新日志  \n**纪维坚**  \n[#WSHOP-28764](https://wfwl.pingcode.com/agile/items/669e17e616e616a49b213772) 【缺陷】【统计】主页接口（/api/admin/reports/summary）的优惠券数据没有限制返回的条数   !17158"
+    },
+    {
+        "name": "v1.47.14",
+        "desc": "##  wshop v1.47.14 版本更新日志  \n**纪维坚**  \n[#WSHOP-28764](https://wfwl.pingcode.com/agile/items/669e17e616e616a49b213772) 【缺陷】【统计】主页接口（/api/admin/reports/summary）的优惠券数据没有限制返回的条数   !17158"
+    },
+    {
+        "name": "v1.46.62",
+        "desc": "##  wshop v1.46.62 版本更新日志  \n**方宇强**  \n[#WSHOP-28642](https://wfwl.pingcode.com/agile/items/668f80a231856ffd5448b97b) 【大优化】【技术改进】【购物车】优化空购物车情况下对WP服务与缓存的调用 !17054"
+    },
+    {
+        "name": "v1.47.13",
+        "desc": "##  wshop v1.47.13 版本更新日志  \n**方宇强**  \n[#WSHOP-28642](https://wfwl.pingcode.com/agile/items/668f80a231856ffd5448b97b) 【大优化】【技术改进】【购物车】优化空购物车情况下对WP服务与缓存的调用 !17054"
+    },
+    {
+        "name": "v1.46.61",
+        "desc": "##  wshop v1.46.61 版本更新日志  \n**林潇**  \n[#WSHOP-28639](https://wfwl.pingcode.com/agile/items/668f5693a28e5f6adc3f8ced) 【缺陷】【主题模块-店铺装修】showtime、venue主题弹窗购物车下的推荐商品，规格显示异常 !17156  \n**胡圣杰**  \n[#WSHOP-28520](https://wfwl.pingcode.com/agile/items/66878a707e7668aa77a5f347) 【缺陷】【主题】【TD同步】自定义页模块隐藏商城侧仍显示该模块 !17152  \n**李娜**  \n[#WSHOP-28771](https://wfwl.pingcode.com/agile/items/669f10e10e2b5f3effb57f0b) 【小优化】【开放平台】移除版本控制技术改进相关测试代码   !17139"
+    },
+    {
+        "name": "v1.47.12",
+        "desc": "##  wshop v1.47.12 版本更新日志  \n**林潇**  \n[#WSHOP-28639](https://wfwl.pingcode.com/agile/items/668f5693a28e5f6adc3f8ced) 【缺陷】【主题模块-店铺装修】showtime、venue主题弹窗购物车下的推荐商品，规格显示异常 !17156  \n**胡圣杰**  \n[#WSHOP-28520](https://wfwl.pingcode.com/agile/items/66878a707e7668aa77a5f347) 【缺陷】【主题】【TD同步】自定义页模块隐藏商城侧仍显示该模块 !17152  \n**纪维坚**  \n[#WSHOP-28759](https://wfwl.pingcode.com/agile/items/669dd3e10e2b5f3effb11464) 【缺陷】【应用中心-组合商品】/api/store/products/group-discount 接口未处理精度   !17150  \n[#WSHOP-28662](https://wfwl.pingcode.com/agile/items/66947ea503598de690d41afe) 【缺陷】【sentry】组合商品获取组合商品详情接口参数注入   !17150  \n**李娜**  \n[#WSHOP-28771](https://wfwl.pingcode.com/agile/items/669f10e10e2b5f3effb57f0b) 【小优化】【开放平台】移除版本控制技术改进相关测试代码   !17139  \n**缪磊磊**  \n[#WSHOP-27294](https://wfwl.pingcode.com/agile/items/660bd3f9998f9c08623192fe) 【大功能】【技术改进】v2 主题应用扩展开发 !16249"
+    },
+    {
+        "name": "v1.46.60",
+        "desc": "##  wshop v1.46.60 版本更新日志  \n**方全勇**  \n[#WSHOP-28768](https://wfwl.pingcode.com/agile/items/669e209f094b5dd563556f2c) 【严重缺陷】接口请求头中未传ua时，接口500报错 !17157"
+    },
+    {
+        "name": "v1.47.11",
+        "desc": "##  wshop v1.47.11 版本更新日志  \n**方全勇**  \n[#WSHOP-28768](https://wfwl.pingcode.com/agile/items/669e209f094b5dd563556f2c) 【严重缺陷】接口请求头中未传ua时，接口500报错 !17157"
+    },
+    {
+        "name": "v1.47.10",
+        "desc": "##  wshop v1.47.10 版本更新日志  \n**缪磊磊**  \n[#WSHOP-28754](https://wfwl.pingcode.com/agile/items/669dbe9e16e616a49b1e5481) 【严重缺陷】【主题-店铺装修】用户发布中主题为v2主题的情况下复制店铺中复制主题会出现失败 !17143"
+    },
+    {
+        "name": "v1.46.50-h.1.f.xbsdk.1",
+        "desc": "##  wshop v1.46.50-h.1.f.xbsdk.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.59",
+        "desc": "##  wshop v1.46.59 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28760](https://wfwl.pingcode.com/agile/items/669df30f0e2b5f3effb187cc) 【严重缺陷】【支付】PayPal订单捕获状态为PENDING时无法完成订单 !17154  \n**张清洪**  \n[#WSHOP-28753](https://wfwl.pingcode.com/agile/items/669d024c16e616a49b1d448b) 【sentry】【调色板插件】变种数量过多，商城侧调色板接口内存溢出   !17142"
+    },
+    {
+        "name": "v1.47.9",
+        "desc": "##  wshop v1.47.9 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28760](https://wfwl.pingcode.com/agile/items/669df30f0e2b5f3effb187cc) 【严重缺陷】【支付】PayPal订单捕获状态为PENDING时无法完成订单 !17154  \n**张清洪**  \n[#WSHOP-28753](https://wfwl.pingcode.com/agile/items/669d024c16e616a49b1d448b) 【sentry】【调色板插件】变种数量过多，商城侧调色板接口内存溢出   !17142  \n**苏俊杰**  \n[#WSHOP-28664](https://wfwl.pingcode.com/agile/items/6694961e03598de690d5373b) 【小优化】【统计模块】【技术改进】优化定时任务清除过期数据策略   !17077"
+    },
+    {
+        "name": "v1.46.50-h.1",
+        "desc": "##  wshop v1.46.50-h.1 版本更新日志  \n**陈阳杨**  \n[#WSHOP-28760](https://wfwl.pingcode.com/agile/items/669df30f0e2b5f3effb187cc) 【严重缺陷】【支付】PayPal订单捕获状态为PENDING时无法完成订单 !17151"
+    },
+    {
+        "name": "v1.46.14-h.9",
+        "desc": "##  wshop v1.46.14-h.9 版本更新日志  \n**张清洪**  \n[#WSHOP-28753](https://wfwl.pingcode.com/agile/items/669d024c16e616a49b1d448b)【sentry】【调色板插件】变种数量过多，商城侧调色板接口内存溢出   !17142"
+    },
+    {
+        "name": "v1.46.58",
+        "desc": "##  wshop v1.46.58 版本更新日志  \n**方全勇**  \n[#WSHOP-28712](https://wfwl.pingcode.com/agile/items/66977a76313cdc3501576288) 【小优化】【技术改进】通用机器人爬虫不创建session会话 !17088  \n**庄铭**  \n[#WSHOP-28646](https://wfwl.pingcode.com/agile/items/668f991ecbb0e1c638734a67) 【小优化】【技术改进】【性能优化】vogue和athena自定义页面渲染拆分 !17066"
+    },
+    {
+        "name": "v1.47.8",
+        "desc": "##  wshop v1.47.8 版本更新日志  \n**方全勇**  \n[#WSHOP-28712](https://wfwl.pingcode.com/agile/items/66977a76313cdc3501576288) 【小优化】【技术改进】通用机器人爬虫不创建session会话 !17088  \n**庄铭**  \n[#WSHOP-28646](https://wfwl.pingcode.com/agile/items/668f991ecbb0e1c638734a67) 【小优化】【技术改进】【性能优化】vogue和athena自定义页面渲染拆分 !17066"
+    },
+    {
+        "name": "v1.46.14-h.8",
+        "desc": "##  wshop v1.46.14-h.8 版本更新日志  \n**徐钟焬**  \n[#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17132"
+    },
+    {
+        "name": "v1.46.57",
+        "desc": "##  wshop v1.46.57 版本更新日志  \n**余清红**  \n[#WSHOP-28711](https://wfwl.pingcode.com/agile/items/669777812b157eb77c1a6b7c) 【缺陷】【店铺管理-店铺装修】商品详情页偶现不显示优惠码、分享激励、浏览历史   !17135  \n**徐钟焬**  \n[#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17133"
+    },
+    {
+        "name": "v1.47.7",
+        "desc": "##  wshop v1.47.7 版本更新日志  \n**余清红**  \n[#WSHOP-28711](https://wfwl.pingcode.com/agile/items/669777812b157eb77c1a6b7c) 【缺陷】【店铺管理-店铺装修】商品详情页偶现不显示优惠码、分享激励、浏览历史   !17135  \n**徐钟焬**  \n[#WSHOP-28740](https://wfwl.pingcode.com/agile/items/6699dc63c0fa85acf7c48b7b) 【缺陷】【店铺管理-追踪设置】未设置criteo像素，第三方插件存在criteo脚本，商城侧依然触发criteo像素相关事件   !17133"
+    },
+    {
+        "name": "v1.46.56",
+        "desc": "##  wshop v1.46.56 版本更新日志  \n**危俊泰**  \n[#WSHOP-28732](https://wfwl.pingcode.com/agile/items/6699c4d7910128cc6fcadf01) 【缺陷】【应用中心-Instagram 展示】/api/store/instagram/posts接口中，post_num异常传参时接口500   !17127  \n**吴国锋**  \n[#WSHOP-28691](https://wfwl.pingcode.com/agile/items/6696381903598de690dc795b) 【缺陷】【订单】使用有子支付方式的支付方式支付，然后取消支付，再使用没有子支付方式的支付方式完成订单，order_extra_info表中sub_payment_method_id显示有误 !17094  \n**庄铭**  \n[#WSHOP-28525](https://wfwl.pingcode.com/agile/items/6687a949a28e5f6adc2b0c01) 【小功能】【技术改进】ws-image组件各端图片类型不同时的同元素支持（响应式）   !17021"
+    },
+    {
+        "name": "v1.47.6",
+        "desc": "##  wshop v1.47.6 版本更新日志  \n**危俊泰**  \n[#WSHOP-28732](https://wfwl.pingcode.com/agile/items/6699c4d7910128cc6fcadf01) 【缺陷】【应用中心-Instagram 展示】/api/store/instagram/posts接口中，post_num异常传参时接口500   !17127  \n**吴国锋**  \n[#WSHOP-28691](https://wfwl.pingcode.com/agile/items/6696381903598de690dc795b) 【缺陷】【订单】使用有子支付方式的支付方式支付，然后取消支付，再使用没有子支付方式的支付方式完成订单，order_extra_info表中sub_payment_method_id显示有误 !17094  \n**庄铭**  \n[#WSHOP-28525](https://wfwl.pingcode.com/agile/items/6687a949a28e5f6adc2b0c01) 【小功能】【技术改进】ws-image组件各端图片类型不同时的同元素支持（响应式）   !17021"
+    },
+    {
+        "name": "v1.46.55",
+        "desc": "##  wshop v1.46.55 版本更新日志  \n**李娜**  \n[#WSHOP-28716](https://wfwl.pingcode.com/agile/items/6697b90d0e2b5f3effa40fe7) 【严重缺陷】【开放平台】collections/delete和checkouts/update事件触发后无webhook推送   !17120  \n[#WSHOP-28717](https://wfwl.pingcode.com/agile/items/6697bb6c0e2b5f3effa416be) 【严重缺陷】【开放平台】shop/update事件触发后、webhook推送的消息体与预期不一致 !17120"
+    },
+    {
+        "name": "v1.47.5",
+        "desc": "##  wshop v1.47.5 版本更新日志  \n**吴国锋**  \n[#WSHOP-28722](https://wfwl.pingcode.com/agile/items/6698b1c8094b5dd563481a73) 【缺陷】【商品-商品分类】当元字段添加商品分类类型时，商品分类详情页保存按钮高亮展示 !17123  \n**李娜**  \n[#WSHOP-28716](https://wfwl.pingcode.com/agile/items/6697b90d0e2b5f3effa40fe7) 【严重缺陷】【开放平台】collections/delete和checkouts/update事件触发后无webhook推送   !17121  \n[#WSHOP-28717](https://wfwl.pingcode.com/agile/items/6697bb6c0e2b5f3effa416be) 【严重缺陷】【开放平台】shop/update事件触发后、webhook推送的消息体与预期不一致 !17121  \n**张清洪**  \n[#WSHOP-28669](https://wfwl.pingcode.com/agile/items/6694bcd4313cdc35014c74ec) 【缺陷】【TD同步】【商品-商品列表】自动分类商品名称、商品标签及供应商当仅空格时，不允许保存   !17102  \n**徐钟焬**  \n[#WSHOP-28628](https://wfwl.pingcode.com/agile/items/668e533fa28e5f6adc3ca4d3) 【缺陷】【主题模块-店铺装修】athena主题导航栏启用mega menu时缩放页面，菜单栏显示异常   !17095"
+    },
+    {
+        "name": "v1.46.54",
+        "desc": "##  wshop v1.46.54 版本更新日志  \n**林潇**  \n[#WSHOP-28509](https://wfwl.pingcode.com/agile/items/66866e996eb6563106043bc6) 【缺陷】【统计】通过卡片加购简单商品，track接口中的加购相关事件会记录多余的variant_id字段 !17113  \n[#WSHOP-28513](https://wfwl.pingcode.com/agile/items/66875469dc38626a016db746) 【缺陷】【购物车-结账页】结账按钮为显示在支付方式下方时，谷歌预授权成功后结账按钮未按照页面底部显示 !17109  \n[#WSHOP-28593](https://wfwl.pingcode.com/agile/items/668cf3ada28e5f6adc370b9f) 【缺陷】【支付】卡号输入过长时，提示语优化 !17107  \n**陈荣辉**  \n[#WSHOP-28645](https://wfwl.pingcode.com/agile/items/668f948a7e7668aa77bd16f6) 【缺陷】【主题模块-店铺装修】vogue主题在safari12的版本上，菜单导航栏部分无法点击   !17063"
+    },
+    {
+        "name": "v1.47.4",
+        "desc": "##  wshop v1.47.4 版本更新日志  \n**林潇**  \n[#WSHOP-28509](https://wfwl.pingcode.com/agile/items/66866e996eb6563106043bc6) 【缺陷】【统计】通过卡片加购简单商品，track接口中的加购相关事件会记录多余的variant_id字段 !17113  \n[#WSHOP-28513](https://wfwl.pingcode.com/agile/items/66875469dc38626a016db746) 【缺陷】【购物车-结账页】结账按钮为显示在支付方式下方时，谷歌预授权成功后结账按钮未按照页面底部显示 !17109  \n[#WSHOP-28593](https://wfwl.pingcode.com/agile/items/668cf3ada28e5f6adc370b9f) 【缺陷】【支付】卡号输入过长时，提示语优化 !17107  \n**徐钟焬**  \n[#WSHOP-28667](https://wfwl.pingcode.com/agile/items/66949e0d0e2b5f3eff971d24) 【缺陷】【店铺管理-店铺装修】athena主题导航栏More Links字体未跟随副标题   !17096  \n[#WSHOP-28637](https://wfwl.pingcode.com/agile/items/668f49d026747164acd4a791) 【缺陷】【主题】【TD同步】athena主题开始快捷导航时部分浏览器页面滑动会闪动   !17084  \n**陈荣辉**  \n[#WSHOP-28645](https://wfwl.pingcode.com/agile/items/668f948a7e7668aa77bd16f6) 【缺陷】【主题模块-店铺装修】vogue主题在safari12的版本上，菜单导航栏部分无法点击   !17063"
+    },
+    {
+        "name": "v1.46.53",
+        "desc": "##  wshop v1.46.53 版本更新日志  \n**胡圣杰**  \n[#WSHOP-25904](https://wfwl.pingcode.com/agile/items/65784dacdc459e0b62bd62f3) 【缺陷】【设置-通知】商品信息与按钮间距优化 !17103  \n**李娜**  \n[#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，偶现订单收货地址中电话号码为空   !17087\n\n##  依赖wp的版本是：v1.10.33\n**李娜**  \n[#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，偶现订单收货地址中电话号码为空  "
+    },
+    {
+        "name": "v1.47.3",
+        "desc": "##  wshop v1.47.3 版本更新日志  \n**胡圣杰**  \n[#WSHOP-25904](https://wfwl.pingcode.com/agile/items/65784dacdc459e0b62bd62f3) 【缺陷】【设置-通知】商品信息与按钮间距优化 !17103  \n**李娜**  \n[#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，偶现订单收货地址中电话号码为空   !17087  \n**徐钟焬**  \n[#WSHOP-28621](https://wfwl.pingcode.com/agile/items/668e3d49dc38626a0180ba89) 【缺陷】【TD同步】【应用中心-促销倒计时】详情页倒计时关闭后商城侧会显示多余间距   !17085\n\n##  依赖wp的版本是v1.10.33\n**李娜**  \n[#WSHOP-28663](https://wfwl.pingcode.com/agile/items/66947fae910128cc6fb6f2e3) 【缺陷】【购物车-结账页】电话号码为必填项时，偶现订单收货地址中电话号码为空  \n"
+    },
+    {
+        "name": "v1.46.14-h.5.f.appextension.2",
+        "desc": "##  wshop v1.46.14-h.5.f.appextension.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.52",
+        "desc": "##  wshop v1.46.52 版本更新日志  \n**余清红**  \n[#WSHOP-28687](https://wfwl.pingcode.com/agile/items/6696142616e616a49b0b0949) 【缺陷】【主题-商品详情页】在商品详情页，url 上传入的变种参数不合规时，页面500错误   !17092  \n**危俊泰**  \n[#WSHOP-28679](https://wfwl.pingcode.com/agile/items/6695ef700e2b5f3eff9c2b81) 【缺陷】【博客】不带参数请求/openapi/2021-08/blog_collections/5/batch，接口500   !17086  \n**胡圣杰**  \n[#WSHOP-28139](https://wfwl.pingcode.com/agile/items/665eda538591ddbde6c01ed3) 【缺陷】【TD同步】【设置-通知】店铺名称是logo时，邮件预览中的logo 显示过大   !17101  \n[#WSHOP-25904](https://wfwl.pingcode.com/agile/items/65784dacdc459e0b62bd62f3) 【缺陷】【设置-通知】商品信息与按钮间距优化 !17101  \n**林潇**  \n[#WSHOP-27554](https://wfwl.pingcode.com/agile/items/6627529d3ee144a347f80698) 【大优化】【高风险】【技术改进】athena商品详情页面性能优化 !17100"
+    },
+    {
+        "name": "v1.47.2",
+        "desc": "##  wshop v1.47.2 版本更新日志  \n**余清红**  \n[#WSHOP-28687](https://wfwl.pingcode.com/agile/items/6696142616e616a49b0b0949) 【缺陷】【主题-商品详情页】在商品详情页，url 上传入的变种参数不合规时，页面500错误   !17092  \n**危俊泰**  \n[#WSHOP-28679](https://wfwl.pingcode.com/agile/items/6695ef700e2b5f3eff9c2b81) 【缺陷】【博客】不带参数请求/openapi/2021-08/blog_collections/5/batch，接口500   !17086  \n**胡圣杰**  \n[#WSHOP-28139](https://wfwl.pingcode.com/agile/items/665eda538591ddbde6c01ed3) 【缺陷】【TD同步】【设置-通知】店铺名称是logo时，邮件预览中的logo 显示过大   !17053  \n[#WSHOP-25904](https://wfwl.pingcode.com/agile/items/65784dacdc459e0b62bd62f3) 【缺陷】【设置-通知】商品信息与按钮间距优化 !17053  \n**林潇**  \n[#WSHOP-27554](https://wfwl.pingcode.com/agile/items/6627529d3ee144a347f80698) 【大优化】【技术改进】athena商品详情页面性能优化 !16855  \n**李娜**  \n[#WSHOP-26860](https://wfwl.pingcode.com/agile/items/65e533016e4e80919ba22702) 【大优化】【技术改进】Openapi支持版本控制   !16439"
+    },
+    {
+        "name": "v1.47.1",
+        "desc": "##  wshop v1.47.1 版本更新日志  \n**庄铭**  \n[#WSHOP-28609](https://wfwl.pingcode.com/agile/items/668e05bc31856ffd5442d44e) 【小优化】【技术改进】【性能优化】vogue商品详情页的iframe视频播放和pp显示优化 !17078  \n**林潇**  \n[#WSHOP-28612](https://wfwl.pingcode.com/agile/items/668e26b2cbb0e1c6386cf89f) 【小优化】【技术改进】【技术改进】优化vogue主题商品详情页开启tab时，html结构中商品内容元素自定义属性内容过长 !17047  \n**缪磊磊**  \n[#WSHOP-28472](https://wfwl.pingcode.com/agile/items/6684ba576eb6563106fc8058) 【小优化】【技术改进】【主题V2】优化cli批量上传asset !17009\n\n## 与v1.47.0-beta.6为相同版本"
+    },
+    {
+        "name": "v1.46.51",
+        "desc": "##  wshop v1.46.51 版本更新日志  \n**李娜**  \n[#WSHOP-26860](https://wfwl.pingcode.com/agile/items/65e533016e4e80919ba22702) 【大优化】【技术改进】Openapi支持版本控制   !16439"
+    },
+    {
+        "name": "v1.47.0",
+        "desc": "## 与v1.47.0-beta.4为相同版本"
+    },
+    {
+        "name": "v1.46.14-h.7.aliyun",
+        "desc": "##  wshop v1.46.14-h.7.aliyun 版本更新日志  \n**林潇**  \n[#WSHOP-27432](https://wfwl.pingcode.com/agile/items/661cbfce41782e7df776ec28) 【缺陷】【主题模块-店铺装修】venue主题启用购物车弹窗，优惠码应用提示会被挡住 !16968"
+    },
+    {
+        "name": "v1.46.14-h.7.sandbox",
+        "desc": "##  wshop v1.46.14-h.7.sandbox 版本更新日志  \n**林潇**  \n[#WSHOP-27432](https://wfwl.pingcode.com/agile/items/661cbfce41782e7df776ec28) 【缺陷】【主题模块-店铺装修】venue主题启用购物车弹窗，优惠码应用提示会被挡住 !16968"
+    },
+    {
+        "name": "v1.46.50",
+        "desc": "##  wshop v1.46.50 版本更新日志  \n**庄铭**  \n[#WSHOP-28609](https://wfwl.pingcode.com/agile/items/668e05bc31856ffd5442d44e) 【小优化】【技术改进】【性能优化】vogue商品详情页的iframe视频播放和pp显示优化 !17078"
+    },
+    {
+        "name": "v1.47.0-beta.6",
+        "desc": "##  wshop v1.47.0-beta.6 版本更新日志  \n**庄铭**  \n[#WSHOP-28609](https://wfwl.pingcode.com/agile/items/668e05bc31856ffd5442d44e) 【小优化】【技术改进】【性能优化】vogue商品详情页的iframe视频播放和pp显示优化 !17078  \n**林潇**  \n[#WSHOP-28612](https://wfwl.pingcode.com/agile/items/668e26b2cbb0e1c6386cf89f) 【小优化】【技术改进】【技术改进】优化vogue主题商品详情页开启tab时，html结构中商品内容元素自定义属性内容过长 !17047  \n**缪磊磊**  \n[#WSHOP-28472](https://wfwl.pingcode.com/agile/items/6684ba576eb6563106fc8058) 【小优化】【技术改进】【主题V2】优化cli批量上传asset !17009"
+    },
+    {
+        "name": "v1.46.48",
+        "desc": "##  wshop v1.46.48 版本更新日志  \n**张清洪**  \n[#WSHOP-28668](https://wfwl.pingcode.com/agile/items/6694b86e2b157eb77c0f87c1) 【缺陷】【TD同步】【商品-商品列表】商品详情页中删除标签后，所有在自动分类中使用该标签自动关联的商品应取消关联  !17082"
+    },
+    {
+        "name": "v1.47.0-beta.5",
+        "desc": "##  wshop v1.47.0-beta.5 版本更新日志  \n**张清洪**  \n[#WSHOP-28668](https://wfwl.pingcode.com/agile/items/6694b86e2b157eb77c0f87c1) 【缺陷】【TD同步】【商品-商品列表】商品详情页中删除标签后，所有在自动分类中使用该标签自动关联的商品应取消关联   !17075"
+    },
+    {
+        "name": "v1.46.14-h.5.f.category.2",
+        "desc": "##  wshop v1.46.14-h.5.f.category.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.47",
+        "desc": "##  wshop v1.46.47 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28658](https://wfwl.pingcode.com/agile/items/6690e77899017d98d67763bf) 【缺陷】【设置-通知】当开启订单争议插件且使用PP支付的订单，评论邀请邮件内容显示有误 !17067"
+    },
+    {
+        "name": "v1.47.0-beta.4",
+        "desc": "##  wshop v1.47.0-beta.4 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28658](https://wfwl.pingcode.com/agile/items/6690e77899017d98d67763bf) 【缺陷】【设置-通知】当开启订单争议插件且使用PP支付的订单，评论邀请邮件内容显示有误 !17067  \n**黄宝鸣**  \n[#WSHOP-28362](https://wfwl.pingcode.com/agile/items/66753553c5726f15229ef605) 【小优化】【V2主题】【技术改进】购物车、博客、自定义页面及关联snippets转为liquid模板引擎 !16935"
+    },
+    {
+        "name": "v1.46.14-h.6.ab.applepaypayment.1",
+        "desc": "##  wshop v1.46.14-h.6.ab.applepaypayment.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.6.xbsdk.1",
+        "desc": "##  wshop v1.46.14-h.6.xbsdk.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.7",
+        "desc": "##  wshop v1.46.14-h.7 版本更新日志  \n**林潇**  \n[#WSHOP-27432](https://wfwl.pingcode.com/agile/items/661cbfce41782e7df776ec28) 【缺陷】【主题模块-店铺装修】venue主题启用购物车弹窗，优惠码应用提示会被挡住 !16968"
+    },
+    {
+        "name": "v1.47.0-beta.3",
+        "desc": "##  wshop v1.47.0-beta.3 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28657](https://wfwl.pingcode.com/agile/items/6690dadc99017d98d676e5bb) 【严重缺陷】【店铺管理-店铺装修】当页头导航风格配置logo居左时，PC端弹窗形式购物车不显示价格   !17068  \n**徐钟焬**  \n[#WSHOP-28528](https://wfwl.pingcode.com/agile/items/6687b474cbb0e1c6385da327) 【小优化】客户线合并【A】【主题-Athena】UI优化需求：公告栏导航栏以及商品详情页样式优化   !17038  \n**危俊泰**  \n[#WSHOP-28359](https://wfwl.pingcode.com/agile/items/66597d8a13ef304fd9585d87) 【小功能】【A】【应用中心-地区访问限制】自动添加登陆IP至白名单调整为手动添加本机IP至白名单   !16956"
+    },
+    {
+        "name": "v1.46.14-h.6.ab.transporttips.1",
+        "desc": "##  wshop v1.46.14-h.6.ab.transporttips.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.6.ab.freeshippingtips.1",
+        "desc": "##  wshop v1.46.14-h.6.ab.freeshippingtips.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.5.ab.transporttips.1",
+        "desc": "##  wshop v1.46.14-h.5.ab.transporttips.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.46",
+        "desc": "##  wshop v1.46.46 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28657](https://wfwl.pingcode.com/agile/items/6690dadc99017d98d676e5bb) 【严重缺陷】【店铺管理-店铺装修】当页头导航风格配置logo居左时，PC端弹窗形式购物车不显示价格   !17068"
+    },
+    {
+        "name": "v1.46.14-h.6",
+        "desc": "##  wshop v1.46.14-h.6 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28657](https://wfwl.pingcode.com/agile/items/6690dadc99017d98d676e5bb) 【严重缺陷】【店铺管理-店铺装修】当页头导航风格配置logo居左时，PC端弹窗形式购物车不显示价格   !17068"
+    },
+    {
+        "name": "v1.46.14-h.5.f.refundform.1",
+        "desc": "##  wshop v1.46.14-h.5.f.refundform.1 版本更新日志  \nhttps://wfwl.pingcode.com/pjm/items/660a26eb998f9c08622897bb?   \n#WSHOP-27243 【S】【购物车模块】历史订单Thankyou页面删除金额和物流信息  \nhttps://wfwl.pingcode.com/pjm/items/662b4422aff36de7e453f9a3?   \n#WSHOP-27623 【S】【主题模块】页脚增加退款申请入口   "
+    },
+    {
+        "name": "v1.46.45",
+        "desc": "##  wshop v1.46.45 版本更新日志  \n**徐钟焬**  \n[#WSHOP-24074](https://wfwl.pingcode.com/agile/items/64f9288b968463e865341206) 【缺陷】【统计】调用 /api/statistics/track接口偶现入参丢失报422，导致部分访客统计数据丢失   !17057  \n**吴曦**  \n[#WSHOP-28640](https://wfwl.pingcode.com/agile/items/668f79a926747164acd59e2c) 【小优化】【技术改进】【广告助手】全面开启双源数据接口默认配置 !17052"
+    },
+    {
+        "name": "v1.47.0-beta.2",
+        "desc": "##  wshop v1.47.0-beta.2 版本更新日志  \n**徐钟焬**  \n[#WSHOP-24074](https://wfwl.pingcode.com/agile/items/64f9288b968463e865341206) 【缺陷】【统计】调用 /api/statistics/track接口偶现入参丢失报422，导致部分访客统计数据丢失   !17057  \n**吴曦**  \n[#WSHOP-28640](https://wfwl.pingcode.com/agile/items/668f79a926747164acd59e2c) 【小优化】【技术改进】【广告助手】全面开启双源数据接口默认配置 !17052  \n**张清洪**  \n[#WSHOP-28498](https://wfwl.pingcode.com/agile/items/66850278a22f834125156640) 【小功能】【A】【应用 - 商品规格调色板】调色板添加规格弹窗支持搜索   !17008"
+    },
+    {
+        "name": "v1.47.0-beta.1",
+        "desc": "##  wshop v1.47.0-beta.1 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28506](https://wfwl.pingcode.com/agile/items/668660436eb656310603aaa6) 【缺陷】【主题模块-店铺装修】global.language传错误类型参数时，接口500 !17056  \n**张清洪**  \n[#WSHOP-28508](https://wfwl.pingcode.com/agile/items/668667c469c9ae840df93c63) 【缺陷】【应用中心-TikTok Pixels】加购同一个分类下的多个商品，购买完成事件中有的商品未记录商品分类字段   !17048  \n**吴曦**  \n[#WSHOP-28203](https://wfwl.pingcode.com/agile/items/666175a7f8ba035c1e791947) 【大功能】【A】【广告服务-广告助手】广告助手支持多条件筛选 !16926   \n**徐钟焬**  \n[#WSHOP-28530](https://wfwl.pingcode.com/agile/items/6687b6c8468c15e352da2556) 【小功能】客户线合并【A】【主题-Athena】Athena主题新增“对比图片展示”模块，此模块支持引用元字段   !17025  \n[#WSHOP-28529](https://wfwl.pingcode.com/agile/items/6687b5d8cbb0e1c6385db125) 【小功能】客户线合并【A】【主题 - Athena】精选商品模块支持展示多个分类以及分类下的对应商品   !17024  \n**缪磊磊**  \n[#WSHOP-27966](https://wfwl.pingcode.com/agile/items/664da7c837641c459a781f9d) 【小优化】【技术改进】【主题】版本号比较优化 !16771"
+    },
+    {
+        "name": "v1.46.44",
+        "desc": "##  wshop v1.46.44 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28569](https://wfwl.pingcode.com/agile/items/668ca926dc38626a0179e797) 【缺陷】【主题模块-店铺装修】vogue 主题公告栏 在部分设备中 ResizeObserver 不存在   !17039  \n[#WSHOP-28543](https://wfwl.pingcode.com/agile/items/668b4d58468c15e352dda560) 【缺陷】【应用中心-推广达人】推广达人相关页面商城侧浏览器tab名称需改进   !17026"
+    },
+    {
+        "name": "v1.46.43",
+        "desc": "｛无效版本｝"
+    },
+    {
+        "name": "v1.46.14-h.5.f.appextension.1",
+        "desc": "##  wshop v1.46.14-h.5.f.appextension.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.5.aliyun",
+        "desc": "##  wshop v1.46.14-h.5.aliyun 版本更新日志  \n**危俊泰**  \n[#WSHOP-28607](https://wfwl.pingcode.com/agile/items/668e035cdc38626a017f56ae) 【严重缺陷】【博客】商城侧访问/blog-collections/{slug}/blogs会500   !17046"
+    },
+    {
+        "name": "v1.46.14-h.5.sandbox",
+        "desc": "##  wshop v1.46.14-h.5.sandbox 版本更新日志  \n**危俊泰**  \n[#WSHOP-28607](https://wfwl.pingcode.com/agile/items/668e035cdc38626a017f56ae) 【严重缺陷】【博客】商城侧访问/blog-collections/{slug}/blogs会500   !17046"
+    },
+    {
+        "name": "v1.46.14-h.3.f.appextension.1",
+        "desc": "##  wshop v1.46.14-h.3.f.appextension.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.42",
+        "desc": "##  wshop v1.46.42 版本更新日志  \n**吴国锋**  \n[#WSHOP-28619](https://wfwl.pingcode.com/agile/items/668e392b7e7668aa77b79f58) 【小优化】【技术改进】trackhub mabang-erp 插件 webhook禁用 session !17049  \n[#WSHOP-26843](https://wfwl.pingcode.com/agile/items/65e0382904ae6f86b710417c) 【大优化】【技术改进】【订单】订单数据迁移双写版本   !16174"
+    },
+    {
+        "name": "v1.46.14-h.3.f.xbsdk.3",
+        "desc": "##  wshop v1.46.14-h.3.f.xbsdk.3 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.3.f.thankyou.1",
+        "desc": "##  wshop v1.46.14-h.3.f.thankyou.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.41",
+        "desc": "##  wshop v1.46.41 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28600](https://wfwl.pingcode.com/agile/items/668dece5468c15e352e80f4f) 【缺陷】【应用中心-组合商品】Safari版本15以下的设备，组合商品没有显示折扣价   !17044"
+    },
+    {
+        "name": "v1.46.14-h.5",
+        "desc": "##  wshop v1.46.14-h.5 版本更新日志  \n**危俊泰**  \n[#WSHOP-28607](https://wfwl.pingcode.com/agile/items/668e035cdc38626a017f56ae) 【严重缺陷】【博客】商城侧访问/blog-collections/{slug}/blogs会500   !17046"
+    },
+    {
+        "name": "v1.46.40",
+        "desc": "##  wshop v1.46.40 版本更新日志  \n**李娜**  \n[#WSHOP-28564](https://wfwl.pingcode.com/agile/items/668baaccd80912b53fd828e7) 【小优化】【技术改进】地址补全接口增强参数校验   !17031  \n[#WSHOP-28553](https://wfwl.pingcode.com/agile/items/668b85ec26747164acc63262) 【小优化】【技术改进】【弃单】移除弃单重复索引   !17027  \n**张清洪**  \n[#WSHOP-28554](https://wfwl.pingcode.com/agile/items/668b8b67468c15e352df6aaa) 【小优化】【技术改进】优化后台商品列表慢查询   !17028  \n**危俊泰**  \n[#WSHOP-28488](https://wfwl.pingcode.com/agile/items/66851c429f91d0eebaf78e32) 【小优化】【技术改进】删除openapi 主题语言兼容代码 !16985  \n[#WSHOP-28350](https://wfwl.pingcode.com/agile/items/6673e71ffc050df9854dbcea) 【小优化】【技术改进】【Wshop 服务支持熔断二期】运营助手、Trackhub、PayPal支付模块、IP解析服务支持熔断机制   !16709"
+    },
+    {
+        "name": "v1.46.14-h.3.f.xbsdk.2",
+        "desc": "##  wshop v1.46.14-h.3.f.xbsdk.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.3.f.keepalive.1",
+        "desc": "##  wshop v1.46.14-h.3.f.keepalive.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.39",
+        "desc": "##  wshop v1.46.39 版本更新日志  \n**危俊泰**  \n[#WSHOP-28438](https://wfwl.pingcode.com/agile/items/667e7877fc050df985702764) 【小优化】【技术改进】【插件】 移除 绑定 Messenger、隐藏商品SKU、Shopify Backup、微信小程序助手 应用   !17037"
+    },
+    {
+        "name": "v1.46.14-h.3.f.xbsdk.1",
+        "desc": "##  wshop v1.46.14-h.3.f.xbsdk.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.4",
+        "desc": "##  wshop v1.46.14-h.4 版本更新日志  \n**纪维坚**  \n[#WSHOP-28533](https://wfwl.pingcode.com/agile/items/6688c709d80912b53fd2ff0c) 【缺陷】【营销】在无痕模式下请求购物车接口时，如果购物车为空，也会执行折扣过滤计算器，影响数据库压力   !17030"
+    },
+    {
+        "name": "v1.46.38",
+        "desc": "##  wshop v1.46.38 版本更新日志  \n**危俊泰**  \n[#WSHOP-28493](https://wfwl.pingcode.com/agile/items/6685216b58d7213c3bfb4d9d) 【缺陷】【博客】【TD同步】新建博客专辑接口preferred_blog_ids字段传非[array]类型数值报500   !17035  \n[#WSHOP-28438](https://wfwl.pingcode.com/agile/items/667e7877fc050df985702764) 【小优化】【技术改进】【插件】 移除 绑定 Messenger、隐藏商品SKU、隐私管理、Shopify Backup、微信小程序助手 应用 !17032  \n**纪维坚**  \n[#WSHOP-28566](https://wfwl.pingcode.com/agile/items/668bb9c7cbb0e1c63864d996) 【严重缺陷】【营销-梯度优惠】显示样式=默认样式且显示加购按钮时，详情页直接点击优惠文案中的“ADD TO CART”后、没有显示成“ADDED”   !17033  \n[#WSHOP-28565](https://wfwl.pingcode.com/agile/items/668bb88ecbb0e1c63864ce55) 【缺陷】【营销】更新优惠openapi接口，对于不存在的id接口直接报500   !17033  \n[#WSHOP-28533](https://wfwl.pingcode.com/agile/items/6688c709d80912b53fd2ff0c) 【缺陷】【营销】在无痕模式下请求购物车接口时，如果购物车为空，也会执行折扣过滤计算器，影响数据库压力   !17030"
+    },
+    {
+        "name": "v1.46.14-h.3.ab.transporttips.1",
+        "desc": "##  wshop v1.46.14-h.3.ab.transporttips.1 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.3.f.category.2",
+        "desc": "##  wshop v1.46.14-h.3.f.category.2 版本更新日志  \n"
+    },
+    {
+        "name": "v1.46.14-h.3.sandbox",
+        "desc": "##  wshop v1.46.14-h.3.sandbox 版本更新日志  \n**林潇**  \n[#WSHOP-28474](https://wfwl.pingcode.com/agile/items/6684c00af97008f33cdf6fca) 【缺陷】【支付】商品详情页和购物车页在 safari 浏览器上偶现 Worldpay_Apple Pay 快捷支付方式不显示 !17029"
+    },
+    {
+        "name": "v1.46.14-h.3.aliyun",
+        "desc": "##  wshop v1.46.14-h.3.aliyun 版本更新日志  \n**林潇**  \n[#WSHOP-28474](https://wfwl.pingcode.com/agile/items/6684c00af97008f33cdf6fca) 【缺陷】【支付】商品详情页和购物车页在 safari 浏览器上偶现 Worldpay_Apple Pay 快捷支付方式不显示 !17029"
+    },
+    {
+        "name": "v1.46.37",
+        "desc": "##  wshop v1.46.37 版本更新日志  \n**余清红**  \n[#WSHOP-28542](https://wfwl.pingcode.com/agile/items/668b48837e7668aa77aae104) 【缺陷】【主题模块-店铺装修】vogue博客详情页的浏览器tab名称，应为博客标题   !17022  \n**张清洪**  \n[#WSHOP-28541](https://wfwl.pingcode.com/agile/items/668b4835cbb0e1c63860f213) 【小优化】【商品】修复历史商品attrs为空的数据   !17020"
+    },
+    {
+        "name": "v1.46.14-h.3",
+        "desc": "##  wshop v1.46.14-h.3 版本更新日志  \n**林潇**  \n[#WSHOP-28474](https://wfwl.pingcode.com/agile/items/6684c00af97008f33cdf6fca) 【缺陷】【支付】商品详情页和购物车页在 safari 浏览器上偶现 Worldpay_Apple Pay 快捷支付方式不显示 !17029"
+    },
+    {
+        "name": "v1.46.14-h.2",
+        "desc": "无效版本"
+    },
+    {
+        "name": "v1.46.14-h.1",
+        "desc": "##  wshop v1.46.14-h.1 版本更新日志  \n**吴曦**  \n[#WSHOP-28503](https://wfwl.pingcode.com/agile/items/66861a4c69c9ae840df73573) 【缺陷】【应用中心-广告助手】部分店铺绑定的广告账号无法显示 !17019"
+    },
+    {
+        "name": "v1.46.36",
+        "desc": "##  wshop v1.46.36 版本更新日志  \n**吴曦**  \n[#WSHOP-28540](https://wfwl.pingcode.com/agile/items/668b4379a28e5f6adc2e8a85) 【小优化】【技术改进】【广告助手】回退设置广告助手配置 full_local 为 false !17018  \n**吴国锋**  \n[#WSHOP-28469](https://wfwl.pingcode.com/agile/items/6684b0609f91d0eebaf44ddf) 【小优化】【技术改进】【订单】订单金额数据精度保留规则统一 !16998  \n**纪维坚**  \n[#WSHOP-28437](https://wfwl.pingcode.com/agile/items/667e76660f62d8f3b69e3334) 【缺陷】【营销-满送优惠】满送优惠一个折扣参加几千个商品，其变种商品超过1万个时；该折扣详情页面会报500   !16980\n\n\n## wp 版本可更新使用：v1.10.32\n**吴国锋**  \n[#WSHOP-28469](https://wfwl.pingcode.com/agile/items/6684b0609f91d0eebaf44ddf) 【小优化】【技术改进】【订单】订单金额数据精度保留规则统一  "
+    },
+    {
+        "name": "v1.46.35",
+        "desc": "##  wshop v1.46.35 版本更新日志  \n**吴曦**  \n[#WSHOP-28503](https://wfwl.pingcode.com/agile/items/66861a4c69c9ae840df73573) 【缺陷】【应用中心-广告助手】部分店铺绑定的广告账号无法显示 !17013  \n**徐钟焬**  \n[#WSHOP-28449](https://wfwl.pingcode.com/agile/items/66825c09b66e58697645fd2a) 【缺陷】【主题模块-店铺装修】【TD同步】精选商品 tab 布局下当存在被删除的商品分类时其他分类中存在款式组合时会不显示   !17011  \n[#WSHOP-28435](https://wfwl.pingcode.com/agile/items/667e6312db988092a754d3a7) 【缺陷】【店铺管理-店铺装修】【TD同步】PC 端货币切换背景底色显示不全   !17010"
+    },
+    {
+        "name": "v1.46.34",
+        "desc": "##  wshop v1.46.34 版本更新日志  \n**危俊泰**  \n[#WSHOP-28519](https://wfwl.pingcode.com/agile/items/668789a926747164acbf7a64) 【缺陷】【运营助手】运营助手未兼容简单商品旧数据格式，校验未生效   !17015"
+    },
+    {
+        "name": "v1.46.33",
+        "desc": "##  wshop v1.46.33 版本更新日志  \n**林潇**  \n[#WSHOP-28474](https://wfwl.pingcode.com/agile/items/6684c00af97008f33cdf6fca) 【缺陷】【支付】商品详情页和购物车页在 safari 浏览器上偶现 Worldpay_Apple Pay 快捷支付方式不显示 !17001"
+    },
+    {
+        "name": "v1.46.32",
+        "desc": "##  wshop v1.46.32 版本更新日志  \n**余清红**  \n[#WSHOP-28479](https://wfwl.pingcode.com/agile/items/668505e09f91d0eebaf6b1fc) 【小优化】【技术改进】【sentry】【登录弹窗】第三方打开登录弹窗，优化登录成功后的部分代码   !16999  \n**陈荣辉**  \n[#WSHOP-27773](https://wfwl.pingcode.com/agile/items/663c9a705c371d468756ebee) 【缺陷】【主题模块-店铺装修】页脚菜单栏、商品详情页items传字符串类型时，编辑器、商城显示异常   !16986"
+    },
+    {
+        "name": "v1.46.31",
+        "desc": "##  wshop v1.46.31 版本更新日志  \n**张清洪**  \n[#WSHOP-28467](https://wfwl.pingcode.com/agile/items/6683d5be6eb6563106facad1) 【严重缺陷】【商品-商品列表】调用添加商品变种接口，有image_id字段为商城中有的图片时，应能正确添加   !16996"
+    },
+    {
+        "name": "v1.46.30",
+        "desc": "##  wshop v1.46.30 版本更新日志  \n**吴国锋**  \n[#WSHOP-28466](https://wfwl.pingcode.com/agile/items/6683bfcb28afc4c9262dfd94) 【缺陷】【订单】OpenApi发货接口/openapi/2021-08/orders/{id}/track传入logistics_company 字段未保存成功 !16994"
+    },
+    {
+        "name": "v1.46.29",
+        "desc": "##  wshop v1.46.29 版本更新日志  \n**余清红**  \n[#WSHOP-28448](https://wfwl.pingcode.com/agile/items/66822659bd199b7638907eca) 【小优化】【技术改进】【sentry】【视频组件】移动端浏览器会因为没有视频播放权限而报错   !16982  \n**张清洪**  \n[#WSHOP-28412](https://wfwl.pingcode.com/agile/items/667bc8580f62d8f3b692bd3e) 【缺陷】【商品-商品列表】创建和编辑变种商品时，图片字段解析应具备不一致性   !16975"
+    },
+    {
+        "name": "v1.46.28",
+        "desc": "##  wshop v1.46.28 版本更新日志  \n**吴曦**  \n[#WSHOP-28450](https://wfwl.pingcode.com/agile/items/6682643136369c48f10e16be) 【小优化】【技术改进】【广告助手】设置广告助手配置 full_local 为 false !16984  \n**陈荣辉**  \n[#WSHOP-28354](https://wfwl.pingcode.com/agile/items/6673fdb7ff21ffe3675d6479) 【缺陷】【主题模块-店铺装修】购物车按钮配置默认选中所有分类页，但商城侧是下钻至所有商品页   !16983"
+    },
+    {
+        "name": "v1.46.27",
+        "desc": "##  wshop v1.46.27 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28431](https://wfwl.pingcode.com/agile/items/667e3198c5726f1522ba561f) 【缺陷】【主题模块-店铺装修】雅典娜主题新增图片热区模块，编辑器默认热区与商城侧显示热区位置不一致   !16976"
+    },
+    {
+        "name": "v1.46.26",
+        "desc": "##  wshop v1.46.26 版本更新日志  \n**陈阳杨**  \n[#WSHOP-27618](https://wfwl.pingcode.com/agile/items/662b0bd4086264b44239491c) 【缺陷】【设置-收款方式】网关重置命令优化 !16979  \n**林潇**  \n[#WSHOP-28433](https://wfwl.pingcode.com/agile/items/667e5019db988092a7541203) 【小优化】【技术改进】修复没有空判断导致异常上报sentry !16978  \n**庄铭**  \n[#WSHOP-28428](https://wfwl.pingcode.com/agile/items/667e25d9f8ba035c1eccfcd4) 【小优化】【技术改进】【sentry】修复滚动位置保持功能未兼容未显示时VueEl为注释对象的情况 !16973  \n**徐钟焬**  \n[#WSHOP-28380](https://wfwl.pingcode.com/agile/items/66792d540f62d8f3b688613c) 【缺陷】【TD同步】【应用中心-商品评论】有评论时移动端查看更多页面会显示无评论提示信息   !16972"
+    },
+    {
+        "name": "v1.46.25",
+        "desc": "##  wshop v1.46.25 版本更新日志  \n**林潇**  \n[#WSHOP-27432](https://wfwl.pingcode.com/agile/items/661cbfce41782e7df776ec28) 【缺陷】【主题模块-店铺装修】venue主题启用购物车弹窗，优惠码应用提示会被挡住 !16968  \n[#WSHOP-28262](https://wfwl.pingcode.com/agile/items/666aa1678591ddbde6e09d10) 【缺陷】【应用中心-产品过滤器】价格滑块类型过滤器货币换算后，上限价格超过int型上限时，上溢显示负数 !16967  \n**胡圣杰**  \n[#WSHOP-28358](https://wfwl.pingcode.com/agile/items/6674f81c0f62d8f3b67f69f5) 【小优化】【技术改进】【文件】【openapi】上传支持重复文件去重 !16823"
+    },
+    {
+        "name": "v1.46.24",
+        "desc": "##  wshop v1.46.24 版本更新日志  \n**纪维坚**  \n[#WSHOP-28322](https://wfwl.pingcode.com/agile/items/667154ec8591ddbde6f4ae5e) 【缺陷】【应用中心-组合商品】/api/store/products/group-discount部分场景返回的金额与商品加购后的优惠金额不一致   !16970  \n**胡圣杰**  \n[#WSHOP-28424](https://wfwl.pingcode.com/agile/items/667d1e1d0f62d8f3b6988b04) 【严重缺陷】【主题模块-店铺装修】页脚菜单栏新增或删除组件，保存时最后一个组件消失 !16969  \n**陈荣辉**  \n[#WSHOP-28414](https://wfwl.pingcode.com/agile/items/667bd405fc050df985651b11) 【缺陷】【主题模块-店铺装修】富文本配置多级无序序号排列后，将中间一级序号修改为有序排列，此时商城侧显示的序号图标与编辑器不一致   !16960  \n[#WSHOP-28337](https://wfwl.pingcode.com/agile/items/66728f6cff21ffe36757051a) 【缺陷】【主题模块-店铺装修】vogue主题全局设置-产品卡片中标签文字card_tag_text_color初始化参数不对   !16959  \n**李娜**  \n[#WSHOP-28351](https://wfwl.pingcode.com/agile/items/6673e747db988092a73336c5) 【缺陷】【开放应用】【Webhook】Store侧删除 webhook鉴权不完善   !16928"
+    },
+    {
+        "name": "v1.46.23",
+        "desc": "##  wshop v1.46.23 版本更新日志  \n**吴国锋**  \n[#WSHOP-28422](https://wfwl.pingcode.com/agile/items/667ce321db988092a74e342a) 【缺陷】【邮件】邮件驱动为postal驱动时，邮件无法发出 !16965  \n**纪维坚**  \n[#WSHOP-28367](https://wfwl.pingcode.com/agile/items/6675429610f693dac108551b) 【缺陷】【营销】满送优惠、使用优惠码详情接口获取时应该不返回数据   !16957  \n[#WSHOP-28322](https://wfwl.pingcode.com/agile/items/667154ec8591ddbde6f4ae5e) 【缺陷】【应用中心-组合商品】/api/store/products/group-discount部分场景返回的金额与商品加购后的优惠金额不一致   !16957  \n[#WSHOP-28334](https://wfwl.pingcode.com/agile/items/667273d50f62d8f3b6756047) 【缺陷】【应用中心-组合商品】/api/store/products/group-discount接口入参的price应该可以为0   !16957  \n**余清红**  \n[#WSHOP-28411](https://wfwl.pingcode.com/agile/items/667bc164c5726f1522b0930c) 【小优化】【技术改进】blade文件中不使用vue模版语法   !16953  \n**胡圣杰**  \n[#WSHOP-28259](https://wfwl.pingcode.com/agile/items/666a8cb81141e7f7b1429bec) 【缺陷】【主题模块-店铺装修】文本模块富文本配置多级序号排列后，将父级序号去除，再新增序号，此时商城侧显示与预览页和编辑器不一致 !16937\n\n## wp 版本可更新使用：v1.10.31\n**纪维坚**  \n[#WSHOP-28392](https://wfwl.pingcode.com/agile/items/667a66200f62d8f3b68cb647) 【缺陷】【营销】结账页先应用优惠码，在点击“Complete order”前优惠码失效、没有自动应用可生效的梯度优惠   "
+    },
+    {
+        "name": "v1.46.22",
+        "desc": "##  wshop v1.46.22 版本更新日志  \n**林潇**  \n[#WSHOP-28302](https://wfwl.pingcode.com/agile/items/666fd7bfc5726f152288ac5f) 【缺陷】【主题模块-店铺装修】当商品图片为长图时，在商品详情页使用放大镜查看图片，图片压缩 !16961  \n[#WSHOP-28115](https://wfwl.pingcode.com/agile/items/665d62a237641c459aa6b060) 【缺陷】【主题模块-店铺装修】购物车开启留言框，输入内容后右下角字符数消失 !16952"
+    },
+    {
+        "name": "v1.46.21",
+        "desc": "##  wshop v1.46.21 版本更新日志  \n**吴国锋**  \n[#WSHOP-28415](https://wfwl.pingcode.com/agile/items/667bd526db988092a74aa1c7) 【严重缺陷】【邮件】未设置SES变量的店铺，切换租户模式会失败 !16958"
+    },
+    {
+        "name": "v1.46.20",
+        "desc": "##  wshop v1.46.20 版本更新日志  \n**林潇**  \n[#WSHOP-28403](https://wfwl.pingcode.com/agile/items/667b6f2dff21ffe3677088d7) 【缺陷】【商城】三步结账邮政编码错误时，没有智能提示 !16948  \n**缪磊磊**  \n[#WSHOP-28263](https://wfwl.pingcode.com/agile/items/6661308ff8ba035c1e772ac0) 【小优化】【A】【应用中心】Klaviyo插件使用新版接口 !16895  \n**吴国锋**  \n[#WSHOP-28210](https://wfwl.pingcode.com/agile/items/6668f90b0f62d8f3b655c7aa) 【小功能】【技术改进】【邮件模块】ses 驱动验证方式支持可配置 !16891  \n[#WSHOP-28280](https://wfwl.pingcode.com/agile/items/666be55f1141e7f7b148333a) 【小优化】【技术改进】【邮件模块】tags设置方式解耦合，避免直接依赖具体的邮件驱动 !16891"
+    },
+    {
+        "name": "v1.46.19",
+        "desc": "##  wshop v1.46.19 版本更新日志  \n**危俊泰**  \n[#WSHOP-27530](https://wfwl.pingcode.com/agile/items/6625fe631ba752fbd5bf08d8) 【小功能】客户线合并【A】【博客】博客专辑和博客支持使用slug搜索   !16940  \n**张清洪**  \n[#WSHOP-28282](https://wfwl.pingcode.com/agile/items/66601dc68b5af64f7e85f5c4) 【小功能】【A】【商品-商品分类】自动分类标签筛选支持按照“不等于”规则筛选   !16913"
+    },
+    {
+        "name": "v1.46.18",
+        "desc": "##  wshop v1.46.18 版本更新日志  \n**林潇**  \n[#WSHOP-28346](https://wfwl.pingcode.com/agile/items/6673c5bfff21ffe3675b327c) 【缺陷】【商城】商城侧加购商品进入单页结账后，将结账布局改为三步结账，刷新结账页后修改国家/地区，手机号显示的区号和实际下单的区号不一致 !16939"
+    },
+    {
+        "name": "v1.46.17",
+        "desc": "##  wshop v1.46.17 版本更新日志  \n**缪磊磊**  \n[#WSHOP-28242](https://wfwl.pingcode.com/agile/items/666974f8c5726f152277fc55) 【小功能】V2主题【A】【应用中心-Klaviyo】所有页面生效对应事件 !16889  \n**陈阳杨**  \n[#WSHOP-27528](https://wfwl.pingcode.com/agile/items/6626193a26de453997bcd5e2) 【小优化】【支付模块】【技术改进】nspayment网关secure跳转屏蔽php文件后缀 !16499"
+    },
+    {
+        "name": "v1.46.16",
+        "desc": "##  wshop v1.46.16 版本更新日志  \n**苏俊杰**  \n[#WSHOP-28099](https://wfwl.pingcode.com/agile/items/665029aa13ef304fd939d184) 【小功能】【A】【数据-销售报告】销售报告-商品维度和SKU维度搜索框支持根据SPU、SKU等搜索   !16877"
+    },
+    {
+        "name": "v1.46.15",
+        "desc": "##  wshop v1.46.15 版本更新日志  \n**陈阳杨**  \n[#WSHOP-27815](https://wfwl.pingcode.com/agile/items/6641d10c035a3112579047e6) 【大功能】【S】【支付模块】PayPal新增ACDC信用卡支付 !16698   "
+    },
+    {
+        "name": "v1.46.14",
+        "desc": "##  wshop v1.46.14 版本更新日志  \n**危俊泰**  \n[#WSHOP-28355](https://wfwl.pingcode.com/agile/items/66740421ff21ffe3675d9115) 【严重缺陷】【主题】openapi、webhook遗漏店铺语言设置   !16933"
+    },
+    {
+        "name": "v1.46.13",
+        "desc": "##  wshop v1.46.13 版本更新日志  \n**庄铭**  \n[#WSHOP-28181](https://wfwl.pingcode.com/agile/items/6661583bc5726f152264ca81) 【缺陷】【主题配置-店铺装修】athena主题移动端的商品列表页配置1栏展示时访问商品列表页，页面没有置顶 !16929"
+    },
+    {
+        "name": "v1.46.12",
+        "desc": "##  wshop v1.46.12 版本更新日志  \n**危俊泰**  \n[#WSHOP-28355](https://wfwl.pingcode.com/agile/items/66740421ff21ffe3675d9115) 【严重缺陷】【主题】openapi遗漏店铺语言设置   !16930"
+    },
+    {
+        "name": "v1.46.11",
+        "desc": "##  wshop v1.46.11 版本更新日志  \n**林潇**  \n[#WSHOP-28345](https://wfwl.pingcode.com/agile/items/6673a1d58591ddbde6fc88e6) 【小优化】【技术改进】优化paypal支付失败回跳时checkout.checkout.failed事件参数 !16927"
+    },
+    {
+        "name": "v1.46.10",
+        "desc": "##  wshop v1.46.10 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28319](https://wfwl.pingcode.com/agile/items/66713f13db988092a7289a63) 【缺陷】【应用中心-组合商品】组合商品中有0元商品时，/api/store/products/group-discount接口的入参没有包含0元商品   !16925  \n**张清洪**  \n[#WSHOP-28329](https://wfwl.pingcode.com/agile/items/667249e6f8ba035c1ea5c3d2) 【缺陷】【商品AB测试】在仅有商品AB测试应用权限时，商品相关接口没有权限   !16924  \n[#WSHOP-28316](https://wfwl.pingcode.com/agile/items/66712d641141e7f7b155f012) 【缺陷】【导入导出】【款式组合】同时勾选2个创建时间相同的款式组合记录导出后，表格中数据出现重复   !16919  \n**林潇**  \n[#WSHOP-28023](https://wfwl.pingcode.com/agile/items/6654211c61f3c311c7590161) 【缺陷】【应用中心-组合商品】雅典娜主题组合商品方式非add to cart 上下方时，主商品规格未跟随商品规格切换 !16923  \n[#WSHOP-28310](https://wfwl.pingcode.com/agile/items/6670f390c5726f15228ce7cb) 【缺陷】【商城】单页结账修改国家信息时，change_address接口phone未传区号 !16922"
+    },
+    {
+        "name": "v1.46.9",
+        "desc": "##  wshop v1.46.9 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28297](https://wfwl.pingcode.com/agile/items/666c1b0df8ba035c1e963e89) 【缺陷】【主题】【TD同步】分类页历史浏览记录时面包屑位置显示有误   !16916  \n[#WSHOP-28298](https://wfwl.pingcode.com/agile/items/666c1ba3db988092a71c617e) 【缺陷】【主题】【TD同步】雅典娜主题开启透明导航时分类页的历史浏览记录标题被遮挡   !16916"
+    },
+    {
+        "name": "v1.46.8",
+        "desc": "##  wshop v1.46.8 版本更新日志  \n**张清洪**  \n[#WSHOP-28312](https://wfwl.pingcode.com/agile/items/6670f9b8ff21ffe3674fe3f4) 【缺陷】【应用中心-商品AB测试】商品变种过多时（当前1.6w+），会出现500报错而无法获取到数据   !16917"
+    },
+    {
+        "name": "v1.46.7",
+        "desc": "##  wshop v1.46.7 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28284](https://wfwl.pingcode.com/agile/items/666beb7d8591ddbde6e5a772) 【缺陷】【设置-通知】评论邀请邮件、评论感谢邮件的tag显示有误 !16902"
+    },
+    {
+        "name": "v1.46.6",
+        "desc": "##  wshop v1.46.6 版本更新日志  \n**苏俊杰**  \n[#WSHOP-28301](https://wfwl.pingcode.com/agile/items/666fcb53f8ba035c1e9b9189) 【缺陷】【统计-销售报告】部分店铺销售报告中的订单数据追踪不到   !16909"
+    },
+    {
+        "name": "v1.46.5",
+        "desc": "##  wshop v1.46.5 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28138](https://wfwl.pingcode.com/agile/items/665ed7058591ddbde6bffa99) 【缺陷】【导入导出】【TD同步】自定义导入提示文案优化 !16904\n\n## wp 版本可更新使用：v1.10.30\n**缪磊磊**  \n[#WSHOP-28269](https://wfwl.pingcode.com/agile/items/666adbe18591ddbde6e2708b) 【缺陷】【物流】运费条件为“基于订单商品金额”，应用优惠后刚好为最高金额时、显示的运费不正确"
+    },
+    {
+        "name": "v1.46.4",
+        "desc": "##  wshop v1.46.4 版本更新日志  \n**余清红**  \n[#WSHOP-28281](https://wfwl.pingcode.com/agile/items/666be8c48591ddbde6e58bdc) 【缺陷】【商城】多语言翻译优惠码购物券SHOP COUPONS为简体中文时翻译错误   !16906  \n**吴曦**  \n[#WSHOP-28286](https://wfwl.pingcode.com/agile/items/666bfd6fdb988092a71b30b8) 【缺陷】【数据上报助手】更新绑定广告账号时同步到新服务会有报错 !16903"
+    },
+    {
+        "name": "v1.46.3",
+        "desc": "##  wshop v1.46.3 版本更新日志  \n**危俊泰**  \n[#WSHOP-26813](https://wfwl.pingcode.com/agile/items/65d7145404ae6f86b7dd515c) 【缺陷】【设置模块-通知】获取站内通知接口，通知量较大时（当前30w+），会出现500报错而无法获取到通知 !16685"
+    },
+    {
+        "name": "v1.46.2",
+        "desc": "##  wshop v1.46.2 版本更新日志  \n**余清红**  \n[#WSHOP-28236](https://wfwl.pingcode.com/agile/items/66691d8ac5726f1522752922) 【缺陷】【店铺管理-追踪设置】Criteo OneTag像素购买完成事件未触发   !16894  \n**徐钟焬**  \n[#WSHOP-28261](https://wfwl.pingcode.com/agile/items/666aa12ff8ba035c1e8f58f1) 【小优化】【技术改进】详情页和购物车添加关键元素自定义属性   !16893  \n**缪磊磊**  \n[#WSHOP-28247](https://wfwl.pingcode.com/agile/items/666a5203f8ba035c1e8ce8bf) 【小优化】【技术改进】【元字段】openapi修改指定资源元字段图片类型兼容图片对象 !16888"
+    },
+    {
+        "name": "v1.46.1",
+        "desc": "##  wshop v1.46.1 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28245](https://wfwl.pingcode.com/agile/items/666998cedb988092a71212af) 【缺陷】【商城】部分页面不需要面包屑也展示了面包屑   !16890\n\n## 与v1.46.0-beta.13为相同版本\n"
+    },
+    {
+        "name": "v1.46.0",
+        "desc": "##  wshop v1.46.0-beta.12 版本更新日志  \n**危俊泰**  \n[#WSHOP-28238](https://wfwl.pingcode.com/agile/items/66695f3c8591ddbde6dbcb3d) 【缺陷】【博客】新建博客专辑、获取博客相关接口接口返回500   !16884\n\n## 与v1.46.0-beta.12为相同版本\n\n"
+    },
+    {
+        "name": "v1.46.0-beta.13",
+        "desc": "##  wshop v1.46.0-beta.13 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28245](https://wfwl.pingcode.com/agile/items/666998cedb988092a71212af) 【缺陷】【商城】部分页面不需要面包屑也展示了面包屑   !16890"
+    },
+    {
+        "name": "v1.46.0-beta.12",
+        "desc": "##  wshop v1.46.0-beta.12 版本更新日志  \n**危俊泰**  \n[#WSHOP-28238](https://wfwl.pingcode.com/agile/items/66695f3c8591ddbde6dbcb3d) 【缺陷】【博客】新建博客专辑、获取博客相关接口接口返回500   !16884"
+    },
+    {
+        "name": "v1.46.0-beta.11",
+        "desc": "##  wshop v1.46.0-beta.11 版本更新日志  \n**苏俊杰**  \n[#WSHOP-28208](https://wfwl.pingcode.com/agile/items/666823368591ddbde6d7311b) 【小优化】【技术改进】【统计模块】优化统一路由前缀配置项   !16882  \n**徐钟焬**  \n[#WSHOP-24704](https://wfwl.pingcode.com/agile/items/652514ab5b20ca72a2565a91) 【缺陷】【主题-店铺装修】雅典娜主题免邮提示金额初始化字段缺失，导致历史主题开启免邮提示未配置金额后商城购物车页直接显示免邮信息   !16880  \n**张清洪**  \n[#WSHOP-28209](https://wfwl.pingcode.com/agile/items/666841c48b5af64f7e98861f) 【缺陷】【营销弹窗】配置指定分类页面，管理后台显示异常   !16879  \n**危俊泰**  \n[#WSHOP-27986](https://wfwl.pingcode.com/agile/items/664f0c0561f3c311c74e96d0) 【大功能】客户线合并【A】【博客-博客管理】博客模块优化（新增博客主页、丰富博客专辑、详情页内容，优化博客相关页面布局样式等） !16832  \n[#WSHOP-27985](https://wfwl.pingcode.com/agile/items/664f186c5aa257ee917f7696) 【小功能】客户线合并【A】【博客-博客专辑】博客专辑中博客排序方式增加按博客更新时间从新到旧展示   !16832  \n[#WSHOP-27984](https://wfwl.pingcode.com/agile/items/664f19b913ef304fd9370cf4) 【小功能】客户线合并【A】【博客-博客专辑】博客主页中显示的博客专辑列表，博客专辑支持按照专辑内的博客数进行排列   !16832  \n[#WSHOP-27989](https://wfwl.pingcode.com/agile/items/664f196b13ef304fd9370ada) 【小功能】客户线合并【A】【博客模块】博客主页、专辑页的推荐博客模块图片显示规则优化为固定宽高，超出部分裁剪 !16832  \n[#WSHOP-27987](https://wfwl.pingcode.com/agile/items/664f16ed5aa257ee917f6c8a) 【大功能】客户线合并【A】【主题-Athena】SEO优化需求：商品列表页、商品详情页、博客相关页面支持显示面包屑导航   !16832  \n[#WSHOP-27988](https://wfwl.pingcode.com/agile/items/664f1921035a311257bdee68) 【小优化】客户线合并【A】【主题-Athena】博客相关页面面包屑中博客主页显示文本改为 Blog   !16832"
+    },
+    {
+        "name": "v1.46.0-beta.10",
+        "desc": "##  wshop v1.46.0-beta.10 版本更新日志  \n**李娜**  \n[#WSHOP-28205](https://wfwl.pingcode.com/agile/items/66680a691141e7f7b13908c6) 【小优化】【开放应用】【技术改进】接口请求速率限制配置化   !16876  "
+    },
+    {
+        "name": "v1.46.0-beta.9",
+        "desc": "##  wshop v1.46.0-beta.9 版本更新日志  \n**胡圣杰**  \n[#WSHOP-28091](https://wfwl.pingcode.com/agile/items/665029a4035a311257c0b76b) 【小功能】【A】【商品-商品列表】商品导出支持导出创建时间字段 !16834"
+    },
+    {
+        "name": "v1.46.0-beta.8",
+        "desc": "##  wshop v1.46.0-beta.8 版本更新日志  \n**吴曦**  \n[#WSHOP-28201](https://wfwl.pingcode.com/agile/items/6667bf13db988092a708c53a) 【缺陷】【广告助手】通过 SaaS 创建的用户权限丢失 !16872  \n**张清洪**  \n[#WSHOP-28200](https://wfwl.pingcode.com/agile/items/6667ba43ff21ffe36731c7ad) 【缺陷】【sentry】【商品】商城侧接口 参数注入攻击   !16871  \n[#WSHOP-28199](https://wfwl.pingcode.com/agile/items/6667b67edb988092a7085f76) 【缺陷】【sentry】【商品】shopifyback定时任务移除   !16870"
+    },
+    {
+        "name": "v1.46.0-beta.7",
+        "desc": "##  wshop v1.46.0-beta.7 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28193](https://wfwl.pingcode.com/agile/items/66627f82ff21ffe3672bd56c) 【缺陷】【应用中心-组合商品】组合商品显示样式 = 卡片样式，文案“Add to cart, discount will be displayed in cart”没有移除   !16863  \n[#WSHOP-27732](https://wfwl.pingcode.com/agile/items/663b104b4de2e7e6c9c15e09) 【缺陷】【主题模块-店铺装修】vogue主题配置多个公告栏轮播，切换预览移动、pc，pc端和移动端背景图预览不对   !16835  \n**吴曦**  \n[#WSHOP-28151](https://wfwl.pingcode.com/agile/items/665fd2fff8ba035c1e71644f) 【小优化】【技术改进】【广告助手】增加广告助手 options 中 full_local 的默认值 !16843"
+    },
+    {
+        "name": "v1.46.0-beta.6",
+        "desc": "##  wshop v1.46.0-beta.6 版本更新日志  \n**苏俊杰**  \n[#WSHOP-28197](https://wfwl.pingcode.com/agile/items/66633df5ff21ffe3672ef738) 【缺陷】【移动端】未收到出单提醒   !16867"
+    },
+    {
+        "name": "v1.46.0-beta.5",
+        "desc": "##  wshop v1.46.0-beta.5 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28195](https://wfwl.pingcode.com/agile/items/6662da2a1141e7f7b1332f71) 【主题】商城侧首页源代码出现中文汉字   !16864 \n\n[#WSHOP-28239](https://wfwl.pingcode.com/pjm/items/66696105f8ba035c1e8a8783) 【主题】商城侧首页源代码出现关键字secret  !16864"
+    },
+    {
+        "name": "v1.46.0-beta.4",
+        "desc": "##  wshop v1.46.0-beta.4 版本更新日志  \n**余清红**  \n[#WSHOP-28183](https://wfwl.pingcode.com/agile/items/66615ee28b5af64f7e8a92a3) 【缺陷】【应用中心-Instagram展示】【TD同步】图片过长时未裁剪   !16857  \n**张清洪**  \n[#WSHOP-28180](https://wfwl.pingcode.com/agile/items/666152e78591ddbde6c9469d) 【缺陷】【商品-商品列表】V2_增量更新商品接口更新商品title时，V1表变种title未跟随更新   !16854"
+    },
+    {
+        "name": "v1.46.0-beta.3",
+        "desc": "##  wshop v1.46.0-beta.3 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28156](https://wfwl.pingcode.com/agile/items/666012a10f62d8f3b64226a6) 【缺陷】【应用中心-组合商品】athena 主题配置组合商品为非“ADD TO CART”按钮下方时控制台报错   !16848  \n**危俊泰**  \n[#WSHOP-28155](https://wfwl.pingcode.com/agile/items/66600d9c8591ddbde6c47751) 【小优化】【技术改进】【运营助手】运营助手失败请求日志优化等级 !16845  \n**张清洪**  \n[#WSHOP-28055](https://wfwl.pingcode.com/agile/items/6655930513ef304fd9481dda) 【小优化】优化wp变种数据插入   !16791"
+    },
+    {
+        "name": "v1.46.0-beta.2",
+        "desc": "##  wshop v1.46.0-beta.2 版本更新日志  \n**陈荣辉**  \n[#WSHOP-28046](https://wfwl.pingcode.com/agile/items/66558077035a311257ce4954) 【缺陷】【主题配置-店铺装修】开启调色板自动配置色板，当色块为白色时，与下拉框背景色重合，看不清色块   !16831  \n[#WSHOP-27653](https://wfwl.pingcode.com/pjm/items/6621c4462b20c06b3eedb864) 【小优化】【A】【主题模块-店铺装修】Vouge模板增加店铺装修中富文本编辑器的功能   !16591  \n**徐钟焬**  \n[#WSHOP-27900](https://wfwl.pingcode.com/agile/items/6645d57d61f3c311c7326561) 【小优化】客户线合并【A】【主题-Athena】商品详情页推荐商品模块移动端支持Don't Like These？功能   !16697"
+    },
+    {
+        "name": "v1.46.0-beta.1",
+        "desc": "##  wshop v1.46.0-beta.1 版本更新日志  \n**吴曦**  \n[#WSHOP-28142](https://wfwl.pingcode.com/agile/items/665ee0228591ddbde6c062b3) 【缺陷】【广告助手】广告助手 v1.45.78 的 v2 版本升级命令报错 !16841  \n[#WSHOP-27736](https://wfwl.pingcode.com/agile/items/66306b6452cdc4623f1fc84a) 【小功能】【A】【应用 - Pixel Conversion】验证fb像素时，若网络异常则给出提示 !16667  \n**危俊泰**  \n[#WSHOP-27899](https://wfwl.pingcode.com/agile/items/6645d5034de2e7e6c9ea10f7) 【小功能】客户线合并【A】【应用中心-Instagram】编辑帖子页面帖子列表按帖子发布时间倒序排列 !16696  \n**苏俊杰**  \n[#WSHOP-27735](https://wfwl.pingcode.com/agile/items/662f598cd6ddd4eca583ca23) 【小功能】【A】【广告服务】Google Analytics支持使用Measurement Protocol增强订单事件   !16655  \n**缪磊磊**  \n[#WSHOP-27681](https://wfwl.pingcode.com/agile/items/6638394339d1a5ef66904b4c) 【小功能】【A】【主题模块】V2主题包允许更新至指定版本 !16586  \n**纪维坚**  \n[#WSHOP-27448](https://wfwl.pingcode.com/agile/items/661df4691ba752fbd5a6a38a) 【小优化】【A】【应用-组合商品】组合商品价格需要显示组合的折后价   !16488  \n**胡圣杰**  \n[#WSHOP-27708](https://wfwl.pingcode.com/agile/items/66388e3d27692e2d013e41c4) 【大优化】【A】【导入导出】订单导入优化 !15414"
+    }
+]

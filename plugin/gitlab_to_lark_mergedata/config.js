@@ -39,11 +39,7 @@ module.exports = {
         // saas
         '667bc61ab77f92d209799c85': 'Wshop Store'
     },
-    workItemEnum: {
-        "缺陷管理": "645b5b8e4e1017a97c9069a3",
-        "需求管理": "645b45bdc4888bbd733ffeda",
-        "版本管理": "65d5a412c1e655a74ce02208",
-    },
+
     // files
     filesAliasEnum: {
         '引入版本': "create_version",
@@ -61,6 +57,26 @@ module.exports = {
     // hotfixKey
     hotFixKey: 'field_d436ec',
     // 线上覆盖数 - 全量版本
-    lineOverNum: 'field_3d61ab'
+    lineOverNum: 'field_3d61ab',
+    workItemEnum: {
+        "缺陷管理": "645b5b8e4e1017a97c9069a3", // 测试
+        "需求管理": "645b45bdc4888bbd733ffeda", // 测试
+        "版本管理": "65d5a412c1e655a74ce02208",
+    },
+    // // 正式
+    // workItemEnum: {
+    //     "缺陷管理": "645b5b8e4e1017a97c9069a3", // 正式
+    //     "需求管理": "645b45bdc4888bbd733ffeda", // 正式
+    //     "版本管理": "65d5a412c1e655a74ce02208",
+    // },
+    // 业务线
+
+    // pingcodeID-需求
+    pingcodeIdEnum: {
+        '需求': 'field_6b79ab', // 测试/正式
+        '缺陷': 'field_bea996'  // 测试/正式
+    },
+    // 版本号fliedid
+    versionNumber: 'field_353769'
 
 }

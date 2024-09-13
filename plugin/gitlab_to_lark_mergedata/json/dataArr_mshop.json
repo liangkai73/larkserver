@@ -1,0 +1,286 @@
+[
+    {
+        "name": "v1.47.24",
+        "desc": "##  MSHOP 管理端 v1.47.24 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28763](https://wfwl.pingcode.com/agile/items/669df3ba094b5dd563533225) 【大功能】【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付 !5074\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.76](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.76)"
+    },
+    {
+        "name": "v1.48.4",
+        "desc": "##  MSHOP 管理端 v1.48.4 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28763](https://wfwl.pingcode.com/agile/items/669df3ba094b5dd563533225) 【大功能】【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付 !5073  \n\n\n\n\n---------------\n## 最小依赖后端版本[v1.48.16](https://git.papamk.com/xgrit/wshop/-/releases/v1.48.16)"
+    },
+    {
+        "name": "v1.47.23",
+        "desc": "##  MSHOP 管理端 v1.47.23 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28934](https://wfwl.pingcode.com/agile/items/66b04777821349d1b63a39ce) 【小功能】【S】【模块开发】PayPal-ACDC增加3DS策略配置   !5068  \n[#WSHOP-29057](https://wfwl.pingcode.com/agile/items/66b9df83ef307c97d00ad5ae) 【大功能】【S】【支付模块】新增SproutPay-klarna支付 !5068\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.73](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.73)"
+    },
+    {
+        "name": "v1.48.3",
+        "desc": "##  MSHOP 管理端 v1.48.3 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28934](https://wfwl.pingcode.com/agile/items/66b04777821349d1b63a39ce) 【小功能】【S】【模块开发】PayPal-ACDC增加3DS策略配置   !5067  \n[#WSHOP-29057](https://wfwl.pingcode.com/agile/items/66b9df83ef307c97d00ad5ae) 【大功能】【S】【支付模块】新增SproutPay-klarna支付 !5067\n\n\n\n---------------\n## 最小依赖后端版本[v1.48.12](https://git.papamk.com/xgrit/wshop/-/releases/v1.48.12)"
+    },
+    {
+        "name": "v1.48.2",
+        "desc": "##  MSHOP 管理端 v1.48.2 版本更新日志  \n**杨辉**  \n[#WSHOP-29059](https://wfwl.pingcode.com/agile/items/66bac312b19ba441b2b6e55d) 【缺陷】【通用组件】选择商品弹窗中不需要变种和分类信息时，不需要带上with参数中的categories及variants   !5057  \n\n---------------\n## 最小依赖后端版本[v1.48.0-beta.1](https://git.papamk.com/xgrit/wshop/-/releases/v1.48.0-beta.1)"
+    },
+    {
+        "name": "v1.48.1",
+        "desc": "##  MSHOP 管理端 v1.48.1 版本更新日志  \n**张灵锋**  \n[#WSHOP-29193](https://wfwl.pingcode.com/agile/items/66c43b50d8c98bc611eace20) 【缺陷】【设置-元字段】图片元字段上传提示文案应强调上传文件类型为图片 !5059  \n\n\n---------------\n## 最小依赖后端版本[v1.48.0-beta.1](https://git.papamk.com/xgrit/wshop/-/releases/v1.48.0-beta.1)\n"
+    },
+    {
+        "name": "v1.48.0-beta.4",
+        "desc": "##  MSHOP 管理端 v1.48.0-beta.3 版本更新日志  \n**卓晓晖**  \n[#WSHOP-29173](https://wfwl.pingcode.com/agile/items/66c2a1345816cd1f807c89ea) 【缺陷】【应用中心】应用名称要设置成整个单词在同一行或者直接切 !5053\n\n\n\n---------------\n## 最小依赖后端版本[v1.48.0-beta.1](https://git.papamk.com/xgrit/wshop/-/releases/v1.48.0-beta.1)"
+    },
+    {
+        "name": "v1.47.22",
+        "desc": "##  MSHOP 管理端 v1.47.22 版本更新日志  \n**卓晓晖**  \n[#WSHOP-29173](https://wfwl.pingcode.com/agile/items/66c2a1345816cd1f807c89ea) 【缺陷】【应用中心】应用名称要设置成整个单词在同一行或者直接切 !5053\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.44](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.44)\n\n"
+    },
+    {
+        "name": "v1.48.0-beta.2",
+        "desc": "##  MSHOP 管理端 v1.48.0-beta.2 版本更新日志  \n**卓晓晖**  \n[#WSHOP-29108](https://wfwl.pingcode.com/agile/items/66bc780c38beab6d1993ee94) 【缺陷】【营销】新版营销，满送优惠、满送优惠码的选择商品款式弹窗，简单商品选中后无法取消选中 !5048  \n**张灵锋**  \n[#WSHOP-29000](https://wfwl.pingcode.com/agile/items/66b5b5d8ef307c97d001f8f6) 【缺陷】【设置-语言】【TD同步】拖拽时默认语言文案换行显示 !5043\n\n\n---------------\n## 最小依赖后端版本[v1.48.0-beta.1](https://git.papamk.com/xgrit/wshop/-/releases/v1.48.0-beta.1)\n\n"
+    },
+    {
+        "name": "v1.48.0-beta.1",
+        "desc": "##  MSHOP 管理端 v1.48.0-beta.1 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28275](https://wfwl.pingcode.com/agile/items/666b0ddfc5726f15227e07e6) 【小优化】【A】【营销】新版营销：新版营销仅保留旧版有的功能，新功能全部隐藏   !5036  \n[#WSHOP-22991](https://wfwl.pingcode.com/agile/items/6489376a067fe06567da8a8d) 【大功能】【A】【营销模块】新版营销-自动折扣（固定金额、百分比折扣）优惠类型实现   !5036  \n[#WSHOP-22995](https://wfwl.pingcode.com/agile/items/64a41b7a0737a772c1dd8abe) 【大功能】【A】【营销模块】新版营销-自动折扣增加第M件优惠   !5036  \n[#WSHOP-22993](https://wfwl.pingcode.com/agile/items/64a41e300b846856077d8a98) 【大功能】【A】【营销模块】新版营销-自动折扣增加满送优惠   !5036  \n[#WSHOP-22997](https://wfwl.pingcode.com/agile/items/64ad1bbbd68fc313cbd4b294) 【大功能】【A】【营销模块】新版营销-优惠码（固定折扣、百分比折扣）优惠类型实现   !5036  \n[#WSHOP-22998](https://wfwl.pingcode.com/agile/items/64ad1bfc1518fc9f4f420a26) 【大功能】【A】【营销模块】新版营销-优惠码（满送优惠）优惠类型实现   !5036  \n[#WSHOP-22999](https://wfwl.pingcode.com/agile/items/64ad1c2c1518fc9f4f420d13) 【大功能】【A】【营销模块】新版营销-优惠码（免运费）优惠类型实现   !5036  \n[#WSHOP-23012](https://wfwl.pingcode.com/agile/items/64af57edda39d488d28bff38) 【小优化】【A】【营销模块】新版营销-权限迁移   !5036  \n[#WSHOP-23187](https://wfwl.pingcode.com/agile/items/64ba280b81a48489bb8480e0) 【小功能】【A】【营销模块】新版营销-组合优惠迁移与旧数据兼容   !5036  \n[#WSHOP-23188](https://wfwl.pingcode.com/agile/items/64ba427f7b33101f70787e71) 【大功能】【A】【营销模块】新版营销-自动折扣增加高级设置、商城样式配置   !5036  \n[#WSHOP-23189](https://wfwl.pingcode.com/agile/items/64ba4b9d91c517a83771f9f1) 【小功能】【A】【营销模块】新版营销-商城优惠文案支持自定义   !5036  \n[#WSHOP-23742](https://wfwl.pingcode.com/agile/items/64df1a7ac1cd5f188374fa7b) 【小优化】【A】【营销模块】新版折扣添加提示文案   !5036  \n[#WSHOP-23741](https://wfwl.pingcode.com/agile/items/64df0783d3791f72132f9ab8) 【小优化】【A】【营销模块】新版营销折扣入口拆分细化   !5036  \n[#WSHOP-23810](https://wfwl.pingcode.com/agile/items/64e41d2af2ee1315f5d75996) 【小功能】【A】【营销模块】营销模块需要支持新旧版本切换   !5036  \n[#WSHOP-24923](https://wfwl.pingcode.com/agile/items/6531e4e0a81578ad44bcc3a0) 【小功能】【A】【营销模块】新版营销样式支持每个活动单独配置   !5036  \n[#WSHOP-25103](https://wfwl.pingcode.com/agile/items/6540a5bcbe3cbe8104744237) 【大功能】【A】【营销模块】新版营销-满送优惠（买X送X）优惠类型实现   !5036  \n[#WSHOP-26652](https://wfwl.pingcode.com/agile/items/65bf6b1098b36d9947be279c) 【小功能】【A】【营销模块】新版营销迁移规则优化   !5036  \n[#WSHOP-27014](https://wfwl.pingcode.com/agile/items/65f2aa73e915633e5cc013f1) 【小功能】【A】【营销模块】新版营销第M件优惠表格文案支持自定义   !5036  \n[#WSHOP-27837](https://wfwl.pingcode.com/agile/items/6641acc013ef304fd907e785) 【小功能】【A】【营销模块】新版营销-第M件优惠支持配置为最低优先级生效   !5036  \n[#WSHOP-27838](https://wfwl.pingcode.com/agile/items/6641cc5e13ef304fd9095192) 【小功能】【A】【营销模块】新版营销-免运费优惠码支持设置最高优惠金额   !5036  \n[#WSHOP-24383](https://wfwl.pingcode.com/agile/items/650aa39f54d0ab4fcf45b641) 【小功能】【A】【营销模块】新版营销记录操作日志 !5036"
+    },
+    {
+        "name": "v1.47.21",
+        "desc": "##  MSHOP 管理端 v1.47.21 版本更新日志  \n**杨辉**  \n[#WSHOP-29037](https://wfwl.pingcode.com/agile/items/66b97fb0df1b6972d74dc928) 【缺陷】【商品-商品列表】批量编辑器售价原价SKU与其他列切换时存在卡顿 !5037\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.44](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.44)"
+    },
+    {
+        "name": "v1.47.20",
+        "desc": "##  MSHOP 管理端 v1.47.20 版本更新日志  \n**卓晓晖**  \n[#WSHOP-29002](https://wfwl.pingcode.com/agile/items/66b5c103b8ec715dd0a0436e) 【缺陷】【设置-收款方式】企业授权模式无法在开发者模式下展示 !5032\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.44](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.44)"
+    },
+    {
+        "name": "v1.47.19",
+        "desc": "##  MSHOP 管理端 v1.47.19 版本更新日志  \n**杨辉**  \n[#WSHOP-28973](https://wfwl.pingcode.com/agile/items/66b30e12df1b6972d73dc2b5) 【缺陷】【商品-商品列表】商品批量编辑器使用Excel复制替换包含重量列时，替换结果有误 !5025  \n[#WSHOP-28975](https://wfwl.pingcode.com/agile/items/66b30fdbb8ec715dd09598ca) 【缺陷】【商品-商品列表】商品批量编辑器未保存修改内容添加列时，提示文案有误   !5025\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.44](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.44)"
+    },
+    {
+        "name": "v1.46.25",
+        "desc": "##  MSHOP 管理端 v1.46.25 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28884](https://wfwl.pingcode.com/agile/items/66a9a178df1b6972d720392e) 【大功能】【S】【支付模块】Nspayment的ApplePay增加快捷支付 !5030\n\n\n---------------\n## 最小依赖后端版本[v1.46.83](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.83)、[v1.46.73-h.4](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.73-h.4)"
+    },
+    {
+        "name": "v1.47.18",
+        "desc": "##  MSHOP 管理端 v1.47.18 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28884](https://wfwl.pingcode.com/agile/items/66a9a178df1b6972d720392e) 【大功能】【S】【支付模块】Nspayment的ApplePay增加快捷支付 !5028\n\n\n---------------\n## 最小依赖后端版本[v1.47.44](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.44)"
+    },
+    {
+        "name": "v1.47.17",
+        "desc": "##  MSHOP 管理端 v1.47.17 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28917](https://wfwl.pingcode.com/agile/items/66ac77fcdf1b6972d72c118e) 【缺陷】【应用中心-分享激励】按钮名称不准确 !5020  \n\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.27](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.27)"
+    },
+    {
+        "name": "v1.46.24",
+        "desc": "##  MSHOP 管理端 v1.46.24 版本更新日志  \n**张灵锋**  \n[#WSHOP-28947](https://wfwl.pingcode.com/agile/items/66b184adefe25ac157f9d25e) 【缺陷】【通用组件】销售报告页面应无商品分类搜索控件 !5013  \n[#WSHOP-28949](https://wfwl.pingcode.com/agile/items/66b18d4a821349d1b63f0678) 【缺陷】【统计-销售报告】部分情况下，支付渠道、销售时间tab页面显示多余的筛选条件 !5013\n\n\n---------------\n## 最小依赖后端版本[v1.46.51](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.51)"
+    },
+    {
+        "name": "v1.47.16",
+        "desc": "##  MSHOP 管理端 v1.47.16 版本更新日志  \n**张灵锋**  \n[#WSHOP-28947](https://wfwl.pingcode.com/agile/items/66b184adefe25ac157f9d25e) 【缺陷】【通用组件】销售报告页面应无商品分类搜索控件 !5013  \n[#WSHOP-28949](https://wfwl.pingcode.com/agile/items/66b18d4a821349d1b63f0678) 【缺陷】【统计-销售报告】部分情况下，支付渠道、销售时间tab页面显示多余的筛选条件 !5013\n\n\n---------------\n## 最小依赖后端版本[v1.47.27](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.27)"
+    },
+    {
+        "name": "v1.47.15",
+        "desc": "##  MSHOP 管理端 v1.47.15 版本更新日志  \n**方全勇**  \n[#WSHOP-28950](https://wfwl.pingcode.com/agile/items/66b19066b8ec715dd08f833d) 【小优化】【技术改进】 mshop 的nginx 加proxy_http_version 为1.1 !5015  \n\n\n---------------\n## 最小依赖后端版本[v1.47.27](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.27)"
+    },
+    {
+        "name": "v1.46.19-h.1.f.ppgooglepay.1",
+        "desc": "##  MSHOP 管理端 v1.46.19-h.1.f.ppgooglepay.1 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28763](https://wfwl.pingcode.com/agile/items/669df3ba094b5dd563533225) 【大功能】【S】【支付模块】PayPal新增Google Pay与Google Pay快捷支付 !5011"
+    },
+    {
+        "name": "v1.47.14",
+        "desc": "##  MSHOP 管理端 v1.47.14 版本更新日志  \n**卓晓晖**   \n [#WSHOP-28780](https://wfwl.pingcode.com/agile/items/669f78e82b157eb77c30e163) 【缺陷】【店铺管理-追踪设置】修改配置后在还原配置项，保存提示栏应不显示\n\n---------------\n## 最小依赖后端版本[v1.47.27](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.27)"
+    },
+    {
+        "name": "v1.46.19-h.1.f.nsapexpress.2",
+        "desc": "##  MSHOP 管理端 v1.46.19-h.1.f.nsapexpress.2 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28901](https://wfwl.pingcode.com/agile/items/66ab2fa5df1b6972d7273fe5) 【缺陷】【特性测试】【设置-收款方式】nspayment-apple pay开启/关闭快捷支付无提示语 !5006"
+    },
+    {
+        "name": "v1.47.13",
+        "desc": "##  MSHOP 管理端 v1.47.13 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28704](https://wfwl.pingcode.com/agile/items/66973f2ac0fa85acf7baeff4) 【缺陷】【多店铺管理】店铺注销后再次打开，注销页面刷新页面后没有进入店铺后台 !5002  \n[#WSHOP-28780](https://wfwl.pingcode.com/agile/items/669f78e82b157eb77c30e163) 【缺陷】【店铺管理-追踪设置】修改配置后在还原配置项，保存提示栏应不显示 !5000\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.27](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.27)"
+    },
+    {
+        "name": "v1.46.19-h.1.f.nsapexpress.1",
+        "desc": "##  MSHOP 管理端 v1.46.19-h.1.f.nsapexpress.1 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28884](https://wfwl.pingcode.com/agile/items/66a9a178df1b6972d720392e) 【需求】【S】【支付模块】Nspayment的ApplePay增加快捷支付 !5001"
+    },
+    {
+        "name": "v1.47.12",
+        "desc": "##  MSHOP 管理端 v1.47.12 版本更新日志  \n**杨辉**  \n[#WSHOP-28140](https://wfwl.pingcode.com/agile/items/665ed1430f62d8f3b63d37fd) 【大优化】【A】【导入导出模块】商品与库存导入优化 !4955\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.27](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.27)"
+    },
+    {
+        "name": "v1.47.11",
+        "desc": "##  MSHOP 管理端 v1.47.11 版本更新日志  \n**张灵锋**  \n[#WSHOP-28762](https://wfwl.pingcode.com/agile/items/669a3b7616e616a49b1bb334) 【小功能】客户线合并【A】【应用中心-促销倒计时】详情页促销倒计时支持按截止时间设置倒计时 !4982\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.24](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.24)"
+    },
+    {
+        "name": "v1.47.10",
+        "desc": "##  MSHOP 管理端 v1.47.10 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28673](https://wfwl.pingcode.com/agile/items/6695d913313cdc3501504a10) 【大功能】【S】【支付模块】PayPal新增Apple Pay与Apple Pay快捷支付 !4967  \n**杨辉**  \n[#WSHOP-28674](https://wfwl.pingcode.com/agile/items/6694fdbdc0fa85acf7b3c97f) 【小优化】【A】【商品-商品详情】删除标签功能优化，强化删除提示与交互 !4961\n\n\n---------------\n## 最小依赖后端版本[v1.47.23](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.23)"
+    },
+    {
+        "name": "v1.47.9",
+        "desc": "##  MSHOP 管理端 v1.47.9 版本更新日志  \n**张灵锋**  \n[#WSHOP-28579](https://wfwl.pingcode.com/agile/items/668c9802a28e5f6adc343058) 【小功能】【A】【商品模块】选择商品弹窗支持批量搜索 !4948  \n\n\n---------------\n## 最小依赖后端版本[v1.47.21](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.21)"
+    },
+    {
+        "name": "v1.47.8",
+        "desc": "##  MSHOP 管理端 v1.47.8 版本更新日志   \n**卓晓晖**  \n[#WSHOP-28510](https://wfwl.pingcode.com/agile/items/6686675228afc4c92637ed43) 【大功能】【S】【支付模块】PayPal新增企业账号授权模式 !4943\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.21](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.21)"
+    },
+    {
+        "name": "v1.46.19-h.1",
+        "desc": "##  MSHOP 管理端 v1.46.19-h.1 版本更新日志  \n**张灵锋**  \n[#WSHOP-28752](https://wfwl.pingcode.com/agile/items/669cf402c0fa85acf7c8e19b) 【缺陷】【统计】销售报告使用商品分类筛选器不生效 !4976\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.23",
+        "desc": "##  MSHOP 管理端 v1.46.23 版本更新日志  \n**张灵锋**  \n[#WSHOP-28695](https://wfwl.pingcode.com/agile/items/669725c4094b5dd56341b2eb) 【缺陷】【应用中心-智能搜索】商品SKU和商品SPU批量搜索数量超过100个，接口返回提示未展示 !4988\n\n\n---------------\n## 最小依赖后端版本[v1.46.51](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.51)"
+    },
+    {
+        "name": "v1.47.7",
+        "desc": "##  MSHOP 管理端 v1.47.7 版本更新日志  \n**杨辉**  \n[#WSHOP-28695](https://wfwl.pingcode.com/agile/items/669725c4094b5dd56341b2eb) 【缺陷】【应用中心-智能搜索】商品SKU和商品SPU批量搜索数量超过100个，接口返回提示未展示   !4989\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.47.6",
+        "desc": "##  MSHOP 管理端 v1.47.6 版本更新日志  \n**张灵锋**  \n[#WSHOP-28688](https://wfwl.pingcode.com/agile/items/66961bcf0e2b5f3eff9d193c) 【小优化】【技术改进】设置-通知不同版本不同UI效果 !4960\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.47.5",
+        "desc": "##  MSHOP 管理端 v1.47.5 版本更新日志  \n**张灵锋**  \n[#WSHOP-28718](https://wfwl.pingcode.com/agile/items/669873830e2b5f3effa4daf8) 【缺陷】【TD同步】【设置-通知】进入详情页偶现模板语言与主题语言不一致 !4972\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.46.22",
+        "desc": "##  MSHOP 管理端 v1.46.22 版本更新日志  \n**杨辉**  \n[#WSHOP-28752](https://wfwl.pingcode.com/agile/items/669cf402c0fa85acf7c8e19b) 【缺陷】【统计】销售报告使用商品分类筛选器不生效 !4976\n\n\n---------------\n## 最小依赖后端版本[v1.46.51](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.51)"
+    },
+    {
+        "name": "v1.47.4",
+        "desc": "##  MSHOP 管理端 v1.47.4 版本更新日志  \n**杨辉**  \n[#WSHOP-28752](https://wfwl.pingcode.com/agile/items/669cf402c0fa85acf7c8e19b) 【缺陷】【统计】销售报告使用商品分类筛选器不生效 !4976\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.46.21",
+        "desc": "##  MSHOP 管理端 v1.46.21 版本更新日志  \n**杨辉**  \n[#WSHOP-28713](https://wfwl.pingcode.com/agile/items/66977f1a094b5dd563444293) 【缺陷】【统计】销售报告中的“发起结账”文案需修改为“进入结账”   !4969\n\n\n---------------\n## 最小依赖后端版本[v1.46.51](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.51)"
+    },
+    {
+        "name": "v1.47.3",
+        "desc": "##  MSHOP 管理端 v1.47.3 版本更新日志  \n**杨辉**  \n[#WSHOP-28713](https://wfwl.pingcode.com/agile/items/66977f1a094b5dd563444293) 【缺陷】【统计】销售报告中的“发起结账”文案需修改为“进入结账”   !4969  \n**张灵锋**  \n[#WSHOP-28669](https://wfwl.pingcode.com/agile/items/6694bcd4313cdc35014c74ec) 【缺陷】【TD同步】【商品-商品列表】自动分类商品名称、商品标签及供应商当仅空格时，不允许保存 !4958\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.47.2",
+        "desc": "##  MSHOP 管理端 v1.47.2 版本更新日志  \n**张灵锋**  \n[#WSHOP-28710](https://wfwl.pingcode.com/agile/items/669775460e2b5f3effa24745) 【缺陷】【商品-商品列表】当无商品编辑权限时，此商品为海外仓发货商品应置灰不可操作 !4964\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.47.1",
+        "desc": "##  MSHOP 管理端 v1.47.1 版本更新日志  \n**杨辉**  \n[#WSHOP-26860](https://wfwl.pingcode.com/agile/items/65e533016e4e80919ba22702) 【大优化】【技术改进】Openapi支持版本控制 !4790\n\n\n---------------\n## 最小依赖后端版本[v1.47.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.2)"
+    },
+    {
+        "name": "v1.46.20",
+        "desc": "##  MSHOP 管理端 v1.46.20 版本更新日志  \n**杨辉**  \n[#WSHOP-26860](https://wfwl.pingcode.com/agile/items/65e533016e4e80919ba22702) 【大优化】【技术改进】Openapi支持版本控制 !4790\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.51](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.51)"
+    },
+    {
+        "name": "v1.47.0-beta.3",
+        "desc": "##  MSHOP 管理端 v1.47.0-beta.3 版本更新日志  \n**张灵锋**  \n[#WSHOP-28359](https://wfwl.pingcode.com/agile/items/66597d8a13ef304fd9585d87) 【小功能】【A】【应用中心-地区访问限制】自动添加登陆IP至白名单调整为手动添加本机IP至白名单 !4940\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.0-beta.3](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.0-beta.3)"
+    },
+    {
+        "name": "v1.47.0-beta.2",
+        "desc": "##  MSHOP 管理端 v1.47.0-beta.2 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28498](https://wfwl.pingcode.com/agile/items/66850278a22f834125156640) 【小功能】【A】【应用 - 商品规格调色板】调色板添加规格弹窗支持搜索 !4942\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.0-beta.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.0-beta.2)"
+    },
+    {
+        "name": "v1.47.0-beta.1",
+        "desc": "##  MSHOP 管理端 v1.47.0-beta.1 版本更新日志  \n**杨辉**  \n[#WSHOP-28203](https://wfwl.pingcode.com/agile/items/666175a7f8ba035c1e791947) 【大功能】【A】【广告服务-广告助手】广告助手支持多条件筛选 !4908\n\n\n\n---------------\n## 最小依赖后端版本[v1.47.0-beta.1](https://git.papamk.com/xgrit/wshop/-/releases/v1.47.0-beta.1)"
+    },
+    {
+        "name": "v1.46.19",
+        "desc": "##  MSHOP 管理端 v1.46.19 版本更新日志  \n**杨辉**  \n[#WSHOP-28426](https://wfwl.pingcode.com/agile/items/667d27d18591ddbde61b9481) 【缺陷】【通用组件】商品列表关键字筛选选择组件下拉箭头未展示 !4947\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.18",
+        "desc": "##  MSHOP 管理端 v1.46.18 版本更新日志  \n**张灵锋**  \n[#WSHOP-28599](https://wfwl.pingcode.com/agile/items/668de826cbb0e1c6386b5a8b) 【缺陷】【TD同步】【应用中心-促销倒计时】提示信息文案有误 !4944\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.17",
+        "desc": "##  MSHOP 管理端 v1.46.17 版本更新日志  \n**张灵锋**  \n[#WSHOP-28505](https://wfwl.pingcode.com/agile/items/668642cb58d7213c3bfe7b89) 【缺陷】【应用中心-地区访问限制】本地缓存JSON.parse读取报错导致地区访问限制应用打不开 !4937  \n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.16",
+        "desc": "##  MSHOP 管理端 v1.46.16 版本更新日志  \n**方全勇**  \n[#4423744517](https://project.feishu.cn/novas/storys/detail/4423744517) 【需求】调整sandbox的nginx配置，减少内存消耗\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.15",
+        "desc": "无效版本\n"
+    },
+    {
+        "name": "v1.46.14",
+        "desc": "##  MSHOP 管理端 v1.46.14 版本更新日志  \n**张灵锋**  \n[#WSHOP-28454](https://wfwl.pingcode.com/agile/items/66827049bd199b763892b896) 【严重缺陷】【全局】进入部分页面，页面直接空白 !4927\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.13",
+        "desc": "##  MSHOP 管理端 v1.46.13 版本更新日志  \n**张灵锋**  \n[#WSHOP-28317](https://wfwl.pingcode.com/agile/items/6671384af8ba035c1ea23673) 【小优化】【技术改进】流水区分TD项目与shoprise !4904\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.12",
+        "desc": "##  MSHOP 管理端 v1.46.12 版本更新日志  \n**杨辉**  \n[#WSHOP-28418](https://wfwl.pingcode.com/agile/items/667cd87310f693dac11d01d7) 【缺陷】【商品-商品分类】自动分类分类条件商品标签不等于提示符号应为i !4924  \n**卓晓晖**  \n[#WSHOP-27617](https://wfwl.pingcode.com/agile/items/662b08d8f512a0f5b231bcd6) 【缺陷】【设置-收款方式】现有支付网关配置存在中文字符提示信息修正 !4923  \n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.11",
+        "desc": "##  MSHOP 管理端 v1.46.11 版本更新日志  \n**张灵锋**  \n[#WSHOP-28417](https://wfwl.pingcode.com/agile/items/667cd786db988092a74dcb5d) 【缺陷】【通用组件】商品标签和商品分类筛选控件连续点击选中取消选中分类或标签时，出现重复 !4921  \n[#WSHOP-28423](https://wfwl.pingcode.com/agile/items/667ce425fc050df98568ad91) 【严重缺陷】【通用组件】商品标签和商品分类筛选控件勾选标签或分类后，同样的标签或分类先展示两次后再展示一次 !4921  \n[#WSHOP-28387](https://wfwl.pingcode.com/agile/items/667a2f2a8591ddbde60dd36a) 【缺陷】【应用中心-商品置顶】置顶商品编辑页面，所选商品筛选无效 !4918  \n[#WSHOP-28425](https://wfwl.pingcode.com/agile/items/667d1f3b10f693dac11f29ba) 【缺陷】【通用组件】商品标签和商品分类下来列表加载样式不够美观 \\\n**卓晓晖**  \n[#WSHOP-28342](https://wfwl.pingcode.com/agile/items/6672ab20f8ba035c1ea8cc3d) 【缺陷】【商品-商品列表】商品详情页分类添加控件，通过slug筛选分类被过滤 !4920\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.10",
+        "desc": "##  MSHOP 管理端 v1.46.10 版本更新日志  \n**张灵锋**  \n[#WSHOP-28384](https://wfwl.pingcode.com/agile/items/667a1fb1c5726f1522a8a283) 【缺陷】【应用中心-常见问题解答（FAQ）】编辑分组时无保存成功的提示信息 !4914\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.9",
+        "desc": "##  MSHOP 管理端 v1.46.9 版本更新日志  \n**张灵锋**  \n[#WSHOP-27530](https://wfwl.pingcode.com/agile/items/6625fe631ba752fbd5bf08d8) 【小功能】客户线合并【A】【博客】博客专辑和博客支持使用slug搜索 !4907\n\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.8",
+        "desc": "##  MSHOP 管理端 v1.46.8 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28379](https://wfwl.pingcode.com/agile/items/66792c1ec5726f1522a64b75) 【缺陷】【设置-结账设置】支付排序中pp高级信用卡显示调整 !4913  \n[#WSHOP-28371](https://wfwl.pingcode.com/agile/items/6678e421f8ba035c1eb731fa) 【缺陷】【应用中心-组合商品】当商品标签和分类较多时，商品图片展示过小 !4911  \n[#WSHOP-28048](https://wfwl.pingcode.com/agile/items/665455fd035a311257ca58e3) 【小优化】【A】【设置-物流】物流方案支持分页显示 !4906  \n**张灵锋**  \n[#WSHOP-28283](https://wfwl.pingcode.com/agile/items/666beb21ff21ffe36743a722) 【缺陷】【商品-商品列表】进入商品详情页后返回商品列表，分类和标签选择控件未展示已选择的分类和标签 !4912  \n[#WSHOP-27939](https://wfwl.pingcode.com/agile/items/664b14e161f3c311c73e6fc1) 【小功能】【A】【商品模块】商品列表以及选择商品弹窗支持多标签、多分类选择 !4875  \n[#WSHOP-28124](https://wfwl.pingcode.com/agile/items/665e7c721141e7f7b11fa414) 【缺陷】【通用组件】店铺部署升级后，创建时间和最后更新时间默认位置应与重置后的相同 !4875  \n**杨辉**  \n[#WSHOP-28282](https://wfwl.pingcode.com/agile/items/66601dc68b5af64f7e85f5c4) 【小功能】【A】【商品-商品分类】自动分类标签筛选支持按照“不等于”规则筛选 !4903\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.7",
+        "desc": "##  MSHOP 管理端 v1.46.7 版本更新日志  \n**杨辉**  \n[#WSHOP-28202](https://wfwl.pingcode.com/agile/items/66612a4df8ba035c1e76f000) 【小功能】【A】【广告服务-广告助手】广告助手支持自动刷新数据   !4896  \n[#WSHOP-28008](https://wfwl.pingcode.com/agile/items/664f14335c371d468793cddd) 【小优化】【A】【系统模块】部分客户线合并需求改为高级模式下可见 !4878  \n**张灵锋**  \n[#WSHOP-28173](https://wfwl.pingcode.com/agile/items/666124ba1141e7f7b12afe44) 【大优化】V2主题【A】【全局】添加卡片调整与应用嵌入功能调整 !4887  \n[#WSHOP-27939](https://wfwl.pingcode.com/agile/items/664b14e161f3c311c73e6fc1) 【小功能】【A】【商品模块】商品列表以及选择商品弹窗支持多标签、多分类选择 !4875  \n[#WSHOP-28099](https://wfwl.pingcode.com/agile/items/665029aa13ef304fd939d184) 【小功能】【A】【数据-销售报告】销售报告-商品维度和SKU维度搜索框支持根据SPU、SKU等搜索 !4860  \n[#WSHOP-28124](https://wfwl.pingcode.com/agile/items/665e7c721141e7f7b11fa414) 【缺陷】【通用组件】店铺部署升级后，创建时间和最后更新时间默认位置应与重置后的相同 \\\n**卓晓晖**  \n[#WSHOP-27815](https://wfwl.pingcode.com/agile/items/6641d10c035a3112579047e6) 【大功能】【S】【支付模块】PayPal新增ACDC信用卡支付 !4859\n\n\n\n---------------\n## 最小依赖后端版本[v1.46.19](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.19)"
+    },
+    {
+        "name": "v1.46.6",
+        "desc": "##  MSHOP 管理端 v1.46.6 版本更新日志  \n**杨辉**  \n[#WSHOP-28159](https://wfwl.pingcode.com/agile/items/666023eaff21ffe3672367fa) 【缺陷】【应用中心-Pixel Conversion】偶现”您当前添加的像素在追踪设置的 Facebook Pixel 中已存在........\"提示框在像素编辑框的下层，被遮挡看不到   !4905  \n\n\n\n---------------\n## 最小依赖后端版本[v1.46.3](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.3)"
+    },
+    {
+        "name": "v1.46.5",
+        "desc": "##  MSHOP 管理端 v1.46.5 版本更新日志  \n**杨辉**  \n[#WSHOP-28303](https://wfwl.pingcode.com/agile/items/666fdc8b8591ddbde6ed9ffc) 【缺陷】【应用中心】私有应用列表的“Token”与其它字段行未对齐 !4899\n\n\n---------------\n## 最小依赖后端版本[v1.46.3](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.3)"
+    },
+    {
+        "name": "v1.46.4",
+        "desc": "##  MSHOP 管理端 v1.46.4 版本更新日志  \n**张灵锋**  \n[#WSHOP-28308](https://wfwl.pingcode.com/agile/items/66700985c5726f15228ad353) 【应用中心-心愿清单】正常模式编辑“心愿清单配置”会提示有字段必填 !4897\n\n\n---------------\n## 最小依赖后端版本[v1.46.3](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.3)"
+    },
+    {
+        "name": "v1.46.3",
+        "desc": "##  MSHOP 管理端 v1.46.3 版本更新日志  \n**卓晓晖**  \n[#WSHOP-26975](https://wfwl.pingcode.com/agile/items/65eed4873dafa91fa8f70fdb) 【缺陷】【设置-通知】邮件模板无法点击的按钮，鼠标移入时不应显示手型 !4891\n\n\n---------------\n## 最小依赖后端版本[v1.46.3](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.3)"
+    },
+    {
+        "name": "v1.46.2",
+        "desc": "##  MSHOP 管理端 v1.46.2 版本更新日志  \n**卓晓晖**  \n[#WSHOP-26813](https://wfwl.pingcode.com/agile/items/65d7145404ae6f86b7dd515c) 【缺陷】【设置模块-通知】获取站内通知接口，通知量较大时（当前30w+），会出现500报错而无法获取到通知 !4841\n\n\n---------------\n## 最小依赖后端版本[v1.46.3](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.3)"
+    },
+    {
+        "name": "v1.46.0",
+        "desc": "与v1.46.0-beta.5 同版本"
+    },
+    {
+        "name": "v1.46.1",
+        "desc": "##  MSHOP 管理端 v1.46.1 版本更新日志  \n\n\n与v1.46.0-beta.7 同版本"
+    },
+    {
+        "name": "v1.46.0-beta.7",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.7 版本更新日志  \n**张灵锋**  \n!回滚 [#WSHOP-28173](https://wfwl.pingcode.com/agile/items/666124ba1141e7f7b12afe44) 【大优化】V2主题【A】【全局】添加卡片调整与应用嵌入功能调整 !4868\n\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.11](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.11)"
+    },
+    {
+        "name": "v1.46.0-beta.6",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.6 版本更新日志  \n**卓晓晖**  \n[#WSHOP-28094](https://wfwl.pingcode.com/agile/items/665847de4de2e7e6c9239c68) 【缺陷】【物流】mshop店铺复制运费规则后，马上删除复制的运费、删除失败 !4877  \n\n**张灵锋**  \n[#WSHOP-27661](https://wfwl.pingcode.com/agile/items/662f0d56ef67c0602fe4c32f) 【缺陷】【主题模块-店铺装修】访问店铺装修菜单后，进入商品信息编辑页面，全屏展示富文本，回到店铺装修，模板名称自动加粗 !4874  \n[#WSHOP-28173](https://wfwl.pingcode.com/agile/items/666124ba1141e7f7b12afe44) 【大优化】V2主题【A】【全局】添加卡片调整与应用嵌入功能调整 !4868 \\\n[#WSHOP-28043](https://wfwl.pingcode.com/agile/items/66555525035a311257cd47f3) 【缺陷】【物流】编辑配送区域弹窗，筛选后、取消选中部分国家/地区，其它地区也会被取消选中  \\\n[#WSHOP-28095](https://wfwl.pingcode.com/agile/items/66584a6837641c459a9bea8b) 【缺陷】【物流】mshop店铺，只剩下一个省州未选择时，添加配送区域点击“全部可选国家/地区”、大洲没有显示成选中状态\n\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.11](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.11)"
+    },
+    {
+        "name": "v1.46.0-beta.5",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.5 版本更新日志  \n**张灵锋**  \n[#WSHOP-27986](https://wfwl.pingcode.com/agile/items/664f0c0561f3c311c74e96d0) 【大功能】客户线合并【A】【博客-博客管理】博客模块优化（新增博客主页、丰富博客专辑、详情页内容，优化博客相关页面布局样式等）   !4845  \n[#WSHOP-27985](https://wfwl.pingcode.com/agile/items/664f186c5aa257ee917f7696) 【小功能】客户线合并【A】【博客-博客专辑】博客专辑中博客排序方式增加按博客更新时间从新到旧展示   !4845  \n[#WSHOP-27984](https://wfwl.pingcode.com/agile/items/664f19b913ef304fd9370cf4) 【小功能】客户线合并【A】【博客-博客专辑】博客主页中显示的博客专辑列表，博客专辑支持按照专辑内的博客数进行排列   !4845  \n[#WSHOP-27987](https://wfwl.pingcode.com/agile/items/664f16ed5aa257ee917f6c8a) 【大功能】客户线合并【A】【主题-Athena】SEO优化需求：商品列表页、商品详情页、博客相关页面支持显示面包屑导航 !4845\n\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.11](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.11)"
+    },
+    {
+        "name": "v1.46.0-beta.4",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.4 版本更新日志  \n**杨辉**  \n[#WSHOP-27919](https://wfwl.pingcode.com/agile/items/664ab02261f3c311c73ac851) 【大优化】【技术改进】广告助手双源数据切换调用 !4831\n\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.2)"
+    },
+    {
+        "name": "v1.46.0-beta.3",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.3 版本更新日志  \n**张灵锋**  \n[#WSHOP-28188](https://wfwl.pingcode.com/agile/items/66617b61db988092a7ffbb69) 【缺陷】【应用中心-广告助手】若广告花费存在0.00和不存在的数据，广告花费排序会异常 !4869\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.2)"
+    },
+    {
+        "name": "v1.46.0-beta.2",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.2 版本更新日志  \n**张灵锋**  \n[#WSHOP-28154](https://wfwl.pingcode.com/agile/items/665ffa3c0f62d8f3b6412c7b) 【缺陷】【商品-商品列表】商品列表操作更新商品后，最后更新时间未跟随刷新 !4866  \n[#WSHOP-27908](https://wfwl.pingcode.com/agile/items/6646fffd61f3c311c73628b6) 【缺陷】【顾客】当顾客姓名过长时，注册状态、国家/地区等字段换行显示 !4861\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.2](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.2)"
+    },
+    {
+        "name": "v1.46.0-beta.1",
+        "desc": "##  MSHOP 管理端 v1.46.0-beta.1 版本更新日志  \n**张灵锋**  \n[#WSHOP-28105](https://wfwl.pingcode.com/agile/items/665973b461f3c311c77014e4) 【缺陷】【主题-店铺装修】主题编辑器中新增应用-邮件订阅后删除，再次进入主题编辑器新增邮件订阅应用可添加总数显示undefined !4863  \n[#WSHOP-27899](https://wfwl.pingcode.com/agile/items/6645d5034de2e7e6c9ea10f7) 【小功能】客户线合并【A】【应用中心-Instagram】编辑帖子页面帖子列表按帖子发布时间倒序排列 !4838  \n[#WSHOP-27940](https://wfwl.pingcode.com/agile/items/664af69a61f3c311c73d1dee) 【小功能】【A】【商品模块】商品信息中添加商品创建时间与最后更新时间 !4830  \n**卓晓晖**  \n[#WSHOP-27735](https://wfwl.pingcode.com/agile/items/662f598cd6ddd4eca583ca23) 【小功能】【A】【广告服务】Google Analytics支持使用Measurement Protocol增强订单事件 !4832  \n[#WSHOP-27736](https://wfwl.pingcode.com/agile/items/66306b6452cdc4623f1fc84a) 【小功能】【A】【应用 - Pixel Conversion】验证fb像素时，若网络异常则给出提示 !4825\n\n---------------\n## 最小依赖后端版本[v1.46.0-beta.1](https://git.papamk.com/xgrit/wshop/-/releases/v1.46.0-beta.1)"
+    }
+]
