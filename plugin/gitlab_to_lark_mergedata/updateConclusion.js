@@ -1,5 +1,5 @@
 const { versionToWeight } = require('./utils');
-const { projectMap, workItemMap, workItemEnum, filesAliasEnum, testResultEnum, quanzhongKey, applicationKey, hotFixKey, lineOverNum } = require("./config");
+const { projectMap, workItemMap, workItemEnum, filesAliasEnum, testResultEnum, quanzhongKey, applicationKey, hotFixKey, lineOverNum } = require("./config_prd");
 const LarkProjectService = require('../../service/larkProject');
 
 async function updateConclusion(body, larkInterface) {
@@ -13,13 +13,16 @@ async function updateConclusion(body, larkInterface) {
     if (larkInterface) {
         larkService = larkInterface
     } else {
-        const larkKey = '667bc61ab77f92d209799c85'
+        const larkKey = '64998d0966831488c85ee14c' // 正式
+        // const larkKey = '667bc61ab77f92d209799c85'  // 测试
         larkService = await getLarkService(larkKey);
     }
 
     const { id: itemId } = body.payload;
     const createValueArr = await getFileValue(larkService, workItemEnum['缺陷管理'], itemId, filesAliasEnum['引入版本'])
     const fixValueArr = await getFileValue(larkService, workItemEnum['缺陷管理'], itemId, filesAliasEnum['修复版本'])
+    console.log('引入版本:', createValueArr)
+    console.log('修复版本:', fixValueArr)
     // 错误数据类型过滤
     if (createValueArr.length == 0 || fixValueArr.length == 0) {
         console.log('原数据缺失-执行中断')
@@ -44,6 +47,9 @@ async function updateConclusion(body, larkInterface) {
     let fixItemInfoArr = mergeItemInfoArr.filter(i => {
         return fixValueArr.includes(i.id)
     })
+    // 过滤掉没有版本结论的修复版本
+    fixItemInfoArr = fixItemInfoArr.filter(i => i.has_test_result)
+
     if (createItemInfoArr.filter(node => !node.is_hotfix).length == 0) {
         console.log('原数据缺失-引入版本nomal为空-执行中断')
         return
@@ -120,8 +126,10 @@ async function updateConclusion(body, larkInterface) {
             }
         ]
     }
-    await updateVersionItem(larkService, normalIdArr, params_n, '设置不通过')
-    await updateVersionItem(larkService, [...hotfixPassArr.map(n => n.id), ...passArr], params_p, '设置通过')
+    // await updateVersionItem(larkService, normalIdArr, params_n, '设置不通过')
+    // await updateVersionItem(larkService, [...hotfixPassArr.map(n => n.id), ...passArr], params_p, '设置通过')
+    return Promise.resolve('success')
+
 }
 // 过滤全量类型
 async function filterGloble(larkService, baseArr) {
@@ -367,6 +375,8 @@ async function updateVersionItem(larkService, itemidArr, params, log = '默认�
         return Promise.all(asyncArr)
     };
 
+    console.log('预计更新片段组数:', queryArr);
+
     do {
         let arr = queryArr.splice(0, 1)[0]
         await updateFun(larkService, arr, params, log)
@@ -423,7 +433,17 @@ async function getItemInfo(larkService, workItemkey, params) {
         let obj3 = i.fields.filter(res => {
             return res.field_alias == 'application'
         })
-        return { ...i, version_weights: obj[0].field_value, version_weights_key: obj[0].field_key, is_hotfix: obj2[0].field_value, application: [obj3[0].field_value[0].value] }
+        let obj4 = i.fields.filter(res => {
+            return res.field_alias == 'test_result'
+        })
+        
+        return {
+            ...i, version_weights: obj[0].field_value,
+            version_weights_key: obj[0].field_key,
+            is_hotfix: obj2[0].field_value,
+            application: [obj3[0].field_value[0].value],
+            has_test_result: obj4[0]?!!obj4[0].field_value:!!obj4[0]
+        }
     })
     return ItemData
 }

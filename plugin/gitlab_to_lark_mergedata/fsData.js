@@ -5,6 +5,7 @@ const dataJsonPath = path.join(__dirname, 'data.json');
 const dataArrJsonPath = path.join(__dirname, 'dataArr.json');
 const errorJsonPath = path.join(__dirname, 'error.json');
 const logsJsonPath = path.join(__dirname, 'dlogs.json');
+const textPath = path.join(__dirname, 'longdata.txt');
 
 // 根据传入的url路径读取文件内容
 function readFileSync(url) {
@@ -34,12 +35,18 @@ function writeFileSync(data, type = 1) {
         case 4:
             path = logsJsonPath;
             break;
+        case 5:
+            path = textPath;
+            break;
     }
     try {
-        let baseData = readFileSync(path) || [];
-        baseData.push(data);
-        const mergeData = JSON.stringify(baseData);
-        fs.writeFileSync(path, mergeData);
+        // let baseData = readFileSync(path) || [];
+        // baseData.push(data);
+        // const mergeData = JSON.stringify(baseData);
+        let baseData = readFileSync(path) || '';
+        baseData += data;
+        // const mergeData = JSON.stringify(baseData);
+        fs.writeFileSync(path, baseData);
     } catch (err) {
         console.error('写入失败:', err);
     }

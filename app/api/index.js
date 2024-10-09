@@ -267,12 +267,13 @@ router.post('/', async (ctx, next) => {
     // const { Data } = body
     // const reldata = decryption(Date)
 
-    console.log(body.header);
-    // console.log(body.payload);
-    const header = body.header;
-    if (header && header.event_type && header.event_type == 'WorkitemUpdateEvent') {
-        updateConclusion(body);
-    }
+    console.log(body);
+    console.log(body.payload.id);
+    await updateConclusion(body);
+    // const header = body.header;
+    // if (header && header.event_type && header.event_type == 'WorkitemUpdateEvent') {
+       
+    // }
 
     // handler(ctx.request,ctx.response)
 
